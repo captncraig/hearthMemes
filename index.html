@@ -54,7 +54,7 @@
 
 <body ng-controller="MemeController as ct">
     <div class='full' ng-show='ct.mode == "preview"'>
-        <div id='main' ng-click='ct.addCard()'></div>
+        <div id='main' ng-click='ct.addCard($event)'></div>
     </div>
     <div class='container' ng-show='ct.mode == "list"'>
         <div ng-repeat="card in ct.pageCards" class='card-image' ng-style='ct.cardStyle(card)' ng-click='ct.playSound(card.PlaySound)'
@@ -104,7 +104,8 @@
                         ["Create a Site!", function () { }]
                     ]
                 }
-                ct.addCard = function () {
+                ct.addCard = function (ev) {
+                    console.log(ev);
                     var c = ct.previewCard;
                     // var e = a.clientX, n = a.clientY, t = document.createElement("img");
                     // t.className = "card";
