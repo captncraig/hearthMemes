@@ -82,7 +82,7 @@
                 ct.changePage = function (p) {
                     ct.page = p;
                     var start = (p - 1) * ct.pageSize;
-                    ct.pageCards = ct.filteredCards.slice(start, start + 15);
+                    ct.pageCards = ct.filteredCards.slice(start, start + ct.pageSize);
                 }
                 ct.cardStyle = function (card) {
                     return {
