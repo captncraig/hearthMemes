@@ -43,11 +43,15 @@ export default class Browse extends Component<BrowseProps, BrowseState> {
     render(props: BrowseProps, state: BrowseState) {
         var filteredCards = allCards;
         if (state.filter){
-            filteredCards = filteredCards.filter((c)=>c.name.match(state.filter))
+            filteredCards = filteredCards.filter((c)=>c.name.toLowerCase().indexOf(state.filter.toLowerCase()) !== -1)
+        }
+        var page = state.page
+        var numPages = Math.ceil(filteredCards.length / this.perPage);
+        if (page >= numPages){
+            page = numPages - 1;
         }
         var start = state.page * this.perPage;
         var pageCards = filteredCards.slice(start, start + this.perPage);
-        var numPages = Math.ceil(filteredCards.length / this.perPage);
         return <div className='container'>
             <div class='flex-ver'>
                 <div class='flex-hor'>
@@ -55,7 +59,7 @@ export default class Browse extends Component<BrowseProps, BrowseState> {
                 </div>
                 <div class='flex-hor'>
                     <button className='btn btn-default' onClick={this.prevPage}>prev</button>
-                    {state.page + 1}/{numPages}
+                    {page + 1}/{numPages}
                     <button className='btn btn-default' onClick={this.nextPage}>next</button>
                 </div>
                 <div class='flex-hor'>

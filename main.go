@@ -43,7 +43,7 @@ const mediaBase = "http://media.services.zam.com/v1/media/byName"
 func main() {
 	page := 1
 	for {
-		url := fmt.Sprintf("http://hearthstone.services.zam.com/v1/card?type=MINION&page=%d&pageSize=100", page)
+		url := fmt.Sprintf("http://hearthstone.services.zam.com/v1/card?type=MINION,HERO&page=%d&pageSize=100", page)
 		resp, err := http.Get(url)
 		check(err)
 		dec := json.NewDecoder(resp.Body)

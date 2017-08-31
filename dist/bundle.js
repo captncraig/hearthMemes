@@ -1068,7 +1068,7 @@ var __extends = (this && this.__extends) || (function () {
 Object.defineProperty(exports, "__esModule", { value: true });
 var preact_1 = __webpack_require__(0);
 var browse_1 = __webpack_require__(3);
-var preact_router_1 = __webpack_require__(7);
+var preact_router_1 = __webpack_require__(8);
 var Home = /** @class */ (function (_super) {
     __extends(Home, _super);
     function Home() {
@@ -1110,7 +1110,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var preact_1 = __webpack_require__(0);
 var cards_1 = __webpack_require__(4);
 var howler_1 = __webpack_require__(5);
-var linkstate_1 = __webpack_require__(8);
+var linkstate_1 = __webpack_require__(7);
 var howlCache = [];
 var Browse = /** @class */ (function (_super) {
     __extends(Browse, _super);
@@ -1147,18 +1147,22 @@ var Browse = /** @class */ (function (_super) {
         var _this = this;
         var filteredCards = cards_1.cards;
         if (state.filter) {
-            filteredCards = filteredCards.filter(function (c) { return c.name.match(state.filter); });
+            filteredCards = filteredCards.filter(function (c) { return c.name.toLowerCase().indexOf(state.filter.toLowerCase()) !== -1; });
+        }
+        var page = state.page;
+        var numPages = Math.ceil(filteredCards.length / this.perPage);
+        if (page >= numPages) {
+            page = numPages - 1;
         }
         var start = state.page * this.perPage;
         var pageCards = filteredCards.slice(start, start + this.perPage);
-        var numPages = Math.ceil(filteredCards.length / this.perPage);
         return preact_1.h("div", { className: 'container' },
             preact_1.h("div", { class: 'flex-ver' },
                 preact_1.h("div", { class: 'flex-hor' },
                     preact_1.h("input", { value: state.filter, onInput: linkstate_1.default(this, 'filter') })),
                 preact_1.h("div", { class: 'flex-hor' },
                     preact_1.h("button", { className: 'btn btn-default', onClick: this.prevPage }, "prev"),
-                    state.page + 1,
+                    page + 1,
                     "/",
                     numPages,
                     preact_1.h("button", { className: 'btn btn-default', onClick: this.nextPage }, "next")),
@@ -2398,6 +2402,17 @@ exports.cards = [
         "attack_sound": "files/VO_EX1_012_Attack_02.ogg",
         "image": "files/EX1_012.png",
         "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_012_premium.gif"
+    },
+    {
+        "card_id": "ICC_831",
+        "set": "ICECROWN",
+        "name": "Bloodreaver Gul'dan",
+        "collectible": true,
+        "flavor_text": "\"Still you refuse to bend your knee? None can escape death, you old fool. And in death… all will serve me…\"",
+        "play_sound": "files/VO_ICC_831_Male_Orc_Play_01.ogg",
+        "attack_sound": "files/VO_ICC_831_Male_Orc_Attack_01.ogg",
+        "image": "files/ICC_831.png",
+        "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_831_premium.gif"
     },
     {
         "card_id": "NEW1_025",
@@ -3817,6 +3832,17 @@ exports.cards = [
         "attack_sound": "files/VO_ICC_467_Female_Nerubian_Attack_01.ogg",
         "image": "files/ICC_467.png",
         "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_467_premium.gif"
+    },
+    {
+        "card_id": "ICC_828",
+        "set": "ICECROWN",
+        "name": "Deathstalker Rexxar",
+        "collectible": true,
+        "flavor_text": "\"You were too slow, old friend. The hunt began long ago. And now... it will never end.\"",
+        "play_sound": "files/VO_ICC_828_Male_Orc_Play_01.ogg",
+        "attack_sound": "files/VO_ICC_828_Male_Orc_Attack_02.ogg",
+        "image": "files/ICC_828.png",
+        "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_828_premium.gif"
     },
     {
         "card_id": "NEW1_030",
@@ -5489,6 +5515,17 @@ exports.cards = [
         "attack_sound": "files/SFX_AT_120_Attack_01.ogg",
         "image": "files/AT_120.png",
         "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_120_premium.gif"
+    },
+    {
+        "card_id": "ICC_833",
+        "set": "ICECROWN",
+        "name": "Frost Lich Jaina",
+        "collectible": true,
+        "flavor_text": "\"Arthas was a spoiled child, playing with toys he could neither control nor understand. Come into the cold. I will show you the true power of the Frozen Throne.\"",
+        "play_sound": "files/VO_ICC_833_Female_Human_Play_04.ogg",
+        "attack_sound": "files/VO_ICC_833_Female_Human_Attack_01.ogg",
+        "image": "files/ICC_833.png",
+        "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_833_premium.gif"
     },
     {
         "card_id": "ICC_832t3",
@@ -7788,6 +7825,17 @@ exports.cards = [
         "attack_sound": "files/VO_KAR_089_Male_Imp_Attack_02.ogg",
         "image": "files/KAR_089.png",
         "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_089_premium.gif"
+    },
+    {
+        "card_id": "ICC_832",
+        "set": "ICECROWN",
+        "name": "Malfurion the Pestilent",
+        "collectible": true,
+        "flavor_text": "\"Cenarius once taught me about the precarious balance between life and death. I have come to understand: there IS no balance. Death always wins.\"",
+        "play_sound": "files/VO_ICC_832_Male_NightElf_Play_02.ogg",
+        "attack_sound": "files/VO_ICC_832_Male_NightElf_Attack_01.ogg",
+        "image": "files/ICC_832.png",
+        "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_832_premium.gif"
     },
     {
         "card_id": "OG_220",
@@ -10210,6 +10258,17 @@ exports.cards = [
         "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_531_premium.gif"
     },
     {
+        "card_id": "ICC_834",
+        "set": "ICECROWN",
+        "name": "Scourgelord Garrosh",
+        "collectible": true,
+        "flavor_text": "\"You dare to challenge me? Come! Draw your last breath - and then, you are mine.\"",
+        "play_sound": "files/VO_ICC_834_Male_Orc_Play_01.ogg",
+        "attack_sound": "files/VO_ICC_834_Male_Orc_Attack_02.ogg",
+        "image": "files/ICC_834.png",
+        "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_834_premium.gif"
+    },
+    {
         "card_id": "GVG_055",
         "set": "GVG",
         "name": "Screwjank Clunker",
@@ -10483,6 +10542,17 @@ exports.cards = [
         "attack_sound": "files/SFX_AT_014_Attack.ogg",
         "image": "files/AT_014.png",
         "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_014_premium.gif"
+    },
+    {
+        "card_id": "ICC_830",
+        "set": "ICECROWN",
+        "name": "Shadowreaper Anduin",
+        "collectible": true,
+        "flavor_text": "\"I will tell you what Velen never taught me. Whosoever stands before the Light… inevitably casts a shadow.\"",
+        "play_sound": "files/VO_ICC_830_Male_Human_Play_01.ogg",
+        "attack_sound": "files/VO_ICC_830_Male_Human_Attack_01.ogg",
+        "image": "files/ICC_830.png",
+        "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_830_premium.gif"
     },
     {
         "card_id": "AT_032",
@@ -12069,6 +12139,17 @@ exports.cards = [
         "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_829t3_premium.gif"
     },
     {
+        "card_id": "ICC_481",
+        "set": "ICECROWN",
+        "name": "Thrall, Deathseer",
+        "collectible": true,
+        "flavor_text": "\"Do not be afraid. Approach. The dead will sleep… for now.\"",
+        "play_sound": "files/VO_ICC_481_Male_Orc_Play_01.ogg",
+        "attack_sound": "files/VO_ICC_481_Male_Orc_Attack_02.ogg",
+        "image": "files/ICC_481.png",
+        "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_481_premium.gif"
+    },
+    {
         "card_id": "EX1_021",
         "set": "CLASSIC",
         "name": "Thrallmar Farseer",
@@ -12773,6 +12854,17 @@ exports.cards = [
         "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_302_premium.gif"
     },
     {
+        "card_id": "ICC_829",
+        "set": "ICECROWN",
+        "name": "Uther of the Ebon Blade",
+        "collectible": true,
+        "flavor_text": "\"Step forward. Confess! Once I was a mere servant of the Light. Now I alone stand in judgement.\"",
+        "play_sound": "files/VO_ICC_829_Male_Human_Play_02.ogg",
+        "attack_sound": "files/VO_ICC_829_Male_Human_Attack_01.ogg",
+        "image": "files/ICC_829.png",
+        "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_829_premium.gif"
+    },
+    {
         "card_id": "GVG_111t",
         "set": "GVG",
         "name": "V-07-TR-0N",
@@ -12815,6 +12907,17 @@ exports.cards = [
         "attack_sound": "files/VO_ICC_408_Female_ValKyr_Attack_01.ogg",
         "image": "files/ICC_408.png",
         "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_408_premium.gif"
+    },
+    {
+        "card_id": "ICC_827",
+        "set": "ICECROWN",
+        "name": "Valeera the Hollow",
+        "collectible": true,
+        "flavor_text": "\"Run away. Hide in your precious keeps, behind your walls and your bodyguards. Night always falls, and shadows will fill your hallowed halls. One day, one of those shadows will be me.\"",
+        "play_sound": "files/VO_ICC_827_Female_BloodElf_Play_01.ogg",
+        "attack_sound": "files/VO_ICC_827_Female_BloodElf_Attack_01.ogg",
+        "image": "files/ICC_827.png",
+        "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_827_premium.gif"
     },
     {
         "card_id": "OG_200",
@@ -16530,6 +16633,45 @@ module.exports = g;
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+function dlv(obj, key, def, p) {
+	p = 0;
+	key = key.split ? key.split('.') : key;
+	while (obj && p<key.length) { obj = obj[key[p++]]; }
+	return obj===undefined ? def : obj;
+}
+
+/** Create an Event handler function that sets a given state property.
+ *	@param {Component} component	The component whose state should be updated
+ *	@param {string} key				A dot-notated key path to update in the component's state
+ *	@param {string} eventPath		A dot-notated key path to the value that should be retrieved from the Event or component
+ *	@returns {function} linkedStateHandler
+ */
+function linkState(component, key, eventPath) {
+	var path = key.split('.');
+	return function(e) {
+		var t = e && e.target || this,
+			state = {},
+			obj = state,
+			v = typeof eventPath==='string' ? dlv(e, eventPath) : t.nodeName ? (t.type.match(/^che|rad/) ? t.checked : t.value) : e,
+			i = 0;
+		for ( ; i<path.length-1; i++) {
+			obj = obj[path[i]] || (obj[path[i]] = !i && component.state[path[i]] || {});
+		}
+		obj[path[i]] = v;
+		component.setState(state);
+	};
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (linkState);
+//# sourceMappingURL=linkstate.es.js.map
+
+
+/***/ }),
+/* 8 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "subscribers", function() { return subscribers; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getCurrentUrl", function() { return getCurrentUrl; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "route", function() { return route; });
@@ -16892,45 +17034,6 @@ Router.Link = Link;
 
 /* harmony default export */ __webpack_exports__["default"] = (Router);
 //# sourceMappingURL=preact-router.es.js.map
-
-
-/***/ }),
-/* 8 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-function dlv(obj, key, def, p) {
-	p = 0;
-	key = key.split ? key.split('.') : key;
-	while (obj && p<key.length) { obj = obj[key[p++]]; }
-	return obj===undefined ? def : obj;
-}
-
-/** Create an Event handler function that sets a given state property.
- *	@param {Component} component	The component whose state should be updated
- *	@param {string} key				A dot-notated key path to update in the component's state
- *	@param {string} eventPath		A dot-notated key path to the value that should be retrieved from the Event or component
- *	@returns {function} linkedStateHandler
- */
-function linkState(component, key, eventPath) {
-	var path = key.split('.');
-	return function(e) {
-		var t = e && e.target || this,
-			state = {},
-			obj = state,
-			v = typeof eventPath==='string' ? dlv(e, eventPath) : t.nodeName ? (t.type.match(/^che|rad/) ? t.checked : t.value) : e,
-			i = 0;
-		for ( ; i<path.length-1; i++) {
-			obj = obj[path[i]] || (obj[path[i]] = !i && component.state[path[i]] || {});
-		}
-		obj[path[i]] = v;
-		component.setState(state);
-	};
-}
-
-/* harmony default export */ __webpack_exports__["default"] = (linkState);
-//# sourceMappingURL=linkstate.es.js.map
 
 
 /***/ })

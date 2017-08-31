@@ -1229,6 +1229,17 @@ export interface Card {
     "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_012_premium.gif"
   },
   {
+    "card_id": "ICC_831",
+    "set": "ICECROWN",
+    "name": "Bloodreaver Gul'dan",
+    "collectible": true,
+    "flavor_text": "\"Still you refuse to bend your knee? None can escape death, you old fool. And in death… all will serve me…\"",
+    "play_sound": "files/VO_ICC_831_Male_Orc_Play_01.ogg",
+    "attack_sound": "files/VO_ICC_831_Male_Orc_Attack_01.ogg",
+    "image": "files/ICC_831.png",
+    "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_831_premium.gif"
+  },
+  {
     "card_id": "NEW1_025",
     "set": "CLASSIC",
     "name": "Bloodsail Corsair",
@@ -2646,6 +2657,17 @@ export interface Card {
     "attack_sound": "files/VO_ICC_467_Female_Nerubian_Attack_01.ogg",
     "image": "files/ICC_467.png",
     "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_467_premium.gif"
+  },
+  {
+    "card_id": "ICC_828",
+    "set": "ICECROWN",
+    "name": "Deathstalker Rexxar",
+    "collectible": true,
+    "flavor_text": "\"You were too slow, old friend. The hunt began long ago. And now... it will never end.\"",
+    "play_sound": "files/VO_ICC_828_Male_Orc_Play_01.ogg",
+    "attack_sound": "files/VO_ICC_828_Male_Orc_Attack_02.ogg",
+    "image": "files/ICC_828.png",
+    "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_828_premium.gif"
   },
   {
     "card_id": "NEW1_030",
@@ -4318,6 +4340,17 @@ export interface Card {
     "attack_sound": "files/SFX_AT_120_Attack_01.ogg",
     "image": "files/AT_120.png",
     "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_120_premium.gif"
+  },
+  {
+    "card_id": "ICC_833",
+    "set": "ICECROWN",
+    "name": "Frost Lich Jaina",
+    "collectible": true,
+    "flavor_text": "\"Arthas was a spoiled child, playing with toys he could neither control nor understand. Come into the cold. I will show you the true power of the Frozen Throne.\"",
+    "play_sound": "files/VO_ICC_833_Female_Human_Play_04.ogg",
+    "attack_sound": "files/VO_ICC_833_Female_Human_Attack_01.ogg",
+    "image": "files/ICC_833.png",
+    "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_833_premium.gif"
   },
   {
     "card_id": "ICC_832t3",
@@ -6617,6 +6650,17 @@ export interface Card {
     "attack_sound": "files/VO_KAR_089_Male_Imp_Attack_02.ogg",
     "image": "files/KAR_089.png",
     "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_089_premium.gif"
+  },
+  {
+    "card_id": "ICC_832",
+    "set": "ICECROWN",
+    "name": "Malfurion the Pestilent",
+    "collectible": true,
+    "flavor_text": "\"Cenarius once taught me about the precarious balance between life and death. I have come to understand: there IS no balance. Death always wins.\"",
+    "play_sound": "files/VO_ICC_832_Male_NightElf_Play_02.ogg",
+    "attack_sound": "files/VO_ICC_832_Male_NightElf_Attack_01.ogg",
+    "image": "files/ICC_832.png",
+    "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_832_premium.gif"
   },
   {
     "card_id": "OG_220",
@@ -9039,6 +9083,17 @@ export interface Card {
     "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_531_premium.gif"
   },
   {
+    "card_id": "ICC_834",
+    "set": "ICECROWN",
+    "name": "Scourgelord Garrosh",
+    "collectible": true,
+    "flavor_text": "\"You dare to challenge me? Come! Draw your last breath - and then, you are mine.\"",
+    "play_sound": "files/VO_ICC_834_Male_Orc_Play_01.ogg",
+    "attack_sound": "files/VO_ICC_834_Male_Orc_Attack_02.ogg",
+    "image": "files/ICC_834.png",
+    "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_834_premium.gif"
+  },
+  {
     "card_id": "GVG_055",
     "set": "GVG",
     "name": "Screwjank Clunker",
@@ -9312,6 +9367,17 @@ export interface Card {
     "attack_sound": "files/SFX_AT_014_Attack.ogg",
     "image": "files/AT_014.png",
     "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_014_premium.gif"
+  },
+  {
+    "card_id": "ICC_830",
+    "set": "ICECROWN",
+    "name": "Shadowreaper Anduin",
+    "collectible": true,
+    "flavor_text": "\"I will tell you what Velen never taught me. Whosoever stands before the Light… inevitably casts a shadow.\"",
+    "play_sound": "files/VO_ICC_830_Male_Human_Play_01.ogg",
+    "attack_sound": "files/VO_ICC_830_Male_Human_Attack_01.ogg",
+    "image": "files/ICC_830.png",
+    "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_830_premium.gif"
   },
   {
     "card_id": "AT_032",
@@ -10898,6 +10964,17 @@ export interface Card {
     "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_829t3_premium.gif"
   },
   {
+    "card_id": "ICC_481",
+    "set": "ICECROWN",
+    "name": "Thrall, Deathseer",
+    "collectible": true,
+    "flavor_text": "\"Do not be afraid. Approach. The dead will sleep… for now.\"",
+    "play_sound": "files/VO_ICC_481_Male_Orc_Play_01.ogg",
+    "attack_sound": "files/VO_ICC_481_Male_Orc_Attack_02.ogg",
+    "image": "files/ICC_481.png",
+    "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_481_premium.gif"
+  },
+  {
     "card_id": "EX1_021",
     "set": "CLASSIC",
     "name": "Thrallmar Farseer",
@@ -11602,6 +11679,17 @@ export interface Card {
     "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_302_premium.gif"
   },
   {
+    "card_id": "ICC_829",
+    "set": "ICECROWN",
+    "name": "Uther of the Ebon Blade",
+    "collectible": true,
+    "flavor_text": "\"Step forward. Confess! Once I was a mere servant of the Light. Now I alone stand in judgement.\"",
+    "play_sound": "files/VO_ICC_829_Male_Human_Play_02.ogg",
+    "attack_sound": "files/VO_ICC_829_Male_Human_Attack_01.ogg",
+    "image": "files/ICC_829.png",
+    "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_829_premium.gif"
+  },
+  {
     "card_id": "GVG_111t",
     "set": "GVG",
     "name": "V-07-TR-0N",
@@ -11644,6 +11732,17 @@ export interface Card {
     "attack_sound": "files/VO_ICC_408_Female_ValKyr_Attack_01.ogg",
     "image": "files/ICC_408.png",
     "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_408_premium.gif"
+  },
+  {
+    "card_id": "ICC_827",
+    "set": "ICECROWN",
+    "name": "Valeera the Hollow",
+    "collectible": true,
+    "flavor_text": "\"Run away. Hide in your precious keeps, behind your walls and your bodyguards. Night always falls, and shadows will fill your hallowed halls. One day, one of those shadows will be me.\"",
+    "play_sound": "files/VO_ICC_827_Female_BloodElf_Play_01.ogg",
+    "attack_sound": "files/VO_ICC_827_Female_BloodElf_Attack_01.ogg",
+    "image": "files/ICC_827.png",
+    "gold_image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_827_premium.gif"
   },
   {
     "card_id": "OG_200",
