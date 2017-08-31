@@ -1,0 +1,25 @@
+{
+  "name": "hearthmemes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captncraig/hearthMemes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/captncraig/hearthMemes/issues"
+  },
+  "homepage": "https://github.com/captncraig/hearthMemes#readme",
+  "dependencies": {
+    "preact": "^8.2.5",
+    "ts-loader": "^2.3.4",
+    "typescript": "^2.6.0-dev.20170830",
+    "webpack": "^3.5.5"
+  }
+}

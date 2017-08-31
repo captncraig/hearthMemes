@@ -3,9 +3,13 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"io"
 	"log"
 	"net/http"
 	"os"
+	"path"
+	"path/filepath"
+	"strings"
 )
 
 func check(err error) {
@@ -90,6 +94,12 @@ func main() {
 			break
 		}
 	}
+	for _, c := range allCards {
+		c.AttackSound = getFile(c.AttackSound)
+		c.PlaySound = getFile(c.PlaySound)
+		c.Image = getFile(c.Image)
+		c.GoldImage = getFile(c.GoldImage)
+	}
 	f, err := os.Create("cards.js")
 	check(err)
 	f.WriteString("var cards = ")
@@ -98,4 +108,22 @@ func main() {
 	check(enc.Encode(allCards))
 	f.WriteString(";")
 	f.Close()
+}
+
+func getFile(name string) string {
+	split := strings.Split(name, "/")
+	last := split[len(split)-1]
+	fname := filepath.Join("files", last)
+	if _, err := os.Stat(fname); os.IsNotExist(err) {
+		fmt.Println(fname)
+		resp, err := http.Get(name)
+		check(err)
+		f, err := os.Create(fname)
+		check(err)
+		_, err = io.Copy(f, resp.Body)
+		check(err)
+		f.Close()
+		resp.Body.Close()
+	}
+	return path.Join("files", last)
 }

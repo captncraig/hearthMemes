@@ -6,7 +6,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_648t_Male_Ogre_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_648t_Male_Ogre_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_648t_Male_Ogre_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_648t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_648t_premium.gif"
   },
@@ -17,7 +17,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA01_010_Female_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA01_010_Female_Human_Attack_02.ogg",
+    "AttackSound": "files/VO_ICCA01_010_Female_Human_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA01_010.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA01_010.png"
   },
@@ -28,7 +28,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I berserk, therefore I am.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_150_Male_Troll_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_150_Male_Troll_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_150_Male_Troll_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_150.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_150_premium.gif"
   },
@@ -39,7 +39,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA_15_4_Aberration_Attack_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA_15_4_Aberration_Attack_1.ogg",
+    "AttackSound": "files/BRMA_15_4_Aberration_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA15_4.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA15_4.png"
   },
@@ -50,7 +50,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Abominations enjoy Fresh Meat and long walks on the beach.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_097_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_097_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_097_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_097.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_097_premium.gif"
   },
@@ -61,7 +61,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "ADD ME TO YOUR DECK, MAGGOT!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_188_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_188_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_188_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_188.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_188_premium.gif"
   },
@@ -72,7 +72,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Infernal_KARA_00_02a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Infernal_KARA_00_02a_Attack.ogg",
+    "AttackSound": "files/Infernal_KARA_00_02a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_00_02a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_00_02a.png"
   },
@@ -83,7 +83,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Kabal print this on every package of illicit Mana Crystals: WARNING - DO NOT PUT WITHIN REACH OF ABYSSALS. THIS IS NOT APPROVED FOR USE BY FLAMING DEMONS OF ANY KIND.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AbyssalEnforcer_CFM_751_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AbyssalEnforcer_CFM_751_Attack.ogg",
+    "AttackSound": "files/AbyssalEnforcer_CFM_751_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_751.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_751_premium.gif"
   },
@@ -94,7 +94,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This is my Runeblade. There are many like it but this one is mine.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_092_Female_BloodElf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_092_Female_BloodElf_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_092_Female_BloodElf_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_092.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_092_premium.gif"
   },
@@ -105,7 +105,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Oozes love Flamenco.  Don't ask.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_066_AcidicSwampOoze_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_066_AcidicSwampOoze_Attack.ogg",
+    "AttackSound": "files/EX1_066_AcidicSwampOoze_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_066.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_066_premium.gif"
   },
@@ -116,7 +116,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "With the help of his trusty sidekick Dreadscale, the giant jormungar Acidmaw is ready to face any knight!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_063_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_063_Attack.ogg",
+    "AttackSound": "files/SFX_AT_063_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_063.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_063_premium.gif"
   },
@@ -127,7 +127,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It takes many years of practiced study in order to fully master agony.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_212_Male_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_212_Male_Undead_Attack_03.ogg",
+    "AttackSound": "files/VO_ICC_212_Male_Undead_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_212.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_212_premium.gif"
   },
@@ -138,7 +138,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He trained when he was younger to be an acolyte of joy, but things didn’t work out like he thought they would.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_007_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_007_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_007_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_007.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_007_premium.gif"
   },
@@ -149,7 +149,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Druids who spend too long in bear form are more susceptible to the whispers of the Old Gods.  Right now they are whispering the lyrics to \"La Bamba\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_313_Female_Bear_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_313_Female_Bear_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_313_Female_Bear_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_313.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_313_premium.gif"
   },
@@ -160,7 +160,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Makes a mean puff pastry.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_019_AirElemental_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_019_AirElemental_Attack.ogg",
+    "AttackSound": "files/UNG_019_AirElemental_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_019.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_019_premium.gif"
   },
@@ -171,7 +171,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He is the weakest of the four Elemental Lords.  And the other three don't let him forget it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_010_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_010_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_010_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_010.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_010_premium.gif"
   },
@@ -182,7 +182,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "WARNING.  WARNING.  WARNING.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_006_AlarmOBot_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_006_AlarmOBot_Attack1.ogg",
+    "AttackSound": "files/EX1_006_AlarmOBot_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_006.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_006_premium.gif"
   },
@@ -193,7 +193,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Aldor hate two things: the Scryers and smooth jazz.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_382_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_382_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_382_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_382.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_382_premium.gif"
   },
@@ -204,7 +204,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Alexstrasza the Life-Binder brings life and hope to everyone.  Except Deathwing.  And Malygos.  And Nekros.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_561_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_561_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_561_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_561.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_561_premium.gif"
   },
@@ -215,7 +215,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Put more spikes on her.  No, more spikes.  What part of 'more spikes' do you not understand?  MORE SPIKES!\" - Alexstrasza",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_071_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_071_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_071_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_071.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_071_premium.gif"
   },
@@ -226,7 +226,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The rent is cheap and she passes the savings onto YOU!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_756_Female_Orc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_756_Female_Orc_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_756_Female_Orc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_756.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_756_premium.gif"
   },
@@ -237,7 +237,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "To be a cool cat in Gadgetzan, you gotta have bling.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GoldTuskCub_CFM_315_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GoldTuskCub_CFM_315_Attack.ogg",
+    "AttackSound": "files/GoldTuskCub_CFM_315_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_315.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_315_premium.gif"
   },
@@ -248,7 +248,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "peerc rewop",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_248_AmgamRager_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_248_AmgamRager_Attack.ogg",
+    "AttackSound": "files/OG_248_AmgamRager_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_248.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_248_premium.gif"
   },
@@ -259,7 +259,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If an Amani berserker asks \"Joo lookin' at me?!\", the correct response is \"Nah, mon\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_393_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_393_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_393_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_393.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_393_premium.gif"
   },
@@ -270,7 +270,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_940t8_Female_Titan_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_940t8_Female_Titan_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_940t8_Female_Titan_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_940t8.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_940t8_premium.gif"
   },
@@ -281,7 +281,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Most pandaren say his brew tastes like yak.  But apparently that's a compliment.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_057_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_057_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_057_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_057.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_057_premium.gif"
   },
@@ -292,7 +292,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"honey, can u run down to the store and pick up some 10 cost minions? thx\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_290_Female_Night Elf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_290_Female_Night Elf_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_290_Female_Night Elf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_290.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_290_premium.gif"
   },
@@ -303,7 +303,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Sometimes he forgets and just wanders into someone else's game.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_584_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_584_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_584_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_584.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_584_premium.gif"
   },
@@ -314,7 +314,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Warning: Do not expose to direct sunlight.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_110_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_110_Attack_02.ogg",
+    "AttackSound": "files/VO_LOE_110_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_110.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_110_premium.gif"
   },
@@ -325,7 +325,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Back in her day, each shield weighed two tons and she had to carry four of them on each arm!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_301_Female_Dwarf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_301_Female_Dwarf_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_301_Female_Dwarf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_301.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_301_premium.gif"
   },
@@ -336,7 +336,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Why do its eyes seem to follow you as you walk by?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_045_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_045_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_045_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_045.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_045_premium.gif"
   },
@@ -347,7 +347,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Go ahead, carve your initials in him.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NEW1_008_AncientOfLore_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NEW1_008_AncientOfLore_Attack.ogg",
+    "AttackSound": "files/NEW1_008_AncientOfLore_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_008.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_008_premium.gif"
   },
@@ -358,7 +358,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Young Night Elves love to play \"Who can get the Ancient of War to Uproot?\"  You lose if you get crushed to death.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_178_Ancient_Of_War_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_178_Ancient_Of_War_Attack3.ogg",
+    "AttackSound": "files/EX1_178_Ancient_Of_War_Attack3.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_178.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_178_premium.gif"
   },
@@ -369,7 +369,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "There is no beast more frightening (or ridiculous) than a fully enraged chicken.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_009_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_009_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_009_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_009.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_009_premium.gif"
   },
@@ -380,7 +380,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Dark Animus is evil and mysterious and huge and unable to write sentences that utilize proper grammar.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_077_SonOfAnimus_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_077_SonOfAnimus_Attack.ogg",
+    "AttackSound": "files/GVG_077_SonOfAnimus_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_077.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_077_premium.gif"
   },
@@ -391,7 +391,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He'd be a lot easier to animate if he would just stand still.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_238_Male_Spirit_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_238_Male_Spirit_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_238_Male_Spirit_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_238.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_238_premium.gif"
   },
@@ -402,7 +402,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_710m_Male_Shield_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_710m_Male_Shield_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_710m_Male_Shield_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_710m.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_710m_premium.gif"
   },
@@ -413,7 +413,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA04_27_AnimatedStatue_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA04_27_AnimatedStatue_Attack.ogg",
+    "AttackSound": "files/LOEA04_27_AnimatedStatue_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA04_27.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA04_27.png"
   },
@@ -424,7 +424,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The inventor of the Annoy-o-Tron was immediately expelled from Tinkerschool, Tinkertown, and was eventually exiled from the Eastern Kingdoms altogether.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_085_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_085_Attack_02_ALT.ogg",
+    "AttackSound": "files/VO_GVG_085_Attack_02_ALT.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_085.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_085_premium.gif"
   },
@@ -435,7 +435,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's adorable! AND OH MY GOODNESS WHY IS IT EATING MY FACE",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_030_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_030_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_030_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_030.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_030_premium.gif"
   },
@@ -446,7 +446,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "That's short for \"Anomnomnomnomalus\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_120_Male_Elemental_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_120_Male_Elemental_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_120_Male_Elemental_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_120.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_120_premium.gif"
   },
@@ -457,7 +457,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They don't make 'em like they used to! (Because of explosions, mostly.)",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_069_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_069_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_069_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_069.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_069_premium.gif"
   },
@@ -468,7 +468,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Originally he was called \"Anub'ar Guy who bounces a guy back to your hand\", but it lacked a certain zing.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_026_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_026_Attack.ogg",
+    "AttackSound": "files/SFX_FP1_026_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_026.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_026_premium.gif"
   },
@@ -479,7 +479,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Was actually a pretty nice guy before, you know, the whole Lich King thing.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_036_PLAY_01_ALT.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_036_ATTACK_ALT1_05.ogg",
+    "AttackSound": "files/VO_AT_036_ATTACK_ALT1_05.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_036.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_036_premium.gif"
   },
@@ -490,7 +490,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's actually a 1/1 who picked up the hammer from the last guy.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_061_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_061_Attack.ogg",
+    "AttackSound": "files/SFX_LOE_061_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_061.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_061_premium.gif"
   },
@@ -501,7 +501,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA04_24_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA04_24_Attack2_03.ogg",
+    "AttackSound": "files/VO_LOEA04_24_Attack2_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA04_24.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA04_24.png"
   },
@@ -512,7 +512,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "50% off fist weapons, limited time only!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_398_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_398_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_398_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_398.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_398_premium.gif"
   },
@@ -523,7 +523,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He used to get work as a Spatial Anomaly, but he got tired of having his polarity reversed.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_036_ArcaneAnomaly_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_036_ArcaneAnomaly_Attack.ogg",
+    "AttackSound": "files/KAR_036_ArcaneAnomaly_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_036.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_036_premium.gif"
   },
@@ -534,7 +534,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Claims to be drawn to Karazhan because of the ley lines. Actually, just loves Moroes’ cooking.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_711_ArcaneGiant_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_711_ArcaneGiant_Attack_01.ogg",
+    "AttackSound": "files/KAR_711_ArcaneGiant_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_711.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_711_premium.gif"
   },
@@ -545,7 +545,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Having Arcane golems at home really classes up the place, and as a bonus they are great conversation pieces.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_089_Arcane_Golem_EnterPlay2.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_089_Arcane_Golem_Attack5.ogg",
+    "AttackSound": "files/EX1_089_Arcane_Golem_Attack5.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_089.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_089_premium.gif"
   },
@@ -556,7 +556,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "There was some hard talk between gnome magi and engineers about inventing this mech.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_091_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_091_Attack_02_ALT.ogg",
+    "AttackSound": "files/VO_GVG_091_Attack_02_ALT.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_091.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_091_premium.gif"
   },
@@ -567,7 +567,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What did you draw? Shhhh… it’s a secret.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_020_Female_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_020_Female_Gnome_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_020_Female_Gnome_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_020.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_020_premium.gif"
   },
@@ -578,7 +578,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He’s really just a Blacksmith, but he thought the fancy title would bring in more business.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_710m_Male_Shield_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_710m_Male_Shield_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_710m_Male_Shield_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_710.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_710_premium.gif"
   },
@@ -589,7 +589,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA14_3_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA14_3_Attack_02.ogg",
+    "AttackSound": "files/VO_BRMA14_3_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA14_3.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA14_3.png"
   },
@@ -600,7 +600,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's very good at retrieving artifacts.  From other people's museums.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_092_Play_04.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_092_Attack_02.ogg",
+    "AttackSound": "files/VO_LOE_092_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_092.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_092_premium.gif"
   },
@@ -611,7 +611,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Nobody expects the Archbishop's Benediction!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_215_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_215_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_215_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_215.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_215_premium.gif"
   },
@@ -622,7 +622,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You earn the title of Archmage when you can destroy anyone who calls you on it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_155_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_155_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_155_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_155.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_155_premium.gif"
   },
@@ -633,7 +633,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Antonidas was the Grand Magus of the Kirin Tor, and Jaina's mentor.  This was a big step up from being Grand Magus of Jelly Donuts.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_559_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_559_Attack_03.ogg",
+    "AttackSound": "files/VO_EX1_559_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_559.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_559_premium.gif"
   },
@@ -644,7 +644,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_00_08_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_00_08_Male_Human_Attack_02.ogg",
+    "AttackSound": "files/VO_KARA_00_08_Male_Human_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_00_08.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_00_08.png"
   },
@@ -655,7 +655,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "There must always be a Lick King.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_854_Arfus_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_854_Arfus_Attack.ogg",
+    "AttackSound": "files/ICC_854_Arfus_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_854.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_854_premium.gif"
   },
@@ -666,7 +666,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Argent Dawn stands vigilant against the Scourge, as well as people who cut in line at coffee shops.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_067_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_067_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_067_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_067.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_067_premium.gif"
   },
@@ -677,7 +677,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His horse's name is Betsy.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_087_PLAY_ALT1_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_087_ATTACK_04.ogg",
+    "AttackSound": "files/VO_AT_087_ATTACK_04.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_087.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_087_premium.gif"
   },
@@ -688,7 +688,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"I'm not saying you can dodge fireballs.  I'm saying with this shield, you won't have to.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_362_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_362_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_362_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_362.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_362_premium.gif"
   },
@@ -699,7 +699,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"I solemnly swear to uphold the Light, purge the world of darkness, and to eat only burritos.\" - The Argent Dawn Oath",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_008_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_008_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_008_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_008.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_008_premium.gif"
   },
@@ -710,7 +710,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Who argent watches the Argent Watchman?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_109_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_109_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_109_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_109.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_109_premium.gif"
   },
@@ -721,7 +721,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Yep.  It's a horse... wearing armor... going to war.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_108_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_108_Attack_01.ogg",
+    "AttackSound": "files/SFX_AT_108_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_108.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_108_premium.gif"
   },
@@ -732,7 +732,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She accepts guild funds for repairs!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_402_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_402_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_402_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_402.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_402_premium.gif"
   },
@@ -743,7 +743,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "To be honest, he was kind of a jerk even BEFORE he was bitten by that ghoul.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_034_Male_BloodElf_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_034_Male_BloodElf_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_034_Male_BloodElf_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_034.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_034_premium.gif"
   },
@@ -754,7 +754,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Auchenai know the end is coming, but they're not sure when.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_591_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_591_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_591_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_591.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_591_premium.gif"
   },
@@ -765,7 +765,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Gadgetzan has always run an under-the-table auction house, and business has been PRETTY good for Beardo since the population explosion.  And since the explosion that destroyed the competing auction houses in the city.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_807_Male_Goblin_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_807_Male_Goblin_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_807_Male_Goblin_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_807.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_807_premium.gif"
   },
@@ -776,7 +776,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He mostly watches light romantic comedies.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_037_RavenWatcher_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_037_RavenWatcher_Attack_01.ogg",
+    "AttackSound": "files/KAR_037_RavenWatcher_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_037.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_037_premium.gif"
   },
@@ -787,7 +787,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Call her \"Tweety\".  She'll find it real funny.  I PROMISE.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_045_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_045_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_045_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_045.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_045_premium.gif"
   },
@@ -798,7 +798,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Once a lowly \"Stick Flinger\", he's been relentless on the path to his ultimate dream: \"Tauren Flinger\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_016_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_016_Attack_02.ogg",
+    "AttackSound": "files/VO_BRM_016_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_016.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_016_premium.gif"
   },
@@ -809,7 +809,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Though young, Aya took over as the leader of Jade Lotus through her charisma and strategic acumen when her predecessor was accidentally crushed by a jade golem.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_902_Female_Pandaren_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_902_Female_Pandaren_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_902_Female_Pandaren_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_902.gif",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_902_premium.gif"
   },
@@ -820,7 +820,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They initially planned to be the Beryl or Cerulean drakes, but those felt a tad too pretentious.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_EX1_284_AzureDrake_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_EX1_284_AzureDrake_Attack.ogg",
+    "AttackSound": "files/WoW_EX1_284_AzureDrake_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_284.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_284_premium.gif"
   },
@@ -831,7 +831,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His idol is the Green Hills of Stranglethorn, and he won't shut up about it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_009_Male_Book_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_009_Male_Book_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_009_Male_Book_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_009.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_009_premium.gif"
   },
@@ -842,7 +842,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"WHY ARE YOU IN THE BACK ROOM?  WHO IS WATCHING THE FRONT?!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_658_Male_Tauren_Play_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_658_Male_Tauren_Attack_02.ogg",
+    "AttackSound": "files/VO_CFM_658_Male_Tauren_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_658.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_658_premium.gif"
   },
@@ -853,7 +853,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Quit playing games with his heart. And his fingers. And foot. It's rude.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_646_Male_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_646_Male_Gnome_Attack_02.ogg",
+    "AttackSound": "files/VO_CFM_646_Male_Gnome_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_646.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_646_premium.gif"
   },
@@ -864,7 +864,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_110t_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_110t_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_110t_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_110t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_110t_premium.gif"
   },
@@ -875,7 +875,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BarnabusTheStomper_UNG_116t_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BarnabusTheStomper_UNG_116t_Attack.ogg",
+    "AttackSound": "files/BarnabusTheStomper_UNG_116t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_116t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_116t_premium.gif"
   },
@@ -886,7 +886,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He used to play every part, until Moroes confiscated his Orb of Deception.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_114_Male_Human_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_114_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_114_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_114.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_114_premium.gif"
   },
@@ -897,7 +897,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Baron Geddon was Ragnaros's foremost lieutenant, until he got FIRED.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_249_Baron_Geddon_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_249_Baron_Geddon_Attack1.ogg",
+    "AttackSound": "files/EX1_249_Baron_Geddon_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_249.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_249_premium.gif"
   },
@@ -908,7 +908,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "There used to be five Horsemen but one of them left because a job opened up in the deadmines and the benefits were better.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_031_EnterPlay_06.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_031_Attack_07.ogg",
+    "AttackSound": "files/VO_FP1_031_Attack_07.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_031.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_031_premium.gif"
   },
@@ -919,7 +919,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Candygram.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GrizzlyGrotesque_ICC_419_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GrizzlyGrotesque_ICC_419_Attack.ogg",
+    "AttackSound": "files/GrizzlyGrotesque_ICC_419_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_419.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_419_premium.gif"
   },
@@ -930,7 +930,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Here, Evil!  C'mon boy!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_281_Female_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_281_Female_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_281_Female_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_281.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_281_premium.gif"
   },
@@ -941,7 +941,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_005a_Male_Worgen_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_005a_Male_Worgen_Attack_03.ogg",
+    "AttackSound": "files/VO_KAR_005a_Male_Worgen_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_005a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_005a_premium.gif"
   },
@@ -952,7 +952,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mere devilsaurs no longer excite him.  Soon he'll be trying to catch Onyxia with only a dull Krol Blade.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_005_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_005_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_005_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_005.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_005_premium.gif"
   },
@@ -963,7 +963,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"It'd be a shame if someone disenchanted those Legendaries.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_648_Male_Goblin_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_648_Male_Goblin_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_648_Male_Goblin_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_648.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_648_premium.gif"
   },
@@ -974,7 +974,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Bile actually makes for surprisingly sturdy fins.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_156_BilefinTidehunter_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_156_BilefinTidehunter_Attack.ogg",
+    "AttackSound": "files/OG_156_BilefinTidehunter_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_156.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_156_premium.gif"
   },
@@ -985,7 +985,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "AKA Edwin VanLeaf.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_063_SproutingSporling_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_063_SproutingSporling_Attack.ogg",
+    "AttackSound": "files/UNG_063_SproutingSporling_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_063.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_063_premium.gif"
   },
@@ -996,7 +996,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's actually only the middle head that's bitter. The others are sweet and spicy.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BittertideHydra_UNG_087_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BittertideHydra_UNG_087_Attack.ogg",
+    "AttackSound": "files/BittertideHydra_UNG_087_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_087.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_087_premium.gif"
   },
@@ -1007,7 +1007,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A10_06_Male_ChessPiece_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A10_06_Male_ChessPiece_Play_01.ogg",
+    "AttackSound": "files/VO_KAR_A10_06_Male_ChessPiece_Play_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_06.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_06.png"
   },
@@ -1018,7 +1018,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A10_01_Male_ChessPiece_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A10_01_Male_ChessPiece_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_A10_01_Male_ChessPiece_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_01.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_01.png"
   },
@@ -1029,7 +1029,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A10_10_Female_ChessPiece_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A10_10_Female_ChessPiece_Attack_02.ogg",
+    "AttackSound": "files/VO_KAR_A10_10_Female_ChessPiece_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_10.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_10.png"
   },
@@ -1040,7 +1040,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_BRM_022t_BlackWhelp_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_BRM_022t_BlackWhelp_Attack.ogg",
+    "AttackSound": "files/SFX_BRM_022t_BlackWhelp_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_022t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_022t_premium.gif"
   },
@@ -1051,7 +1051,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Did I ever tell you the story of when I single-handedly took down a 29/29 C'thun?\" - Reno Jackson",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_245_Male_Draenei_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_245_Male_Draenei_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_245_Male_Draenei_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_245.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_245_premium.gif"
   },
@@ -1062,7 +1062,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Look, they fell off the back of a ship, do you want them or not? I have a meeting with Y'Shaarj in like ten minutes.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_322_Female_Goblin_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_322_Female_Goblin_Attack_02.ogg",
+    "AttackSound": "files/VO_OG_322_Female_Goblin_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_322.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_322_premium.gif"
   },
@@ -1073,7 +1073,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He got his name when he gave Blackwing some comic books and rock \u0026 roll records.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_034_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_034_Attack_02.ogg",
+    "AttackSound": "files/VO_BRM_034_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_034.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_034_premium.gif"
   },
@@ -1084,7 +1084,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This is who you go to when your Blackwing needs a tune up. Don't go to a cut rate Blackwing tune up shop!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_033_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_033_Attack_03.ogg",
+    "AttackSound": "files/VO_BRM_033_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_033.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_033_premium.gif"
   },
@@ -1095,7 +1095,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "C'Thun demands a sacrifice! Preferably a Deathwing.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_282_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_282_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_282_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_282.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_282_premium.gif"
   },
@@ -1106,7 +1106,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He has a poor understanding of the law of diminishing returns.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_070_Male_Troll_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_070_Male_Troll_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_070_Male_Troll_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_070.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_070_premium.gif"
   },
@@ -1117,7 +1117,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "PREPARE PARTY SERVOS FOR IMMEDIATE DEPLOYMENT.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_119_Play_01_ALT.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_119_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_119_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_119.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_119_premium.gif"
   },
@@ -1128,7 +1128,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BloodBeast_ICCA09_001t1_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BloodBeast_ICCA09_001t1_Attack.ogg",
+    "AttackSound": "files/BloodBeast_ICCA09_001t1_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA09_001t1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA09_001t1.png"
   },
@@ -1139,7 +1139,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Imps are content to hide and viciously taunt everyone nearby.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_059_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_059_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_059_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_059.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_059_premium.gif"
   },
@@ -1150,7 +1150,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Blood Knights get their holy powers from the Sunwell, which you should NOT bathe in.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_590_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_590_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_590_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_590.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_590_premium.gif"
   },
@@ -1161,7 +1161,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Add two cups of Blood of the Ancient One to one cup of lemon juice. Add just a dash of sugar and stir. Delicious!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BloodOfTheAncientOne_OG_173_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BloodOfTheAncientOne_OG_173_Attack.ogg",
+    "AttackSound": "files/BloodOfTheAncientOne_OG_173_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_173.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_173_premium.gif"
   },
@@ -1172,7 +1172,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "As a young blood-princess she learned the proper way for a lady to curtsy, how to address fellow members of royalty, and how to bite them.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_841_Female_Sanlayn_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_841_Female_Sanlayn_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_841_Female_Sanlayn_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_841.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_841_premium.gif"
   },
@@ -1183,7 +1183,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Kill 30 raptors.\" - Hemet Nesingwary",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_172_StranglethornRaptor_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_172_StranglethornRaptor_Attack.ogg",
+    "AttackSound": "files/CS2_172_StranglethornRaptor_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_172.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_172_premium.gif"
   },
@@ -1194,7 +1194,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He thought the set was called \"Flippers of the Old Cods\" and hungrily volunteered to be in it.  He is definitely going to get his hearing checked.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_218_Male_Tauren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_218_Male_Tauren_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_218_Male_Tauren_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_218.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_218_premium.gif"
   },
@@ -1205,7 +1205,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's in charge of the Annual Scarlet Monastery Blood Drive!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_012_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_012_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_012_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_012.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_012_premium.gif"
   },
@@ -1216,7 +1216,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Every pirate uses the same four digits to access Automated Gold Dispensers.  It's called the \"Pirate's Code\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_025_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_025_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_025_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_025.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_025_premium.gif"
   },
@@ -1227,7 +1227,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They're really just in it for the Blood Parrot.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_315_Female_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_315_Female_Gnome_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_315_Female_Gnome_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_315.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_315_premium.gif"
   },
@@ -1238,7 +1238,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"I only plunder on days that end in 'y'.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_018_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_018_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_018_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_018.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_018_premium.gif"
   },
@@ -1249,7 +1249,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Queen Lana'thel insists on one of these, fried, every morning for breakfast.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_905_Bloodworm_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_905_Bloodworm_Attack.ogg",
+    "AttackSound": "files/ICC_905_Bloodworm_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_905.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_905_premium.gif"
   },
@@ -1260,7 +1260,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Imagine how much further his darts would go if he had lungs instead of gills!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_647_Male_Murloc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_647_Male_Murloc_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_647_Male_Murloc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_647.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_647_premium.gif"
   },
@@ -1271,7 +1271,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When oil, railroad, steel, robber, and red are all already taken, your options are limited.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_064_Male_Tuskarr_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_064_Male_Tuskarr_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_064_Male_Tuskarr_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_064.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_064_premium.gif"
   },
@@ -1282,7 +1282,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He just wants a hug.   A sloppy... slimy... hug.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_173_Bluegill_Warrior_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_173_Bluegill_Warrior_Attack3.ogg",
+    "AttackSound": "files/CS2_173_Bluegill_Warrior_Attack3.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_173.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_173_premium.gif"
   },
@@ -1293,7 +1293,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_boar_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_boar_Attack.ogg",
+    "AttackSound": "files/SFX_CS2_boar_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_boar.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_boar_premium.gif"
   },
@@ -1304,7 +1304,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_boar_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_boar_Attack.ogg",
+    "AttackSound": "files/SFX_CS2_boar_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_005t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_005t_premium.gif"
   },
@@ -1315,7 +1315,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's tried other things, but bog sidling, bog ambling, and bog trundling just aren't as effective as bog creeping.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BogCreeper_OG_153_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BogCreeper_OG_153_Attack.ogg",
+    "AttackSound": "files/BogCreeper_OG_153_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_153.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_153_premium.gif"
   },
@@ -1326,7 +1326,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Bolf keeps coming in 2nd at the Grand Tournament.  It might be his year this year, if Lebron doesn't enter.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_124_PLAY_ALT2_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_124_ATTACK_04.ogg",
+    "AttackSound": "files/VO_AT_124_ATTACK_04.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_124.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_124_premium.gif"
   },
@@ -1337,7 +1337,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Spoiler alert: Bolvar gets melted and then sits on an ice throne and everyone forgets about him.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_063_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_063_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_063_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_063.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_063_premium.gif"
   },
@@ -1348,7 +1348,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's so hot right now.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_858_Male_Human_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_858_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_858_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_858.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_858_premium.gif"
   },
@@ -1359,7 +1359,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He lobbies Orgrimmar daily on behalf of bombs.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_099_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_099_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_099_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_099.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_099_premium.gif"
   },
@@ -1370,7 +1370,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Please don't explode!  Please don't explode!  Please don't explode!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_667_Female_Goblin_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_667_Female_Goblin_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_667_Female_Goblin_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_667.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_667_premium.gif"
   },
@@ -1381,7 +1381,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Oil,\" \"Rail,\" and \"Blubber\" were already taken.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_065_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_065_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_065_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_065.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_065_premium.gif"
   },
@@ -1392,7 +1392,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA17_6_BoneConstruct_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA17_6_BoneConstruct_Attack_1.ogg",
+    "AttackSound": "files/BRMA17_6_BoneConstruct_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA17_6.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA17_6.png"
   },
@@ -1403,7 +1403,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The bone drake brings all the dragons to the yard. He would teach you, but you have no cards.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BoneDrake_ICC_027_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BoneDrake_ICC_027_Attack.ogg",
+    "AttackSound": "files/BoneDrake_ICC_027_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_027.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_027_premium.gif"
   },
@@ -1414,7 +1414,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICCA06_005_Bonespike_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICCA06_005_Bonespike_Attack.ogg",
+    "AttackSound": "files/ICCA06_005_Bonespike_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA06_005.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA06_005.png"
   },
@@ -1425,7 +1425,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Underneath all that impressive armor, he's just skin and bones.  Okay, maybe just bones.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_089_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_089_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_089_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_089.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_089_premium.gif"
   },
@@ -1436,7 +1436,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Attacks her job with unbridled enthusiasm.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_705_Bonemare_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_705_Bonemare_Attack.ogg",
+    "AttackSound": "files/ICC_705_Bonemare_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_705.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_705_premium.gif"
   },
@@ -1447,7 +1447,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His favorites are classic tragedies like \"The Hobbit\" and \"Grendel\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_033_Male_Dragon_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_033_Male_Dragon_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_033_Male_Dragon_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_033.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_033_premium.gif"
   },
@@ -1458,7 +1458,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_110t_BoomBot_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_110t_BoomBot_Attack.ogg",
+    "AttackSound": "files/GVG_110t_BoomBot_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_110t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_110t_premium.gif"
   },
@@ -1469,7 +1469,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You can hire him... until someone offers him enough gold to turn on you.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_187_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_187_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_187_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_187.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_187_premium.gif"
   },
@@ -1480,7 +1480,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"ME HAVE GOOD STATS FOR THE COST\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_200_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_200_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_200_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_200.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_200_premium.gif"
   },
@@ -1491,7 +1491,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Contains 75% more fiber than his brother Magni!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_077_Play_16.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_077_Attack_12.ogg",
+    "AttackSound": "files/VO_LOE_077_Attack_12.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_077.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_077_premium.gif"
   },
@@ -1502,7 +1502,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This is a \"bearly\" concealed reference.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_059_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_059_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_059_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_059.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_059_premium.gif"
   },
@@ -1513,7 +1513,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_025b_Broom_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_025b_Broom_Attack_01.ogg",
+    "AttackSound": "files/KAR_025b_Broom_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_025b.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_025b_premium.gif"
   },
@@ -1524,7 +1524,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He may be frozen fish, but he fights fresh!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_058_Male_Murloc_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_058_Male_Murloc_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_058_Male_Murloc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_058.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_058_premium.gif"
   },
@@ -1535,7 +1535,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The best part of buccaneering is the pants.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_029_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_029_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_029_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_029.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_029_premium.gif"
   },
@@ -1546,7 +1546,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He only burgles to pay the bills.  He is really just a bully at heart.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_669_Male_Trogg_Attack_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_669_Male_Trogg_Attack_02.ogg",
+    "AttackSound": "files/VO_CFM_669_Male_Trogg_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_669.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_669_premium.gif"
   },
@@ -1557,7 +1557,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's burly because he does CrossFit.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_068_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_068_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_068_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_068.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_068_premium.gif"
   },
@@ -1568,7 +1568,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "C'Thun's least favorite Hearthstone card: Eye for an Eye.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_280_Male_OldGod_InPlay_12.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_280_Male_OldGod_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_280_Male_OldGod_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_280.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_280_premium.gif"
   },
@@ -1579,7 +1579,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He gave her a promise ring and everything.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_283_Female_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_283_Female_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_283_Female_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_283.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_283_premium.gif"
   },
@@ -1590,7 +1590,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You never know who may be secretly working for the Cabal....",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_091_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_091_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_091_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_091.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_091_premium.gif"
   },
@@ -1601,7 +1601,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Cairne was killed by Garrosh, so... don't put this guy in a Warrior deck.  It's pretty insensitive.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_110_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_110_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_110_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_110.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_110_premium.gif"
   },
@@ -1612,7 +1612,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_025a_Candle_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_025a_Candle_Attack_01.ogg",
+    "AttackSound": "files/KAR_025a_Candle_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_025a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_025a_premium.gif"
   },
@@ -1623,7 +1623,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He was \u003ci\u003ethis close\u003c/i\u003e to piloting a massive juggernaut into Stormwind Harbor. If it weren't for those pesky kids!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_024_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_024_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_024_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_024.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_024_premium.gif"
   },
@@ -1634,7 +1634,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Pirates and Parrots go together like Virmen and Carrots.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_016_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_016_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_016_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_016.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_016_premium.gif"
   },
@@ -1645,7 +1645,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You can keep him, but you have to promise to feed him and clean out his tank every day!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_102_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_102_Attack.ogg",
+    "AttackSound": "files/SFX_AT_102_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_102.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_102_premium.gif"
   },
@@ -1656,7 +1656,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CatInAHat_KAR_004a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CatInAHat_KAR_004a_Attack.ogg",
+    "AttackSound": "files/CatInAHat_KAR_004a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_004a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_004a_premium.gif"
   },
@@ -1667,7 +1667,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA09_7_Cauldron_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA09_7_Cauldron_Attack.ogg",
+    "AttackSound": "files/LOEA09_7_Cauldron_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA09_7.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA09_7.png"
   },
@@ -1678,7 +1678,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you think her job is easy, YOU try falling asleep on cue.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_617_Female_NightElf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_617_Female_NightElf_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_617_Female_NightElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_617.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_617_premium.gif"
   },
@@ -1689,7 +1689,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CellarSpiders_KAR_030_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CellarSpiders_KAR_030_Attack.ogg",
+    "AttackSound": "files/CellarSpiders_KAR_030_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_030.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_030_premium.gif"
   },
@@ -1700,7 +1700,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Yes, he's a demigod. No, he doesn't need to wear a shirt.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_573_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_573_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_573_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_573.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_573_premium.gif"
   },
@@ -1711,7 +1711,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What happens when a dinosaur mixes soda and pop rocks.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_099_ChargedDevilsaur_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_099_ChargedDevilsaur_Attack.ogg",
+    "AttackSound": "files/UNG_099_ChargedDevilsaur_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_099.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_099_premium.gif"
   },
@@ -1722,7 +1722,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA07_09_ChasingTrogg_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA07_09_ChasingTrogg_Attack.ogg",
+    "AttackSound": "files/LOEA07_09_ChasingTrogg_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_09.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_09.png"
   },
@@ -1733,7 +1733,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka4t_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka4t_Attack.ogg",
+    "AttackSound": "files/SFX_Mekka4t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/Mekka4t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/Mekka4t_premium.gif"
   },
@@ -1744,7 +1744,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka4t_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka4t_Attack.ogg",
+    "AttackSound": "files/SFX_Mekka4t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_092t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_092t_premium.gif"
   },
@@ -1755,7 +1755,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It slices, it dices, it vaporizes! The Chillblade will make a Champion out of even the lowliest gnome.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_820_Male_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_820_Male_Gnome_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_820_Male_Gnome_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_820.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_820_premium.gif"
   },
@@ -1766,7 +1766,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Chillmaw keeps trying to ruin the Grand Tournament, and she would've done it too, if it weren't for those dang kids!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_123_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_123_Attack_01.ogg",
+    "AttackSound": "files/SFX_AT_123_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_123.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_123_premium.gif"
   },
@@ -1777,7 +1777,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He always dreamed of coming down from the mountains and opening a noodle shop, but he never got the nerve.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_182_ChillwindYeti_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_182_ChillwindYeti_Attack1.ogg",
+    "AttackSound": "files/CS2_182_ChillwindYeti_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_182.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_182_premium.gif"
   },
@@ -1788,7 +1788,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ear to the ground, he carefully interpreted the chittering noises: “You wanna cast a spell? I wanna cast a spell!”",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ChitteringTunneler_UNG_835_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ChitteringTunneler_UNG_835_Attack.ogg",
+    "AttackSound": "files/ChitteringTunneler_UNG_835_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_835.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_835_premium.gif"
   },
@@ -1799,7 +1799,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Even after all this time, Gul'dan still makes Cho'gall go get donuts and coffee.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_121_Male_Ogre_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_121_Male_Ogre_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_121_Male_Ogre_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_121.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_121_premium.gif"
   },
@@ -1810,7 +1810,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Left head and right head can never agree about what to eat for dinner, so they always end up just eating ramen again.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_031_Chromaggus_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_031_Chromaggus_Attack_1.ogg",
+    "AttackSound": "files/BRM_031_Chromaggus_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_031.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_031_premium.gif"
   },
@@ -1821,7 +1821,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA12_8t_ChromaticDragonkin_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA12_8t_ChromaticDragonkin_Attack_1.ogg",
+    "AttackSound": "files/BRMA12_8t_ChromaticDragonkin_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA12_8t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA12_8t.png"
   },
@@ -1832,7 +1832,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA10_5_ChromaticDrake_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA10_5_ChromaticDrake_Attack_1.ogg",
+    "AttackSound": "files/BRMA10_5_ChromaticDrake_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA10_5.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA10_5.png"
   },
@@ -1843,7 +1843,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA17_7_ChromaticPrototype_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA17_7_ChromaticPrototype_Attack_1.ogg",
+    "AttackSound": "files/BRMA17_7_ChromaticPrototype_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA17_7.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA17_7.png"
   },
@@ -1854,7 +1854,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She's practically GIVING your secrets away!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_006_Female_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_006_Female_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_006_Female_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_006.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_006_premium.gif"
   },
@@ -1865,7 +1865,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He and Mountain Giant don't get along.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_121_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_121_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_121_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_121.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_121_premium.gif"
   },
@@ -1876,7 +1876,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Clockwork gnomes are always asking what time it is.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_082_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_082_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_082_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_082.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_082_premium.gif"
   },
@@ -1887,7 +1887,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It takes a lot to wind him up.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_096_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_096_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_096_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_096.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_096_premium.gif"
   },
@@ -1898,7 +1898,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A bit of a snob: still refuses to drive anything with automatic transmission.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ClutchmotherZavas_UNG_836_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ClutchmotherZavas_UNG_836_Attack.ogg",
+    "AttackSound": "files/ClutchmotherZavas_UNG_836_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_836.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_836_premium.gif"
   },
@@ -1909,7 +1909,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Guardians used to be built out of Adamantium, but production got moved to Gadgetzan and Cobalt was cheap.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_062_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_062_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_062_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_062.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_062_premium.gif"
   },
@@ -1920,7 +1920,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You get a sword! And you get a sword! Everybody gets a sword!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_029_Female_Troll_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_029_Female_Troll_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_029_Female_Troll_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_029.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_029_premium.gif"
   },
@@ -1931,7 +1931,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "After a while, you don't see the cogs and sprockets. All you see is a robot, a spider tank, a deathray...",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_069_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_069_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_069_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_013.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_013_premium.gif"
   },
@@ -1942,7 +1942,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Grand Tournament has a \"No dragons allowed\" policy, but it's rarely enforced.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_008_ColdarraDrake_Play_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_008_ColdarraDrake_Attack_1.ogg",
+    "AttackSound": "files/AT_008_ColdarraDrake_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_008.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_008_premium.gif"
   },
@@ -1953,7 +1953,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They can see the future.   In that future both players draw more cards.   Spoooky.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_050_Coldlight_Oracle_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_050_Coldlight_Oracle_Attack1.ogg",
+    "AttackSound": "files/EX1_050_Coldlight_Oracle_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_050.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_050_premium.gif"
   },
@@ -1964,7 +1964,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Coldlight murlocs reside in the darkest pits of the Abyssal Depths.  So no, there's no getting away from murlocs.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_103_Coldlight_Seer_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_103_Coldlight_Seer_Attack2.ogg",
+    "AttackSound": "files/EX1_103_Coldlight_Seer_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_103.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_103_premium.gif"
   },
@@ -1975,7 +1975,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's freezing his bones off!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_252_Male_Undead_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_252_Male_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_252_Male_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_252.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_252_premium.gif"
   },
@@ -1986,7 +1986,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Meets monthly with the gladiators to discuss career goals.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_110_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_110_ATTACK_ALT1_04.ogg",
+    "AttackSound": "files/VO_AT_110_ATTACK_ALT1_04.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_110.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_110_premium.gif"
   },
@@ -1997,7 +1997,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She sees into your past and makes you face your fears.  Most common fear:  Getting Majordomo out of Sneed's Old Shredder.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_018_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_018_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_018_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_018.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_018_premium.gif"
   },
@@ -2008,7 +2008,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You don’t tame a Core Hound. You just train it to eat someone else before it eats you.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_201_Core_Hound_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_201_Core_Hound_Attack2.ogg",
+    "AttackSound": "files/CS2_201_Core_Hound_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_201.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_201_premium.gif"
   },
@@ -2019,7 +2019,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It takes a special kind of hunter to venture deep into a firey lava pit and convince a monster who lives there to come home and be a cuddly housepet.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_014_CoreRager_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_014_CoreRager_Attack_1.ogg",
+    "AttackSound": "files/BRM_014_CoreRager_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_014.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_014_premium.gif"
   },
@@ -2030,7 +2030,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMC_92_Coren_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMC_92_Coren_Attack.ogg",
+    "AttackSound": "files/BRMC_92_Coren_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMC_92.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMC_92.png"
   },
@@ -2041,7 +2041,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Draenei are seriously considering cancelling \"Bring Your Murderous Pet to Work Day.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_926_Female_Draenei_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_926_Female_Draenei_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_926_Female_Draenei_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_926.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_926_premium.gif"
   },
@@ -2052,7 +2052,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He was just minding his business, farming corpses, when you meddling adventurers came along.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_257_Male_Ymirjar_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_257_Male_Ymirjar_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_257_Male_Ymirjar_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_257.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_257_premium.gif"
   },
@@ -2063,7 +2063,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Her marriage survived death, but it decayed pretty quickly after that.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_243_Male_Abomination_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_243_Male_Abomination_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_243_Male_Abomination_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_243.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_243_premium.gif"
   },
@@ -2074,7 +2074,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Her extensive collection of corpses includes one of nearly every type.  She'd love for you to join it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_912_Female_Troll_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_912_Female_Troll_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_912_Female_Troll_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_912.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_912_premium.gif"
   },
@@ -2085,7 +2085,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA10_4_CorruptedEgg_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA10_4_CorruptedEgg_Attack.ogg",
+    "AttackSound": "files/BRMA10_4_CorruptedEgg_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA10_4.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA10_4.png"
   },
@@ -2096,7 +2096,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Not so much \"corrupted\" as \"has terrible aim\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CorruptedHealbot_OG_147_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CorruptedHealbot_OG_147_Attack.ogg",
+    "AttackSound": "files/CorruptedHealbot_OG_147_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_147.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_147_premium.gif"
   },
@@ -2107,7 +2107,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "For seers, it's very handy to have your crystal ball hanging right in front of your face.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_161_CorruptedSeer_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_161_CorruptedSeer_Attack.ogg",
+    "AttackSound": "files/OG_161_CorruptedSeer_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_161.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_161_premium.gif"
   },
@@ -2118,7 +2118,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Wasn't clever enough to go AROUND the electric fence.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_915_CleverRazormaw_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_915_CleverRazormaw_Attack.ogg",
+    "AttackSound": "files/UNG_915_CleverRazormaw_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_915.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_915_premium.gif"
   },
@@ -2129,7 +2129,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"You'll \u003ci\u003elove\u003c/i\u003e my new recipe!\" he says... especially if you're not happy with your current number of limbs.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_059_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_059_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_059_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_059.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_059_premium.gif"
   },
@@ -2140,7 +2140,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TU4d_002_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TU4d_002_Play_01.ogg",
+    "AttackSound": "files/VO_TU4d_002_Play_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4d_002.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4d_002.png"
   },
@@ -2151,7 +2151,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Every month they share a pancake breakfast with the Perfectly Rational Worshippers.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_321_Male_Dwarf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_321_Male_Dwarf_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_321_Male_Dwarf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_321.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_321_premium.gif"
   },
@@ -2162,7 +2162,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/MONKEY_ENTER_PLAY_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/MONKEY_ENTER_PLAY_02.ogg",
+    "AttackSound": "files/MONKEY_ENTER_PLAY_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4f_007.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4f_007.png"
   },
@@ -2173,7 +2173,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The crowd ALWAYS yells lethal.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_121_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_121_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_121_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_121.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_121_premium.gif"
   },
@@ -2184,7 +2184,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "As that old saying goes: \"you don't get into dinomancing to make friends.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_830_Female_Saurok_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_830_Female_Saurok_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_830_Female_Saurok_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_830.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_830_premium.gif"
   },
@@ -2195,7 +2195,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"I'm going to need you to come in on Sunday.\" - Cruel Taskmaster",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_603_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_603_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_603_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_603.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_603_premium.gif"
   },
@@ -2206,7 +2206,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She loves Frozen. I mean who doesn't?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_671_Female_Wretched_Play_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_671_Female_Wretched_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_671_Female_Wretched_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_671.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_671_premium.gif"
   },
@@ -2217,7 +2217,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The original fifth beetle!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_808_Male_Tauren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_808_Male_Tauren_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_808_Male_Tauren_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_808.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_808_premium.gif"
   },
@@ -2228,7 +2228,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CFM_606t_CrystalShard_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CFM_606t_CrystalShard_Attack.ogg",
+    "AttackSound": "files/CFM_606t_CrystalShard_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_606t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_606t_premium.gif"
   },
@@ -2239,7 +2239,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Being made of light has its disadvantages, but at least it's always looking on the bright side.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LivingLight_UNG_032_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LivingLight_UNG_032_Attack.ogg",
+    "AttackSound": "files/LivingLight_UNG_032_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_032.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_032_premium.gif"
   },
@@ -2250,7 +2250,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The trick is soaking the crystals in warm milk to soften them up.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_610_Male_Dranei_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_610_Male_Dranei_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_610_Male_Dranei_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_610.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_610_premium.gif"
   },
@@ -2261,7 +2261,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Cults need pharmacists too.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_295_Male_Worgen_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_295_Male_Worgen_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_295_Male_Worgen_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_295.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_295_premium.gif"
   },
@@ -2272,7 +2272,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She may be an evil cult master, but she still calls her parents once a week.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_595_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_595_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_595_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_595.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_595_premium.gif"
   },
@@ -2283,7 +2283,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "No matter how many times we tell her not to, she keeps feeding C'Thun scraps under the table.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_303_Female_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_303_Female_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_303_Female_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_303.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_303_premium.gif"
   },
@@ -2294,7 +2294,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A02_05_Female_Cup_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A02_05_Female_Cup_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_A02_05_Female_Cup_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A02_05.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A02_05.png"
   },
@@ -2305,7 +2305,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "George promised to be good. But it's easy for little Glimmerroots to forget.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CuriousGlimmerroot_UNG_035_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CuriousGlimmerroot_UNG_035_Attack.ogg",
+    "AttackSound": "files/CuriousGlimmerroot_UNG_035_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_035.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_035_premium.gif"
   },
@@ -2316,7 +2316,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He has a giant collection of purses now.  One for every outfit!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_031_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_031_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_031_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_031.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_031_premium.gif"
   },
@@ -2327,7 +2327,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What are the qualifications for being a 'Horror?'  Just how horrible do you have to be?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_337_CyclopianHorror_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_337_CyclopianHorror_Attack.ogg",
+    "AttackSound": "files/OG_337_CyclopianHorror_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_337.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_337_premium.gif"
   },
@@ -2338,7 +2338,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Is he aspiring or inspiring?  Make up your mind!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_006_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_006_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_006_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_006.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_006_premium.gif"
   },
@@ -2349,7 +2349,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You don't see a lot of Dalaran warriors.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_582_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_582_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_582_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_582.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_582_premium.gif"
   },
@@ -2360,7 +2360,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_skele21_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_skele21_Attack.ogg",
+    "AttackSound": "files/SFX_skele21_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/skele21.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/skele21_premium.gif"
   },
@@ -2371,7 +2371,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They like to dance to reggae.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FP1_029_DancingSwords_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FP1_029_DancingSwords_Attack.ogg",
+    "AttackSound": "files/FP1_029_DancingSwords_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_029.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_029_premium.gif"
   },
@@ -2382,7 +2382,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She's working on a story!  While skydiving!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_851_Female_NightElf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_851_Female_NightElf_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_851_Female_NightElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_851.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_851_premium.gif"
   },
@@ -2393,7 +2393,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_829t5_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_829t5_Male_Human_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_829t5_Male_Human_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_829t5.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_829t5_premium.gif"
   },
@@ -2404,7 +2404,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "There's a whole gradient of Arakkoa! This one is on the darker side.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_293_Male_Arakkoa_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_293_Male_Arakkoa_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_293_Male_Arakkoa_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_293.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_293_premium.gif"
   },
@@ -2415,7 +2415,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Cult of the Damned has found it's best not to mention their name when recruiting new cultists.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_023_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_023_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_023_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_023.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_023_premium.gif"
   },
@@ -2426,7 +2426,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA01_3_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA01_3_Attack_02.ogg",
+    "AttackSound": "files/VO_BRMA01_3_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA01_3.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA01_3.png"
   },
@@ -2437,7 +2437,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Guardians of Dark Iron Ore.  Perhaps the most annoying ore, given where you have to forge it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_046_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_046_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_046_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_046.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_046_premium.gif"
   },
@@ -2448,7 +2448,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He loves skulking. He skulks after hours just for the joy of it, but his friends are pretty worried he'll get burnt out.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_008_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_008_Attack_02.ogg",
+    "AttackSound": "files/VO_BRM_008_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_008.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_008_premium.gif"
   },
@@ -2459,7 +2459,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA02_2t_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA02_2t_Attack_02.ogg",
+    "AttackSound": "files/VO_BRMA02_2t_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA02_2t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA02_2t.png"
   },
@@ -2470,7 +2470,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I'm offering you a bargain here!  This amazing vacuum cleaner for your soul!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_023_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_023_Attack_02.ogg",
+    "AttackSound": "files/VO_LOE_023_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_023.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_023_premium.gif"
   },
@@ -2481,7 +2481,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Healing is just something she does in her free time.  It's more of a hobby really.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_DS1_055_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_DS1_055_Attack_02.ogg",
+    "AttackSound": "files/VO_DS1_055_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/DS1_055.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/DS1_055_premium.gif"
   },
@@ -2492,7 +2492,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The secret ingredient: liquified funnel cake.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_234_Female_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_234_Female_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_234_Female_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_234.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_234_premium.gif"
   },
@@ -2503,7 +2503,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Democracy in action!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_113_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_113_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_113_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_113.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_113_premium.gif"
   },
@@ -2514,7 +2514,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Do NOT be late with your overdue fines.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_109_Female_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_109_Female_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_109_Female_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_109.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_109_premium.gif"
   },
@@ -2525,7 +2525,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "People often think that Darkspeaker is the arch nemesis of Lightspeaker, but that title actually belongs to Heavyspeaker.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Darkspeaker_OG_102_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Darkspeaker_OG_102_Attack.ogg",
+    "AttackSound": "files/Darkspeaker_OG_102_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_102.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_102_premium.gif"
   },
@@ -2536,7 +2536,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She loves mana crystals, she hates mana crystals.   So fickle!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_038_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_038_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_038_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_038.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_038_premium.gif"
   },
@@ -2547,7 +2547,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "For a proper setting, place the deadly fork \u003ci\u003eafter\u003c/i\u003e the salad fork, but \u003ci\u003ebefore\u003c/i\u003e the dinner fork.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_094_Male_Fork_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_094_Male_Fork_Attack_02.ogg",
+    "AttackSound": "files/VO_KAR_094_Male_Fork_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_094.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_094_premium.gif"
   },
@@ -2558,7 +2558,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His favorite spell is Chum Explosion.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_220_Male_Murloc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_220_Male_Murloc_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_220_Male_Murloc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_220.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_220_premium.gif"
   },
@@ -2569,7 +2569,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "How's everyone doing? Hurt? Bleeding? Wounded? ... Excellent.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_450_Male_Spirit_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_450_Male_Spirit_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_450_Male_Spirit_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_450.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_450_premium.gif"
   },
@@ -2580,7 +2580,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't fear the Arcanite Reaper.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_810_Male_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_810_Male_Undead_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_810_Male_Undead_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_810.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_810_premium.gif"
   },
@@ -2591,7 +2591,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_006_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_006_Attack.ogg",
+    "AttackSound": "files/SFX_FP1_006_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_006.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_006_premium.gif"
   },
@@ -2602,7 +2602,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Rise from your grave!\" - Kel'Thuzad",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_009_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_009_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_009_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_009.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_009_premium.gif"
   },
@@ -2613,7 +2613,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_829t2_Male_Orc_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_829t2_Male_Orc_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_829t2_Male_Orc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_829t2.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_829t2_premium.gif"
   },
@@ -2624,7 +2624,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It helps to speak really, really loud.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_467_Female_Nerubian_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_467_Female_Nerubian_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_467_Female_Nerubian_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_467.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_467_premium.gif"
   },
@@ -2635,7 +2635,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Once a noble dragon known as Neltharion, Deathwing lost his mind and shattered Azeroth before finally being defeated.  Daddy issues?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_030_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_030_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_030_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_030.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_030_premium.gif"
   },
@@ -2646,7 +2646,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "To his credit, Deathwing really took to heart the feedback he was receiving that he needed to be \"more of a team player\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_317_Male_Dragon_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_317_Male_Dragon_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_317_Male_Dragon_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_317.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_317_premium.gif"
   },
@@ -2657,7 +2657,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA07_11_Debris_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA07_11_Debris_Attack.ogg",
+    "AttackSound": "files/LOEA07_11_Debris_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_11.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_11.png"
   },
@@ -2668,7 +2668,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_130a_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_130a_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_130a_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_130a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_130a_premium.gif"
   },
@@ -2679,7 +2679,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You wouldn’t think that Argus would need this much defending.  But it does.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_093_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_093_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_093_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_093.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_093_premium.gif"
   },
@@ -2690,7 +2690,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_131t_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_131t_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_131t_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_131t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_131t_premium.gif"
   },
@@ -2701,7 +2701,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His house cleaning service is quite thorough.  Not a spot to be found... or any of your stuff!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_855_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_855_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_855_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_855.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_855_premium.gif"
   },
@@ -2712,7 +2712,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He stole the deed to town years ago, so technically the town \u003ci\u003eis\u003c/i\u003e his. He just calls people Scrub to be mean.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_131_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_131_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_131_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_131.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_131_premium.gif"
   },
@@ -2723,7 +2723,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He prefers that you refer to him by his nickname: 'Frostwaker.'",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_085_Androgynous _Faceless_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_085_Androgynous _Faceless_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_085_Androgynous _Faceless_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_085.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_085_premium.gif"
   },
@@ -2734,7 +2734,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Laying siege isn't fun for anyone.  It's not even all that effective, now that everyone has a flying mount.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_102_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_102_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_102_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_102.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_102_premium.gif"
   },
@@ -2745,7 +2745,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Dang.  This card is sweet.  Almost as sweet as Dessert Camel.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_020_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_020_Attack.ogg",
+    "AttackSound": "files/SFX_LOE_020_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_020.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_020_premium.gif"
   },
@@ -2756,7 +2756,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's deathspicable.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_075_Male_Dreadlord_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_075_Male_Dreadlord_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_075_Male_Dreadlord_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_075.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_075_premium.gif"
   },
@@ -2767,7 +2767,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_tk29_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_tk29_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_tk29_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_tk29.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_tk29_premium.gif"
   },
@@ -2778,7 +2778,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_083t1_Devilsaur_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_083t1_Devilsaur_Attack.ogg",
+    "AttackSound": "files/UNG_083t1_Devilsaur_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_083t1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_083t1_premium.gif"
   },
@@ -2789,7 +2789,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A key ingredient in all discerning Funnel Cake recipes.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/DevilsaurEgg_UNG_083_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/DevilsaurEgg_UNG_083_Attack.ogg",
+    "AttackSound": "files/DevilsaurEgg_UNG_083_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_083.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_083_premium.gif"
   },
@@ -2800,7 +2800,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "We are pretty excited about the upcoming release of Dire Wolf Beta, just repost this sign for a chance at a key.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_162_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_162_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_162_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_162.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_162_premium.gif"
   },
@@ -2811,7 +2811,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His mom could beat up your mom.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_957_DirehornHatchling_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_957_DirehornHatchling_Attack.ogg",
+    "AttackSound": "files/UNG_957_DirehornHatchling_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_957.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_957_premium.gif"
   },
@@ -2822,7 +2822,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_957t1_DirehornMatriarch_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_957t1_DirehornMatriarch_Attack.ogg",
+    "AttackSound": "files/UNG_957t1_DirehornMatriarch_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_957t1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_957t1_premium.gif"
   },
@@ -2833,7 +2833,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's not his fault…  Someone keeps stealing his soap!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_790_Male_Kobold_Play_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_790_Male_Kobold_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_790_Male_Kobold_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_790.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_790_premium.gif"
   },
@@ -2844,7 +2844,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "C’Thun’s recruiting pitch involves cookies, which is why it’s the most popular Old God.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_162_Male_Panderan_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_162_Male_Panderan_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_162_Male_Panderan_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_162.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_162_premium.gif"
   },
@@ -2855,7 +2855,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you want your wish granted, don't rub him the wrong way.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_053_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_053_Attack_02.ogg",
+    "AttackSound": "files/VO_LOE_053_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_053.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_053_premium.gif"
   },
@@ -2866,7 +2866,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The brilliant mastermind of the Grimy Goons, Han sometimes thinks about ditching the idiot Cho, but that would just tear him apart.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_685_Male_Ogre_Play_01_Hon.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_685_Male_Ogre_Attack_01_Hon.ogg",
+    "AttackSound": "files/VO_CFM_685_Male_Ogre_Attack_01_Hon.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_685.gif",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_685_premium.gif"
   },
@@ -2877,7 +2877,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Hello, is Doom there? No? Can I leave a message?\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_255_Male_Orc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_255_Male_Orc_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_255_Male_Orc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_255.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_255_premium.gif"
   },
@@ -2888,7 +2888,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Jaina was never good at keeping up apprentices.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_083_Female_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_083_Female_Gnome_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_083_Female_Gnome_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_083.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_083_premium.gif"
   },
@@ -2899,7 +2899,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Summoning a doomguard is risky. \u003ci\u003eSomeone\u003c/i\u003e is going to die.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_310_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_310_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_310_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_310.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_310_premium.gif"
   },
@@ -2910,7 +2910,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's almost been right so many times. He was \u003ci\u003esure\u003c/i\u003e it was coming during the Cataclysm.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_021_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_021_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_021_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_021.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_021_premium.gif"
   },
@@ -2921,7 +2921,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_668t_Male_Faceless_Play_05.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_668t_Male_Faceless_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_668t_Male_Faceless_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_668t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_668t_premium.gif"
   },
@@ -2932,7 +2932,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Every me, get in here!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_668_Male_Dwarf_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_668_Male_Dwarf_Attack_02.ogg",
+    "AttackSound": "files/VO_CFM_668_Male_Dwarf_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_668.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_668_premium.gif"
   },
@@ -2943,7 +2943,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_668t2_Male_Faceless_Play_05.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_668t2_Male_Faceless_Attack_02.ogg",
+    "AttackSound": "files/VO_CFM_668t2_Male_Faceless_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_668t2.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_668t2_premium.gif"
   },
@@ -2954,7 +2954,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_04_01_Female_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_04_01_Female_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_KARA_04_01_Female_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_04_01.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_04_01.png"
   },
@@ -2965,7 +2965,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "MARVEL AT HIS MIGHT!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_110_DrBoom_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_110_DrBoom_Attack.ogg",
+    "AttackSound": "files/GVG_110_DrBoom_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_110.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_110_premium.gif"
   },
@@ -2976,7 +2976,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's nice to find a real craftsman in this day and age of mass-produced totems.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_047_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_047_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_047_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_047.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_047_premium.gif"
   },
@@ -2987,7 +2987,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Everybody wants someone to snuggle with. Even giant armored scaly draconic beasts of destruction.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_018_DragonConsort_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_018_DragonConsort_Attack_1.ogg",
+    "AttackSound": "files/BRM_018_DragonConsort_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_018.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_018_premium.gif"
   },
@@ -2998,7 +2998,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Think of them as bullets for your dragon gun.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_022_4 DragonEgg_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_022_4 DragonEgg_Attack_1.ogg",
+    "AttackSound": "files/BRM_022_4 DragonEgg_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_022.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_022_premium.gif"
   },
@@ -3009,7 +3009,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Check it out.  You can do barrel rolls on this thing.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_083_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_083_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_083_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_083.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_083_premium.gif"
   },
@@ -3020,7 +3020,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA09_4t_Dragonkin_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA09_4t_Dragonkin_Attack_1.ogg",
+    "AttackSound": "files/BRMA09_4t_Dragonkin_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA09_4t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA09_4t.png"
   },
@@ -3031,7 +3031,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Dragonkin Sorcerers be all \"I'm a wizard\" and everyone else be all \"daaaaang\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_020_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_020_Attack_02.ogg",
+    "AttackSound": "files/VO_BRM_020_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_020.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_020_premium.gif"
   },
@@ -3042,7 +3042,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She is still working on installing the rocket launcher add-on for Mr. Bitey.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_025_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_025_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_025_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_025.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_025_premium.gif"
   },
@@ -3053,7 +3053,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Sometimes, the best defense is an offensive troll.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_081_Male_Troll_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_081_Male_Troll_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_081_Male_Troll_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_081.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_081_premium.gif"
   },
@@ -3064,7 +3064,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Drakkari sorceresses have the irritating habit of repeating themselves at the end of every sentence. Every sentence.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_901_Male_Ghoul_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_901_Male_Ghoul_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_901_Male_Ghoul_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_901.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_901_premium.gif"
   },
@@ -3075,7 +3075,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Drakonids were created to have all the bad parts of a dragon in the form of a humanoid. But, like, why?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_024_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_024_Attack_02.ogg",
+    "AttackSound": "files/VO_BRM_024_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_024.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_024_premium.gif"
   },
@@ -3086,7 +3086,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His job is to spy on the Goons and the Jade Lotus, but he's OBVIOUSLY a dragon so it's pretty hard work.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_605_Male_Drakanoid_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_605_Male_Drakanoid_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_605_Male_Drakanoid_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_605.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_605_premium.gif"
   },
@@ -3097,7 +3097,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Yarrrr\" is a pirate word that means \"Greetings, milord.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_022_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_022_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_022_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_022.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_022_premium.gif"
   },
@@ -3108,7 +3108,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"INFERNOOOOOOOOOO!\" - Jaraxxus, Eredar Lord of the Burning Legion",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_064_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_064_Attack.ogg",
+    "AttackSound": "files/SFX_CS2_064_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_064.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_064_premium.gif"
   },
@@ -3119,7 +3119,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Let's be clear about this:  ACIDMAW is the sidekick.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_063t_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_063t_Attack.ogg",
+    "AttackSound": "files/SFX_AT_063t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_063t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_063t_premium.gif"
   },
@@ -3130,7 +3130,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Crescendo himself summoned this steed, riding it to victory in the Grand Tournament.  Wherever he rides, an army of riders ride behind him, supporting the legendary champion.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_019_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_019_Attack.ogg",
+    "AttackSound": "files/SFX_AT_019_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_019.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_019_premium.gif"
   },
@@ -3141,7 +3141,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Cat or Bear?  Cat or Bear?!  I just cannot CHOOSE!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_165_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_165_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_165_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_165.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_165_premium.gif"
   },
@@ -3152,7 +3152,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_165t1_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_165t1_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_165t1_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_165t1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_165t1_premium.gif"
   },
@@ -3163,7 +3163,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_165t2_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_165t2_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_165t2_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_165t2.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_165t2_premium.gif"
   },
@@ -3174,7 +3174,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/DruidOfTheClaw_OG_044a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/DruidOfTheClaw_OG_044a_Attack.ogg",
+    "AttackSound": "files/DruidOfTheClaw_OG_044a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_044a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_044a_premium.gif"
   },
@@ -3185,7 +3185,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Druids of the Fang live in the Wailing Caverns. They wear cool snake shirts and tell snake jokes and say \"bro\" a lot.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_080_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_080_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_080_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_080.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_080_premium.gif"
   },
@@ -3196,7 +3196,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_080t_DruidOfTheFang_Serpent_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_080t_DruidOfTheFang_Serpent_Attack.ogg",
+    "AttackSound": "files/GVG_080t_DruidOfTheFang_Serpent_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_080t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_080t_premium.gif"
   },
@@ -3207,7 +3207,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Druids who fought too long in Northrend were easily seduced by Ragnaros; a mug of hot chocolate was generally all it took.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_010_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_010_Attack_02.ogg",
+    "AttackSound": "files/VO_BRM_010_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_010.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_010_premium.gif"
   },
@@ -3218,7 +3218,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_010t_FirecatForm_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_010t_FirecatForm_Attack_1.ogg",
+    "AttackSound": "files/BRM_010t_FirecatForm_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_010t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_010t_premium.gif"
   },
@@ -3229,7 +3229,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_010t2_FirehawkForm_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_010t2_FirehawkForm_Attack_1.ogg",
+    "AttackSound": "files/BRM_010t2_FirehawkForm_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_010t2.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_010t2_premium.gif"
   },
@@ -3240,7 +3240,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "That's saberTEETH, not like curved pirate blades.  That's a different kind of druid.  Druid of the Curved Pirate Blades.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_042_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_042_ATTACK_01.ogg",
+    "AttackSound": "files/VO_AT_042_ATTACK_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_042.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_042_premium.gif"
   },
@@ -3251,7 +3251,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_051t_DruidofTheSwarm_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_051t_DruidofTheSwarm_Attack.ogg",
+    "AttackSound": "files/ICC_051t_DruidofTheSwarm_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_051t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_051t_premium.gif"
   },
@@ -3262,7 +3262,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Druid awoke from troubling dreams to find herself transformed into a giant spider.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_051_Female_NightElf_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_051_Female_NightElf_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_051_Female_NightElf_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_051.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_051_premium.gif"
   },
@@ -3273,7 +3273,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_051t2_DruidoftheSwarm_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_051t2_DruidoftheSwarm_Attack.ogg",
+    "AttackSound": "files/ICC_051t2_DruidoftheSwarm_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_051t2.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_051t2_premium.gif"
   },
@@ -3284,7 +3284,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_051t3_DruidoftheSwarm_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_051t3_DruidoftheSwarm_Attack.ogg",
+    "AttackSound": "files/ICC_051t3_DruidoftheSwarm_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_051t3.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_051t3_premium.gif"
   },
@@ -3295,7 +3295,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He just closes his eyes and goes for it. Raarararrrarar!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_066_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_066_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_066_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_066.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_066_premium.gif"
   },
@@ -3306,7 +3306,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Often excluded from dinner parties.  To be fair, he is very boaring.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Duskboar_OG_326_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Duskboar_OG_326_Attack.ogg",
+    "AttackSound": "files/Duskboar_OG_326_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_326.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_326_premium.gif"
   },
@@ -3317,7 +3317,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Westfall is full of dust devils. And buzzards. And crazed golems. And pirates. Why does anyone live here?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_243_Dust_Devil_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_243_Dust_Devil_Attack3.ogg",
+    "AttackSound": "files/EX1_243_Dust_Devil_Attack3.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_243.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_243_premium.gif"
   },
@@ -3328,7 +3328,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Nobody rocks a monocle like Eadric.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_081_PLAY_ALT1_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_081_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_081_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_081.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_081_premium.gif"
   },
@@ -3339,7 +3339,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA01_007_Male_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA01_007_Male_Gnome_Attack_03.ogg",
+    "AttackSound": "files/VO_ICCA01_007_Male_Gnome_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA01_007.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA01_007.png"
   },
@@ -3350,7 +3350,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Nothing beats rock.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_250_Earth_Elemental_EnterPlay2.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_250_Earth_Elemental_Attack3.ogg",
+    "AttackSound": "files/EX1_250_Earth_Elemental_Attack3.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_250.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_250_premium.gif"
   },
@@ -3361,7 +3361,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA07_12_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA07_12_Play_01.ogg",
+    "AttackSound": "files/VO_LOEA07_12_Play_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_12.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_12.png"
   },
@@ -3372,7 +3372,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He can see really far, and he doesn't use a telescope like those filthy pirates.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_117_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_117_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_117_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_117.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_117_premium.gif"
   },
@@ -3383,7 +3383,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA06_02t_EarthenStatue_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA06_02t_EarthenStatue_Attack.ogg",
+    "AttackSound": "files/LOEA06_02t_EarthenStatue_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA06_02t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA06_02t.png"
   },
@@ -3394,7 +3394,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You don't want to be around after it has eaten an explosive trap.  You thought Sludge Belcher was bad...",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_254_Androgynous _Faceless_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_254_Androgynous _Faceless_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_254_Androgynous _Faceless_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_254.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_254_premium.gif"
   },
@@ -3405,7 +3405,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "OOZE... Ooze... Ooze... (ooze...)",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_003_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_003_Attack.ogg",
+    "AttackSound": "files/SFX_FP1_003_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_003.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_003_premium.gif"
   },
@@ -3416,7 +3416,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He led the Stonemasons in the reconstruction of Stormwind, and when the nobles refused to pay, he founded the Defias Brotherhood to, well, \u003ci\u003edeconstruct\u003c/i\u003e Stormwind.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_613_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_613_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_613_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_613.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_613_premium.gif"
   },
@@ -3427,7 +3427,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't blink!  Don't turn your back, don't look away, and DON'T BLINK.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_107_EerieStatue_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_107_EerieStatue_Attack.ogg",
+    "AttackSound": "files/LOE_107_EerieStatue_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_107.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_107_premium.gif"
   },
@@ -3438,7 +3438,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Often misunderstood, it's just that he likes to use the eggs as pillows.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_076_Male_Tortollan_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_076_Male_Tortollan_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_076_Male_Tortollan_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_076.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_076_premium.gif"
   },
@@ -3449,7 +3449,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "And so the bartender says, “Why the long neck?”",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_109_WitheredLongneck_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_109_WitheredLongneck_Attack.ogg",
+    "AttackSound": "files/UNG_109_WitheredLongneck_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_109.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_109_premium.gif"
   },
@@ -3460,7 +3460,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Often wonders what path his life might have taken if he wasn't named, you know, \"Eldritch Horror\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_142_Male_Faceless_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_142_Male_Faceless_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_142_Male_Faceless_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_142.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_142_premium.gif"
   },
@@ -3471,7 +3471,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA14_7_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA14_7_Attack_02.ogg",
+    "AttackSound": "files/VO_BRMA14_7_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA14_7.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA14_7.png"
   },
@@ -3482,7 +3482,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A large part of her job entails not mixing up the Map to the Golden Monkey with the Map to Monkey Island.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_079_Play_15.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_079_Attack_13.ogg",
+    "AttackSound": "files/VO_LOE_079_Attack_13.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_079.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_079_premium.gif"
   },
@@ -3493,7 +3493,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Reno taught her that blazing her own trail is a lot more fun than following someone else's map.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_851_Female_Night Elf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_851_Female_Night Elf_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_851_Female_Night Elf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_851.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_851_premium.gif"
   },
@@ -3504,7 +3504,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's looking for a drummer.  The current candidates are: Novice Engineer, Sen'jin Shieldmasta', and Ragnaros the Firelord.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_PRO_001_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_PRO_001_Attack.ogg",
+    "AttackSound": "files/SFX_PRO_001_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/PRO_001.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/PRO_001_premium.gif"
   },
@@ -3515,7 +3515,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't bother asking her out on a date.  She'll shoot you down.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_189_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_189_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_189_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_189.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_189_premium.gif"
   },
@@ -3526,7 +3526,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka3_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka3_Attack.ogg",
+    "AttackSound": "files/SFX_Mekka3_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/Mekka3.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/Mekka3_premium.gif"
   },
@@ -3537,7 +3537,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_DREAM_03_EmeraldDrake_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_DREAM_03_EmeraldDrake_Attack.ogg",
+    "AttackSound": "files/WoW_DREAM_03_EmeraldDrake_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/DREAM_03.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/DREAM_03_premium.gif"
   },
@@ -3548,7 +3548,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Not to be confused with clubbing enthusiast Emerald Raver.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_803_EmeraldReaver_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_803_EmeraldReaver_Attack.ogg",
+    "AttackSound": "files/UNG_803_EmeraldReaver_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_803.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_803_premium.gif"
   },
@@ -3559,7 +3559,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Sholazar Basin is home to a lot of really horrible things. If you're going to visit, wear bug spray.  And plate armor.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_170_Emperor_Cobra_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_170_Emperor_Cobra_Attack1.ogg",
+    "AttackSound": "files/EX1_170_Emperor_Cobra_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_170.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_170_premium.gif"
   },
@@ -3570,7 +3570,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Once upon a midnight restive, Medivh pondered, feeling festive!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_300_EnchantedRaven_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_300_EnchantedRaven_Attack_01.ogg",
+    "AttackSound": "files/KAR_300_EnchantedRaven_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_300.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_300_premium.gif"
   },
@@ -3581,7 +3581,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His enhancements are gluten free!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_107_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_107_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_107_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_107.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_107_premium.gif"
   },
@@ -3592,7 +3592,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Just try to avoid eye contact.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_026_Male_Qiraji_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_026_Male_Qiraji_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_026_Male_Qiraji_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_026.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_026_premium.gif"
   },
@@ -3603,7 +3603,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The ethereals are wrapped in cloth to give form to their non-corporeal bodies. Also because it's nice and soft.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_274_Ethereal_Arcanist_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_274_Ethereal_Arcanist_Attack1.ogg",
+    "AttackSound": "files/EX1_274_Ethereal_Arcanist_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_274.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_274_premium.gif"
   },
@@ -3614,7 +3614,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Despite the name, he's a solid conjurer.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_003_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_003_Attack_02.ogg",
+    "AttackSound": "files/VO_LOE_003_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_003.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_003_premium.gif"
   },
@@ -3625,7 +3625,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Yeah, sure. That Ragnaros \"fell off the back of a truck\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_070_a_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_070_Female_Ethereal_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_070_Female_Ethereal_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_070.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_070_premium.gif"
   },
@@ -3636,7 +3636,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "To be honest, heckling is not the most effective form of evil.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_114_PLAY_ALT1_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_114_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_114_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_114.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_114_premium.gif"
   },
@@ -3647,7 +3647,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You no take tentacle!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_082_Male_Kobold_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_082_Male_Kobold_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_082_Male_Kobold_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_082.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_082_premium.gif"
   },
@@ -3658,7 +3658,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "We've all been there after a night of one-too-many funnel cakes.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ExplodingBloatbat_ICC_021_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ExplodingBloatbat_ICC_021_Attack.ogg",
+    "AttackSound": "files/ExplodingBloatbat_ICC_021_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_021.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_021_premium.gif"
   },
@@ -3669,7 +3669,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "How is this supposed to work?  Your enemies think, \"\u003ci\u003eHey!\u003c/i\u003e Cute sheep!\" and run over to cuddle it?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_076_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_076_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_076_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_076.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_076_premium.gif"
   },
@@ -3680,7 +3680,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "HATES being called \"the wonder twins\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_131_PLAY_ALT1_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_131_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_131_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_131.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_131_premium.gif"
   },
@@ -3691,7 +3691,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Rejected names: Forty-Foot Faceless, Big ol' No-face, Huge Creature Sans Face, Teddy.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_141_Androgynous _Faceless_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_141_Androgynous _Faceless_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_141_Androgynous _Faceless_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_141.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_141_premium.gif"
   },
@@ -3702,7 +3702,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FacelessDestroyer_OG_272t_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FacelessDestroyer_OG_272t_Attack.ogg",
+    "AttackSound": "files/FacelessDestroyer_OG_272t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_272t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_272t_premium.gif"
   },
@@ -3713,7 +3713,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Faceless Ones are servants of Yogg-Saron, and they feed on fear. Right now they are feeding on your fear of accidentally disenchanting all your good cards.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_EX1_564_FacelessManipulator_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_EX1_564_FacelessManipulator_Attack.ogg",
+    "AttackSound": "files/WoW_EX1_564_FacelessManipulator_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_564.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_564_premium.gif"
   },
@@ -3724,7 +3724,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"What is that thing?!\" \"I'm not sure, but it seems to be sort of Ysera shaped.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FacelessShambler_OG_174_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FacelessShambler_OG_174_Attack.ogg",
+    "AttackSound": "files/FacelessShambler_OG_174_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_174.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_174_premium.gif"
   },
@@ -3735,7 +3735,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They never get the recognition they deserve.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_207_Androgynous _Faceless_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_207_Androgynous _Faceless_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_207_Androgynous _Faceless_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_207.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_207_premium.gif"
   },
@@ -3746,7 +3746,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Adorable.  Immune to Magic.  Doesn't pee on the rug.  The perfect pet!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NEW1_023_Faerie_Dragon_EnterPlay_2.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NEW1_023_Faerie_Dragon_Attack_2.ogg",
+    "AttackSound": "files/NEW1_023_Faerie_Dragon_Attack_2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_023.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_023_premium.gif"
   },
@@ -3757,7 +3757,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "And he can't get up.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_003_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_003_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_003_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_003.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_003_premium.gif"
   },
@@ -3768,7 +3768,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's hard to keep a Shattered Sun Cleric down.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_094_Male_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_094_Male_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_094_Male_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_094.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_094_premium.gif"
   },
@@ -3779,7 +3779,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NAX11_03_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NAX11_03_Attack.ogg",
+    "AttackSound": "files/SFX_NAX11_03_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX11_03.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX11_03.png"
   },
@@ -3790,7 +3790,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Always manages to mention \"Back when I was creating the World Tree…\" in EVERY conversation. Sheesh! Enough already.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_044_Male_Night Elf_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_044_Male_Night Elf_Attack_02.ogg",
+    "AttackSound": "files/VO_OG_044_Male_Night Elf_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_044.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_044_premium.gif"
   },
@@ -3801,7 +3801,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Her clothing? Pure silk, of course.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_047_Female_Nerubian_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_047_Female_Nerubian_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_047_Female_Nerubian_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_047.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_047_premium.gif"
   },
@@ -3812,7 +3812,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They were originally called Cuddleguards, but they were not inspiring the proper amount of fear.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_020_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_020_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_020_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_020.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_020_premium.gif"
   },
@@ -3823,7 +3823,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The box says, \"New and improved, with 200% more fel!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_020_FelCannon_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_020_FelCannon_Attack.ogg",
+    "AttackSound": "files/GVG_020_FelCannon_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_020.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_020_premium.gif"
   },
@@ -3834,7 +3834,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Doc says the persistent burning sensation in my soul is probably just an ulcer.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_609_Male_FelOrc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_609_Male_FelOrc_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_609_Male_FelOrc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_609.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_609_premium.gif"
   },
@@ -3845,7 +3845,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "So reaver. Much fel. Wow.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_016_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_016_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_016_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_016.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_016_premium.gif"
   },
@@ -3856,7 +3856,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Yes, he'll fight for you.  BUT HE'S NOT GOING TO LIKE IT.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_301_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_301_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_301_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_301.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_301_premium.gif"
   },
@@ -3867,7 +3867,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He used to be called Bog Beast, but it confused people because he wasn't an actual beast.   Boom, New Name!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS1_069_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS1_069_Attack.ogg",
+    "AttackSound": "files/SFX_CS1_069_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS1_069.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS1_069_premium.gif"
   },
@@ -3878,7 +3878,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Good fencers make good neighbors, right?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_115_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_115_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_115_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_115.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_115_premium.gif"
   },
@@ -3889,7 +3889,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA07_008_Male_Abomination_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA07_008_Male_Abomination_Attack_01.ogg",
+    "AttackSound": "files/VO_ICCA07_008_Male_Abomination_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA07_008.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA07_008.png"
   },
@@ -3900,7 +3900,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Feugen is sad because everyone likes Stalagg better.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_015_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_015_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_015_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_015.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_015_premium.gif"
   },
@@ -3911,7 +3911,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Fierce monkey.  That funky monkey.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_022_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_022_Attack.ogg",
+    "AttackSound": "files/SFX_LOE_022_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_022.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_022_premium.gif"
   },
@@ -3922,7 +3922,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He'll always be our first.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FieryBat_OG_179_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FieryBat_OG_179_Attack.ogg",
+    "AttackSound": "files/FieryBat_OG_179_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_179.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_179_premium.gif"
   },
@@ -3933,7 +3933,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Yeah, I can get you Knuckles.  No, no, he's been clean for *weeks*.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_328_Female_Orc_Play_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_328_Female_Orc_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_328_Female_Orc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_328.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_328_premium.gif"
   },
@@ -3944,7 +3944,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The last true master of Finjitsu.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_344_Male_Murloc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_344_Male_Murloc_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_344_Male_Murloc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_344.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_344_premium.gif"
   },
@@ -3955,7 +3955,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_finkle_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_finkle_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_finkle_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_finkle.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_finkle_premium.gif"
   },
@@ -3966,7 +3966,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He can never take a bath. Ewww.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_042_Play_FireElemental.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_042_Attack_FireElemental.ogg",
+    "AttackSound": "files/CS2_042_Attack_FireElemental.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_042.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_042_premium.gif"
   },
@@ -3977,7 +3977,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Archnemeses: small children with glass jars.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_809_GiantFirefly_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_809_GiantFirefly_Attack.ogg",
+    "AttackSound": "files/UNG_809_GiantFirefly_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_809.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_809_premium.gif"
   },
@@ -3988,7 +3988,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Good for summoning elementals. Great for making s'mores.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_202_Male_Elemental_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_202_Male_Elemental_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_202_Male_Elemental_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_202.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_202_premium.gif"
   },
@@ -3999,7 +3999,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ragnaros interviews hundreds of Fire Elementals for the position of \"Destroyer\" but very few have what it takes.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_012_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_012_Attack_02.ogg",
+    "AttackSound": "files/VO_BRM_012_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_012.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_012_premium.gif"
   },
@@ -4010,7 +4010,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_BRMA04_3_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_BRMA04_3_Attack.ogg",
+    "AttackSound": "files/SFX_BRMA04_3_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA04_3.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA04_3.png"
   },
@@ -4021,7 +4021,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "LOVES being called \"the wonder twins\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_129_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_129_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_129_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_129.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_129_premium.gif"
   },
@@ -4032,7 +4032,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_809t1_FlameElemental_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_809t1_FlameElemental_Attack.ogg",
+    "AttackSound": "files/UNG_809t1_FlameElemental_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_809t1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_809t1_premium.gif"
   },
@@ -4043,7 +4043,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Imps like being on fire.  They just do.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_319_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_319_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_319_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_319.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_319_premium.gif"
   },
@@ -4054,7 +4054,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "At first he liked juggling chain saws, but then he thought, \"Flames are better!  Because FIRE!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_094_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_094_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_094_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_094.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_094_premium.gif"
   },
@@ -4065,7 +4065,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mimiron likes to take the Flame Leviathan out on some sweet joyrides.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_007_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_007_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_007_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_007.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_007_premium.gif"
   },
@@ -4076,7 +4076,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TU4e_002t_Flame_of_Azzinoth_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TU4e_002t_Flame_of_Azzinoth_Attack.ogg",
+    "AttackSound": "files/TU4e_002t_Flame_of_Azzinoth_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_614t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_614t_premium.gif"
   },
@@ -4087,7 +4087,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TU4e_002t_Flame_of_Azzinoth_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TU4e_002t_Flame_of_Azzinoth_Attack.ogg",
+    "AttackSound": "files/TU4e_002t_Flame_of_Azzinoth_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4e_002t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4e_002t.png"
   },
@@ -4098,7 +4098,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Totemsmiths like to use the rarest woods for their totems.  There are even rumors of totems made of Ironbark Protectors.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_565_Play_FlametongueTotem.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_565_Attack_00.ogg",
+    "AttackSound": "files/SFX_EX1_565_Attack_00.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_565.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_565_premium.gif"
   },
@@ -4109,7 +4109,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Flamewakers HATE being confused for Flamewalkers. They just wake up fire, they don’t walk on it. Walking on fire is CRAZY.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_002_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_002_Attack_02.ogg",
+    "AttackSound": "files/VO_BRM_002_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_002.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_002_premium.gif"
   },
@@ -4120,7 +4120,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA06_4_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA06_4_Attack_02.ogg",
+    "AttackSound": "files/VO_BRMA06_4_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA06_4.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRMA06_4_premium.gif"
   },
@@ -4131,7 +4131,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's on fire! Boomshakalaka!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_024_Male_Faceless_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_024_Male_Faceless_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_024_Male_Faceless_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_024.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_024_premium.gif"
   },
@@ -4142,7 +4142,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "'Flesheating' is an unfair name.  It's just that there's not really much else for him to eat.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/tt_004_FleshEating_Ghoul_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/tt_004_FleshEating_Ghoul_Attack1.ogg",
+    "AttackSound": "files/tt_004_FleshEating_Ghoul_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/tt_004.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/tt_004_premium.gif"
   },
@@ -4153,7 +4153,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Evil Eye Watcher of Doom\" was the original name, but marketing felt it was a bit too aggressive.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_100_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_100_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_100_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_100.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_100_premium.gif"
   },
@@ -4164,7 +4164,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "To operate, this contraption needs a hula doll on the dashboard. Otherwise it's just a “falling machine.”",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_084_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_084_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_084_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_084.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_084_premium.gif"
   },
@@ -4175,7 +4175,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FlyingMonkey_KARA_04_05_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FlyingMonkey_KARA_04_05_Attack.ogg",
+    "AttackSound": "files/FlyingMonkey_KARA_04_05_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_04_05.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_04_05.png"
   },
@@ -4186,7 +4186,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Foe reaping is really not so different from harvest reaping, at the end of the day.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_113_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_113_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_113_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_113.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_113_premium.gif"
   },
@@ -4197,7 +4197,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This Ancient was banned from the local tavern after tucking a 'Dr. Boom' up its sleeve.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ForbiddenAncient_OG_051_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ForbiddenAncient_OG_051_Attack.ogg",
+    "AttackSound": "files/ForbiddenAncient_OG_051_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_051.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_051_premium.gif"
   },
@@ -4208,7 +4208,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "There is a factory in Tanaris for crafting force-tanks, but it only ever made two, because of cost overruns.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_079_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_079_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_079_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_079.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_079_premium.gif"
   },
@@ -4219,7 +4219,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A02_03_Male_Fork_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A02_03_Male_Fork_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_A02_03_Male_Fork_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A02_03.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A02_03.png"
   },
@@ -4230,7 +4230,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's going to leave the dying up to you, if that's cool.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_292_Male_Worgen_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_292_Male_Worgen_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_292_Male_Worgen_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_292.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_292_premium.gif"
   },
@@ -4241,7 +4241,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This was the only job he could get after the dinosaur theme park debacle.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_073_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_073_Attack.ogg",
+    "AttackSound": "files/SFX_LOE_073_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_073.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_073_premium.gif"
   },
@@ -4252,7 +4252,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"What'll it be?  A Jade Brew?  A Grimy Goose?  A Kabal Manatini?\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_654_Male_Tauren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_654_Male_Tauren_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_654_Male_Tauren_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_654.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_654_premium.gif"
   },
@@ -4263,7 +4263,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ironically, the natural enemy of the snobold is THE CANDLE.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_093_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_093_ATTACK_ALT1_04.ogg",
+    "AttackSound": "files/VO_AT_093_ATTACK_ALT1_04.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_093.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_093_premium.gif"
   },
@@ -4274,7 +4274,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_HexFrog_Attack.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_HexFrog_Attack.ogg",
+    "AttackSound": "files/SFX_HexFrog_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/hexfrog.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/hexfrog_premium.gif"
   },
@@ -4285,7 +4285,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When a Water elemental and an Ice elemental love each other VERY much...",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_283_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_283_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_283_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_283.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_283_premium.gif"
   },
@@ -4296,7 +4296,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't ask him about the beard.  JUST DON'T.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_120_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_120_Attack_01.ogg",
+    "AttackSound": "files/SFX_AT_120_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_120.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_120_premium.gif"
   },
@@ -4307,7 +4307,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FrostWidow_ICC_832t3_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FrostWidow_ICC_832t3_Attack.ogg",
+    "AttackSound": "files/FrostWidow_ICC_832t3_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_832t3.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_832t3_premium.gif"
   },
@@ -4318,7 +4318,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Grunting is what his father did and his father before that.   It's more than just a job.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_121_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_121_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_121_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_121.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_121_premium.gif"
   },
@@ -4329,7 +4329,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Frostwolves are locked in combat with the Stormpike Expedition over control of Alterac Valley.  Every attempt at peace-talks has ended with Captain Galvangar killing the mediator.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_226_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_226_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_226_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_226.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_226_premium.gif"
   },
@@ -4340,7 +4340,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He used to work as an accountant before he tried his hand at Berserkering.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_604_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_604_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_604_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_604.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_604_premium.gif"
   },
@@ -4351,7 +4351,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_838t_FrozenChampion_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_838t_FrozenChampion_Attack.ogg",
+    "AttackSound": "files/ICC_838t_FrozenChampion_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_838t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_838t_premium.gif"
   },
@@ -4362,7 +4362,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Goes by the online handle \"KoolKrusher99.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_079_Male_Elemental_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_079_Male_Elemental_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_079_Male_Elemental_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_079.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_079_premium.gif"
   },
@@ -4373,7 +4373,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Smelts in his mouth, not in your hand.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_096_Male_Giant_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_096_Male_Giant_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_096_Male_Giant_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_096.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_096_premium.gif"
   },
@@ -4384,7 +4384,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He used to run the black market auction house, but there was just too much violence and he had to move.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_095_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_095_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_095_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_095.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_095_premium.gif"
   },
@@ -4395,7 +4395,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Is it just me, or is there something fishy about that ferryman?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_693_Female_Jinyu_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_693_Female_Jinyu_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_693_Female_Jinyu_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_693.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_693_premium.gif"
   },
@@ -4406,7 +4406,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's not HER fault you didn't put a spinning saw blade on your horse.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_133_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_133_ATTACK_ALT1_03.ogg",
+    "AttackSound": "files/VO_AT_133_ATTACK_ALT1_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_133.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_133_premium.gif"
   },
@@ -4417,7 +4417,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Comment on her height, and she'll go from flapper to kneecapper in seconds flat.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_659_Female_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_659_Female_Gnome_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_659_Female_Gnome_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_659.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_659_premium.gif"
   },
@@ -4428,7 +4428,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Sen'jin High football team is The Gahz'rillas.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_049_Gahzrilla_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_049_Gahzrilla_Attack.ogg",
+    "AttackSound": "files/GVG_049_Gahzrilla_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_049.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_049_premium.gif"
   },
@@ -4439,7 +4439,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_954t1_Anklos_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_954t1_Anklos_Attack.ogg",
+    "AttackSound": "files/UNG_954t1_Anklos_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_954t1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_954t1_premium.gif"
   },
@@ -4450,7 +4450,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He'll never admit it, but he pushes you hard because he really cares about you.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_080_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_080_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_080_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_080.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_080_premium.gif"
   },
@@ -4461,7 +4461,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Gazlowe was voted \"Most Likely to Explode\" in high school.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_117_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_117_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_117_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_117.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_117_premium.gif"
   },
@@ -4472,7 +4472,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's the leader of the gnomes, and an incredible inventor.  He's getting better, too; He turns things into chickens WAY less than he used to.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_112_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_112_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_112_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_112.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_112_premium.gif"
   },
@@ -4483,7 +4483,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Low, low rents! Must enjoy a nomadic lifestyle. Quasi-sentient, bipedal, amphibious humanoids ONLY!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_089_LumberingIsle_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_089_LumberingIsle_Attack.ogg",
+    "AttackSound": "files/UNG_089_LumberingIsle_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_089.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_089_premium.gif"
   },
@@ -4494,7 +4494,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Infamous in the seedy underground card rooms of Gadgetzan, he got his nickname winning the coveted Shark Plushie in the city's first Hearthstone tournament.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_808_Male_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_808_Male_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_808_Male_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_808.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_808_premium.gif"
   },
@@ -4505,7 +4505,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Must be something it ate.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_086_GiantAnaconda_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_086_GiantAnaconda_Attack.ogg",
+    "AttackSound": "files/UNG_086_GiantAnaconda_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_086.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_086_premium.gif"
   },
@@ -4516,7 +4516,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOEA04_23_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOEA04_23_Attack.ogg",
+    "AttackSound": "files/SFX_LOEA04_23_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA04_23.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA04_23.png"
   },
@@ -4527,7 +4527,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Still salty about it not being the \"Year of the Mastodon.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_071_GiantMastadon_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_071_GiantMastadon_Attack.ogg",
+    "AttackSound": "files/UNG_071_GiantMastadon_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_071.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_071_premium.gif"
   },
@@ -4538,7 +4538,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Banned from every all-you-can-eat buffet on Azeroth.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_308_GiantSandWorm_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_308_GiantSandWorm_Attack.ogg",
+    "AttackSound": "files/OG_308_GiantSandWorm_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_308.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_308_premium.gif"
   },
@@ -4549,7 +4549,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Float like a butterfly, sting like a giant wasp!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_814_GiantWasp_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_814_GiantWasp_Attack.ogg",
+    "AttackSound": "files/UNG_814_GiantWasp_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_814.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_814_premium.gif"
   },
@@ -4560,7 +4560,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA16_24_Giantfin_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA16_24_Giantfin_Attack.ogg",
+    "AttackSound": "files/VO_LOEA16_24_Giantfin_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA16_24.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA16_24.png"
   },
@@ -4571,7 +4571,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Shhh, I think I hear something.\"\n\n\"Ah, it's probably nothing.\" - Every Henchman",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_081_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_081_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_081_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_081.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_081_premium.gif"
   },
@@ -4582,7 +4582,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ice, ice, baby!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_205_GlacialShard_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_205_GlacialShard_Attack.ogg",
+    "AttackSound": "files/UNG_205_GlacialShard_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_205.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_205_premium.gif"
   },
@@ -4593,7 +4593,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Three time winner of the Un'Goro weapon eating contest.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GluttonousOoze_UNG_946_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GluttonousOoze_UNG_946_Attack.ogg",
+    "AttackSound": "files/GluttonousOoze_UNG_946_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_946.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_946_premium.gif"
   },
@@ -4604,7 +4604,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NEW1_040t_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NEW1_040t_Attack.ogg",
+    "AttackSound": "files/SFX_NEW1_040t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_040t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_040t_premium.gif"
   },
@@ -4615,7 +4615,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_318t_InfestedGnoll_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_318t_InfestedGnoll_Attack.ogg",
+    "AttackSound": "files/OG_318t_InfestedGnoll_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_318t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_318t_premium.gif"
   },
@@ -4626,7 +4626,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GnollReady1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GnollReady1.ogg",
+    "AttackSound": "files/GnollReady1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4a_003.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4a_003.png"
   },
@@ -4637,7 +4637,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She prefers the term \"Glampire.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_407_Female_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_407_Female_Gnome_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_407_Female_Gnome_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_407.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_407_premium.gif"
   },
@@ -4648,7 +4648,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The gnomes are valiant and ready to return to their irradiated, poorly ventilated homeland!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_098_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_098_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_098_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_098.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_098_premium.gif"
   },
@@ -4659,7 +4659,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's legitimately surprised every time he turns himself into a chicken.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_092_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_092_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_092_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_092.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_092_premium.gif"
   },
@@ -4670,7 +4670,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She's never quite sure what she's making, she just knows it's AWESOME!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_147_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_147_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_147_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_147.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_147_premium.gif"
   },
@@ -4681,7 +4681,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This guy is excellent at adjusting your haircut and/or height.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_023_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_023_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_023_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_023.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_023_premium.gif"
   },
@@ -4692,7 +4692,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you can't find a bomb to throw, just pick up any goblin invention and throw that.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_004_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_004_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_004_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_004.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_004_premium.gif"
   },
@@ -4703,7 +4703,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He’s not such a binge exploder anymore. These days, he only explodes socially.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_095_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_095_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_095_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_095.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_095_premium.gif"
   },
@@ -4714,7 +4714,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Universally adored by both control decks and ninjas.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_807_GollakaCrawler_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_807_GollakaCrawler_Attack.ogg",
+    "AttackSound": "files/UNG_807_GollakaCrawler_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_807.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_807_premium.gif"
   },
@@ -4725,7 +4725,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_019t2_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_019t2_Attack.ogg",
+    "AttackSound": "files/SFX_LOE_019t2_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_019t2.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_019t2_premium.gif"
   },
@@ -4736,7 +4736,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If 1/2 minions are all that is defending Goldshire, you would think it would have been overrun years ago.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS1_042_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS1_042_Attack_02.ogg",
+    "AttackSound": "files/VO_CS1_042_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS1_042.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS1_042_premium.gif"
   },
@@ -4747,7 +4747,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A-1 and A-2 went nuts, when they should have gone bolts.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_039_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_039_Attack.ogg",
+    "AttackSound": "files/SFX_LOE_039_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_039.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_039_premium.gif"
   },
@@ -4758,7 +4758,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Gormok has been giving impaling lessons in a small tent near the tournament grounds.  For only 25g you too could learn the fine art of impaling!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_122_GormokTheImpaler_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_122_GormokTheImpaler_Attack.ogg",
+    "AttackSound": "files/AT_122_GormokTheImpaler_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_122.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_122_premium.gif"
   },
@@ -4769,7 +4769,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A veteran of a number of crusades, she is a force for light and goodness.  Her latest crusade is against goblin telemarketers.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_118_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_118_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_118_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_118.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_118_premium.gif"
   },
@@ -4780,7 +4780,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I think one of the necromancers got a little carried away.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_097_ShamblingMound_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_097_ShamblingMound_Attack.ogg",
+    "AttackSound": "files/ICC_097_ShamblingMound_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_097.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_097_premium.gif"
   },
@@ -4791,7 +4791,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you love getting your face punched, come to the Grim Guzzler!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_019_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_019_Attack_02.ogg",
+    "AttackSound": "files/VO_BRM_019_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_019.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_019_premium.gif"
   },
@@ -4802,7 +4802,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Sir, you don't have a permit to park your mount here.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_639_Male_Dwarf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_639_Male_Dwarf_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_639_Male_Dwarf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_639.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_639_premium.gif"
   },
@@ -4813,7 +4813,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Naw, naw.  You're talkin' about Grime BOULEVARD.  I ain't know nuthin' 'bout that.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_321_Male_OrcAdolescent_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_321_Male_OrcAdolescent_Attack_02.ogg",
+    "AttackSound": "files/VO_CFM_321_Male_OrcAdolescent_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_321.gif",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_321_premium.gif"
   },
@@ -4824,7 +4824,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you bargain hard, he'll throw in the hat.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_753_Male_Goblin_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_753_Male_Goblin_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_753_Male_Goblin_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_753.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_753_premium.gif"
   },
@@ -4835,7 +4835,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"I don't know a lot about used GvG cards, so I'm going to have to call in an expert.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_755_Female_Goblin_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_755_Female_Goblin_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_755_Female_Goblin_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_755.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_755_premium.gif"
   },
@@ -4846,7 +4846,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Some new asphalt should do the trick.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_062_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_062_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_062_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_062.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_062_premium.gif"
   },
@@ -4857,7 +4857,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She's got anything you want.  Need the latest derpinger?  No problem!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_853_Female_Tauren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_853_Female_Tauren_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_853_Female_Tauren_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_853.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_853_premium.gif"
   },
@@ -4868,7 +4868,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Listen, see?  We'll take 'em to the docks, see?  And throw 'em in the sea, see?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_650_Male_Murloc_Play_04.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_650_Male_Murloc_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_650_Male_Murloc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_650.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_650_premium.gif"
   },
@@ -4879,7 +4879,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "These are the brainy murlocs.  It turns out that doesn’t mean much.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_508_Grimscale_Oracle_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_508_Grimscale_Oracle_Attack2.ogg",
+    "AttackSound": "files/EX1_508_Grimscale_Oracle_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_508.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_508_premium.gif"
   },
@@ -4890,7 +4890,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"You look like a Gadgetgun 3000-Mark IV man, am I right?\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_754_Male_Goblin_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_754_Male_Goblin_Attack_03.ogg",
+    "AttackSound": "files/VO_CFM_754_Male_Goblin_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_754.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_754_premium.gif"
   },
@@ -4901,7 +4901,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Grommash drank the tainted blood of Mannoroth, dooming the orcs to green skin and red eyes!  Maybe not his best decision.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_414_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_414_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_414_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_414.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_414_premium.gif"
   },
@@ -4912,7 +4912,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Grook Fu, the ancient Hozen art of bashing heads with a stick.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_666_Male_Hozen_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_666_Male_Hozen_Attack_02.ogg",
+    "AttackSound": "files/VO_CFM_666_Male_Hozen_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_666.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_666_premium.gif"
   },
@@ -4923,7 +4923,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They say that \"grotesque is in the eye of the beholder,\" but that's just because they've never seen a Grotesque Dragonhawk. Yikes!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_152_GrotesqueDragonhawk_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_152_GrotesqueDragonhawk_Attack.ogg",
+    "AttackSound": "files/OG_152_GrotesqueDragonhawk_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_152.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_152_premium.gif"
   },
@@ -4934,7 +4934,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Likes: Hiking and the great outdoors. Dislikes: Goblin shredders and sandals. (Can’t find any that fit!).",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_032_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_032_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_032_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_032.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_032_premium.gif"
   },
@@ -4945,7 +4945,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICCA07_004_GrowingOoze_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICCA07_004_GrowingOoze_Attack.ogg",
+    "AttackSound": "files/ICCA07_004_GrowingOoze_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA07_004.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA07_004.png"
   },
@@ -4956,7 +4956,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's Gruul \"the Dragonkiller\".  He just wanted to cuddle them… he never meant to…",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_038_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_038_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_038_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_038.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_038_premium.gif"
   },
@@ -4967,7 +4967,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NAX15_03n_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NAX15_03n_Attack.ogg",
+    "AttackSound": "files/SFX_NAX15_03n_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX15_03n.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX15_03n.png"
   },
@@ -4978,7 +4978,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NAX15_03t_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NAX15_03t_Attack.ogg",
+    "AttackSound": "files/SFX_NAX15_03t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX15_03t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX15_03t.png"
   },
@@ -4989,7 +4989,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Holy beings from the beyond are so cliché!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_088_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_088_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_088_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_088.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_088_premium.gif"
   },
@@ -5000,7 +5000,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "No Pain, No Gain.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_399_EnterPlay_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_399_Attack_02.ogg",
+    "AttackSound": "files/SFX_EX1_399_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_399.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_399_premium.gif"
   },
@@ -5011,7 +5011,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA01_4t_Play3_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA01_4t_Attack_05.ogg",
+    "AttackSound": "files/VO_BRMA01_4t_Attack_05.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA01_4t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA01_4t.png"
   },
@@ -5022,7 +5022,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA09_5t_Gyth_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA09_5t_Gyth_Attack_1.ogg",
+    "AttackSound": "files/BRMA09_5t_Gyth_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA09_5t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA09_5t.png"
   },
@@ -5033,7 +5033,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The viziers of Azjol-Nerub released Hadronox as a last-ditch effort to hold back the Lich King. They did so by VERY carefully scooping him up in a LARGE newspaper and releasing him.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_835_Hadronox_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_835_Hadronox_Attack.ogg",
+    "AttackSound": "files/ICC_835_Hadronox_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_835.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_835_premium.gif"
   },
@@ -5044,7 +5044,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hallazeals all your dallazamage.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_209_Male_Elemental_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_209_Male_Elemental_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_209_Male_Elemental_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_209.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_209_premium.gif"
   },
@@ -5055,7 +5055,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "“That belongs in the Hall of Explorers!”",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_558_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/HarrisonJ_EX1_558_whip_attack.ogg",
+    "AttackSound": "files/HarrisonJ_EX1_558_whip_attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_558.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_558_premium.gif"
   },
@@ -5066,7 +5066,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Overheat threshold exceeded. System failure. Wheat clog in port two. Shutting down.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_556_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_556_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_556_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_556.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_556_premium.gif"
   },
@@ -5077,7 +5077,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Arachnofauxbia: Fear of fake spiders.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_002_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_002_Attack.ogg",
+    "AttackSound": "files/SFX_FP1_002_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_002.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_002_premium.gif"
   },
@@ -5088,7 +5088,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NEW1_009_healing_totem_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NEW1_009_Attack_00.ogg",
+    "AttackSound": "files/SFX_NEW1_009_Attack_00.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_009.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_009_premium.gif"
   },
@@ -5099,7 +5099,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/HellBovine_TB_SPT_DPromoMinion_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/HellBovine_TB_SPT_DPromoMinion_Attack.ogg",
+    "AttackSound": "files/HellBovine_TB_SPT_DPromoMinion_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TB_SPT_DPromoMinion.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TB_SPT_DPromoMinion.png"
   },
@@ -5110,7 +5110,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/HellBovineChampion_TB_SPT_DPromoMinionChamp_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/HellBovineChampion_TB_SPT_DPromoMinionChamp_Attack.ogg",
+    "AttackSound": "files/HellBovineChampion_TB_SPT_DPromoMinionChamp_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TB_SPT_DPromoMinionChamp.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TB_SPT_DPromoMinionChamp.png"
   },
@@ -5121,7 +5121,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's hard to make a living as a hunter in a world where beasts instantly reappear minutes after you kill them.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_120_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_120_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_120_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_120.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_120_premium.gif"
   },
@@ -5132,7 +5132,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The goblin travel agency lost his luggage, but he's still having a great vacation!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_840_Male_Dwarf_Play_05.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_840_Male_Dwarf_Attack_03.ogg",
+    "AttackSound": "files/VO_UNG_840_Male_Dwarf_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_840.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_840_premium.gif"
   },
@@ -5143,7 +5143,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His whole job is yelling \"Yogg-Saron comin'!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_316_Male_Faceless_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_316_Male_Faceless_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_316_Male_Faceless_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_316.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_316_premium.gif"
   },
@@ -5154,7 +5154,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He loves his job and would do it for free!  (But don't tell his boss!)",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_653_Male_Orc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_653_Male_Orc_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_653_Male_Orc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_653.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_653_premium.gif"
   },
@@ -5165,7 +5165,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Grapplehammer is the horrible mind behind the Automatic Piranha Launcher (banned in 7 districts)!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_643_Male_Goblin_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_643_Male_Goblin_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_643_Male_Goblin_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_643.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_643_premium.gif"
   },
@@ -5176,7 +5176,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hobgoblins are meeting next week to discuss union benefits.  First on the list: dental plan.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_104_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_104_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_104_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_104.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_104_premium.gif"
   },
@@ -5187,7 +5187,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hogger is super powerful. If you kill him, it's because he \u003ci\u003elet\u003c/i\u003e you.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TUTORIAL_01_HOGGER_02_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TUTORIAL_01_HOGGER_01_01.ogg",
+    "AttackSound": "files/VO_TUTORIAL_01_HOGGER_01_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_040.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_040_premium.gif"
   },
@@ -5198,7 +5198,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When C'thun went to sleep, he checked under his bed for Hogger.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_318_HoggerDofE_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_318_HoggerDofE_Attack.ogg",
+    "AttackSound": "files/OG_318_HoggerDofE_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_318.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_318_premium.gif"
   },
@@ -5209,7 +5209,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She really likes seeing people get better.  That's why she hurts them in the first place.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_011_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_011_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_011_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_011.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_011_premium.gif"
   },
@@ -5220,7 +5220,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka1_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka1_Attack.ogg",
+    "AttackSound": "files/SFX_Mekka1_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/Mekka1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/Mekka1_premium.gif"
   },
@@ -5231,7 +5231,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Wait, what kind of acolyte doesn't wear a hood?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_334_Female_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_334_Female_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_334_Female_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_334.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_334_premium.gif"
   },
@@ -5242,7 +5242,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "NONE SHALL PASS until at least an hour after eating.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/HotSpringGuardian_UNG_938_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/HotSpringGuardian_UNG_938_Attack.ogg",
+    "AttackSound": "files/HotSpringGuardian_UNG_938_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_938.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_938_premium.gif"
   },
@@ -5253,7 +5253,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_538t_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_538t_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_538t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_538t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_538t_premium.gif"
   },
@@ -5264,7 +5264,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Who let the dogs out?\" he asks.  It's rhetorical.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_DS1_070_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_DS1_070_Attack_02.ogg",
+    "AttackSound": "files/VO_DS1_070_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/DS1_070.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/DS1_070_premium.gif"
   },
@@ -5275,7 +5275,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The problem is that he carries those cards in his mouth.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_218_Howlfiend_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_218_Howlfiend_Attack.ogg",
+    "AttackSound": "files/ICC_218_Howlfiend_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_218.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_218_premium.gif"
   },
@@ -5286,7 +5286,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Enlistment in her battalion comes with several pairs of earplugs.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_801_Female_Dwarf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_801_Female_Dwarf_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_801_Female_Dwarf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_801.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_801_premium.gif"
   },
@@ -5297,7 +5297,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He didn't go to school for healing, but we keep losing all the good healers to Ratchet, so I guess we'll take him.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_067_Male_Hozen_Play_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_067_Male_Hozen_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_067_Male_Hozen_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_067.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_067_premium.gif"
   },
@@ -5308,7 +5308,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NEW1_034_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NEW1_034_Attack.ogg",
+    "AttackSound": "files/SFX_NEW1_034_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_034.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_034_premium.gif"
   },
@@ -5319,7 +5319,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Deals damage when he croaks.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_046_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_046_Attack.ogg",
+    "AttackSound": "files/SFX_LOE_046_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_046.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_046_premium.gif"
   },
@@ -5330,7 +5330,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Loves goblins.  In a light cream sauce.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_844_HumongusRaptorLeaf_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_844_HumongusRaptorLeaf_Attack.ogg",
+    "AttackSound": "files/UNG_844_HumongusRaptorLeaf_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_844.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_844_premium.gif"
   },
@@ -5341,7 +5341,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Murloc.  It's what's for dinner.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NEW1_017_Hungry_Crab_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NEW1_017_Hungry_Crab_Attack1.ogg",
+    "AttackSound": "files/NEW1_017_Hungry_Crab_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_017.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_017_premium.gif"
   },
@@ -5352,7 +5352,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hungry Hungry Dragon is NOT a fun game.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_026_HungryDragon_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_026_HungryDragon_Attack_1.ogg",
+    "AttackSound": "files/BRM_026_HungryDragon_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_026.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_026_premium.gif"
   },
@@ -5363,7 +5363,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA09_5_HungryNaga_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA09_5_HungryNaga_Attack.ogg",
+    "AttackSound": "files/LOEA09_5_HungryNaga_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA09_5.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA09_5.png"
   },
@@ -5374,7 +5374,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Murloc hydrologists are pretty rare.  Most murloc undergrads pick computer science.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_011_Female_Murloc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_011_Female_Murloc_Attack_05.ogg",
+    "AttackSound": "files/VO_UNG_011_Female_Murloc_Attack_05.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_011.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_011_premium.gif"
   },
@@ -5385,7 +5385,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't be fooled, that polar bear's the one in charge.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_855_Female_Vrykul_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_855_Female_Vrykul_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_855_Female_Vrykul_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_855.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_855_premium.gif"
   },
@@ -5396,7 +5396,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's a lot cooler than Magma Rager.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_092_IceRager_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_092_IceRager_Attack.ogg",
+    "AttackSound": "files/AT_092_IceRager_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_092.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_092_premium.gif"
   },
@@ -5407,7 +5407,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ice \u003ci\u003eWalker\u003c/i\u003e you say? He doesn't have feet!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_068_Female_BloodElf_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_068_Female_BloodElf_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_068_Female_BloodElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_068.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_068_premium.gif"
   },
@@ -5418,7 +5418,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This massive yeti just closes his eyes and charges at the nearest target.  The nearest Target is a couple blocks away and has sick deals on skateboards.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_125_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_125_Attack_01.ogg",
+    "AttackSound": "files/SFX_AT_125_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_125.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_125_premium.gif"
   },
@@ -5429,7 +5429,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_09_03a_Male_Imp_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_09_03a_Male_Imp_Attack_01.ogg",
+    "AttackSound": "files/VO_KARA_09_03a_Male_Imp_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_09_03a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_09_03a.png"
   },
@@ -5440,7 +5440,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/IckyTentacle_OG_114a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/IckyTentacle_OG_114a_Attack.ogg",
+    "AttackSound": "files/IckyTentacle_OG_114a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_114a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_114a_premium.gif"
   },
@@ -5451,7 +5451,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "We wanted to name him \"Ingenious Elemental\", but he just wasn't that bright.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_845_Male_Elemental_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_845_Male_Elemental_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_845_Male_Elemental_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_845.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_845_premium.gif"
   },
@@ -5462,7 +5462,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Illidan's brother, Malfurion, imprisoned him beneath Hyjal for 10,000 years.  Stormrages are not good at letting go of grudges.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TUTORIAL_05_ILLIDAN_01_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TUTORIAL_05_ILLIDAN_04_05.ogg",
+    "AttackSound": "files/VO_TUTORIAL_05_ILLIDAN_04_05.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_614.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_614_premium.gif"
   },
@@ -5473,7 +5473,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"LUMOS!\" is not what they yell. What do you think this is, Hogwarts?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_089_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_089_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_089_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_089.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_089_premium.gif"
   },
@@ -5484,7 +5484,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_EX1_598_Imp_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_EX1_598_Imp_Attack.ogg",
+    "AttackSound": "files/WoW_EX1_598_Imp_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_598.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_598_premium.gif"
   },
@@ -5495,7 +5495,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_045t_Imp_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_045t_Imp_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_045t_Imp_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_045t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_045t_premium.gif"
   },
@@ -5506,7 +5506,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His imp gang likes to sneak into Stormwind to spraypaint \"Ragnaros Rulez\" on the Mage Tower.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_006_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_006_Attack_02.ogg",
+    "AttackSound": "files/VO_BRM_006_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_006.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_006_premium.gif"
   },
@@ -5517,7 +5517,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She would enjoy the job a lot more if she just could get the imps to QUIT BITING HER.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_597_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_597_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_597_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_597.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_597_premium.gif"
   },
@@ -5528,7 +5528,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_tk34_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_tk34_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_tk34_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_tk34.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_tk34_premium.gif"
   },
@@ -5539,7 +5539,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Overmind and the Old Gods are surprisingly similar.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_249_Male_Tauren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_249_Male_Tauren_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_249_Male_Tauren_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_249.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_249_premium.gif"
   },
@@ -5550,7 +5550,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A little flea powder will fix that right up.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/InfestedWolf_OG_216_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/InfestedWolf_OG_216_Attack.ogg",
+    "AttackSound": "files/InfestedWolf_OG_216_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_216.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_216_premium.gif"
   },
@@ -5561,7 +5561,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He claims it is an old war wound, but we think he just cut himself shaving.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_181_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_181_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_181_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_181.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_181_premium.gif"
   },
@@ -5572,7 +5572,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't worry.  With a little skin cream he's going to clear right up.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_105_PLAY_01_ALT.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_105_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_105_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_105.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_105_premium.gif"
   },
@@ -5583,7 +5583,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Solia marks the Kabal with intricate tattoos that grant immense power. Also it makes it harder for other gangs to recruit from their numbers. BACK OFF, GOONS.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_687_Female_BloodElf_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_687_Female_BloodElf_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_687_Female_BloodElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_687.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_687_premium.gif"
   },
@@ -5594,7 +5594,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_829t4_Female_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_829t4_Female_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_829t4_Female_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_829t4.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_829t4_premium.gif"
   },
@@ -5605,7 +5605,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Iron Juggernaut guards Orgrimmar and has just earned the \"Employee of the Month\" award!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_056_IronJuggernaut_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_056_IronJuggernaut_Attack.ogg",
+    "AttackSound": "files/GVG_056_IronJuggernaut_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_056.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_056_premium.gif"
   },
@@ -5616,7 +5616,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mechs like learning from him because he really speaks their language.\n\n0110100001101001",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_027_Play_01_ALT.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_027_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_027_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_027.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_027_premium.gif"
   },
@@ -5627,7 +5627,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I \u003ci\u003edare\u003c/i\u003e you to attack Darnassus.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_232_Ironbark_Protector_EnterPlay2.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_232_Ironbark_Protector_Attack4.ogg",
+    "AttackSound": "files/CS2_232_Ironbark_Protector_Attack4.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_232.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_232_premium.gif"
   },
@@ -5638,7 +5638,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Their wings are silent but their screech is... whatever the opposite of silent is.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_203_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_203_Attack.ogg",
+    "AttackSound": "files/SFX_CS2_203_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_203.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_203_premium.gif"
   },
@@ -5649,7 +5649,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Ready! Aim! Drink!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_141_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_141_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_141_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_141.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_141_premium.gif"
   },
@@ -5660,7 +5660,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Bear Carcass 1/10\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_125_Ironfur_Grizzly_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_125_Ironfur_Grizzly_Attack3.ogg",
+    "AttackSound": "files/CS2_125_Ironfur_Grizzly_Attack3.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_125.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_125_premium.gif"
   },
@@ -5671,7 +5671,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I think we should talk about the jade elephant in the room.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/JadeElekk_CFM_343_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/JadeElekk_CFM_343_Attack.ogg",
+    "AttackSound": "files/JadeElekk_CFM_343_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_343.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_343_premium.gif"
   },
@@ -5682,7 +5682,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Seeing his Jade Golem grow up into the tall, handsome 6/6 standing before him was the proudest moment of his life.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_312_Male_Mogu_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_312_Male_Mogu_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_312_Male_Mogu_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_312.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_312_premium.gif"
   },
@@ -5693,7 +5693,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"He's so cute!  I just want to squeeze him, then use him for Jade Golem parts!\" - Aya Blackpaw",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CFM_715_JadeElemental_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CFM_715_JadeElemental_Attack.ogg",
+    "AttackSound": "files/CFM_715_JadeElemental_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_715.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_715_premium.gif"
   },
@@ -5704,7 +5704,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's so good at swarming, he can swarm all by himself!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_691_Male_Mantid_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_691_Male_Mantid_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_691_Male_Mantid_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_691.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_691_premium.gif"
   },
@@ -5715,7 +5715,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This robot is a lean, mean, butlerin' machine.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_094_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_094_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_094_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_094.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_094_premium.gif"
   },
@@ -5726,7 +5726,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It’s not LITERALLY jeweled. The goblins were terribly disappointed.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/JeweledMacaw_UNG_912_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/JeweledMacaw_UNG_912_Attack.ogg",
+    "AttackSound": "files/JeweledMacaw_UNG_912_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_912.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_912_premium.gif"
   },
@@ -5737,7 +5737,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's amazing what you can do with super glue!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_029_JeweledScarab_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_029_JeweledScarab_Attack.ogg",
+    "AttackSound": "files/LOE_029_JeweledScarab_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_029.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_029_premium.gif"
   },
@@ -5748,7 +5748,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Waterspeakers can tell the future! So the Jade Lotus employs them to speculate on the Auction House.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_061_Male_Jinyu_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_061_Male_Jinyu_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_061_Male_Jinyu_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_061.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_061_premium.gif"
   },
@@ -5759,7 +5759,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The REAL angry chicken!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_051_JungleMoonkin_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_051_JungleMoonkin_Attack.ogg",
+    "AttackSound": "files/LOE_051_JungleMoonkin_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_051.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_051_premium.gif"
   },
@@ -5770,7 +5770,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Stranglethorn is a beautiful place to visit, but you wouldn't want to live there.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_017_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_017_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_017_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_017.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_017_premium.gif"
   },
@@ -5781,7 +5781,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "One bot's junk is another bot's AWESOME UPGRADE!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_106_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_106_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_106_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_106.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_106_premium.gif"
   },
@@ -5792,7 +5792,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's like putting racing stripes and a giant spoiler on your hero power.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_132_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_132_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_132_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_132.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_132_premium.gif"
   },
@@ -5803,7 +5803,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Sure you could have that Polymorph potion, but wouldn't you rather have this mystery potion?  It could be anything.  Even a Polymorph potion!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_619_Female_BloodElf_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_619_Female_BloodElf_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_619_Female_BloodElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_619.gif",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_619_premium.gif"
   },
@@ -5814,7 +5814,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hey, you park your kodo under a harpy nest, you get what you deserve.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_649_Female_Harpy_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_649_Female_Harpy_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_649_Female_Harpy_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_649.gif",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_649_premium.gif"
   },
@@ -5825,7 +5825,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Listen, I can cut you in on a little of this premium mana, but you can't tell my boss.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_760_Female_Dranei_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_760_Female_Dranei_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_760_Female_Dranei_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_760.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_760_premium.gif"
   },
@@ -5836,7 +5836,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I'll tell you one thing he doesn't lack: GUMPTION.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_066_Male_Goren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_066_Male_Goren_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_066_Male_Goren_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_066.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_066_premium.gif"
   },
@@ -5847,7 +5847,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Gadgetzan Writer’s Award goes to the player who writes the most compelling fanfic about why this Arakkoa has a golden frog in his hand!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_657_Male_Arakkoa_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_657_Male_Arakkoa_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_657_Male_Arakkoa_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_657.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_657_premium.gif"
   },
@@ -5858,7 +5858,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Inkmaster Solia had to figure out how to tattoo feathers.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_626_Male_Arakkoa_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_626_Male_Arakkoa_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_626_Male_Arakkoa_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_626.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_626_premium.gif"
   },
@@ -5869,7 +5869,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She ships illicit mana crystals around the world in packages marked: FUNNEL CAKE.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_663_Female_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_663_Female_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_663_Female_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_663.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_663_premium.gif"
   },
@@ -5880,7 +5880,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "All that's missing is a little heart.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_211_Male_Elemental_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_211_Male_Elemental_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_211_Male_Elemental_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_211.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_211_premium.gif"
   },
@@ -5891,7 +5891,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The mysterious leader of the Kabal is NOT a dragon, and does NOT deal in illegal potions.  Any public statements to the contrary will be met with litigation and Dragonfire Potions.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_621_Male_ShadowTroll_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_621_Male_ShadowTroll_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_621_Male_ShadowTroll_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_621.gif",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_621_premium.gif"
   },
@@ -5902,7 +5902,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "U da man!  No, U da man!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_017_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_017_Attack_02.ogg",
+    "AttackSound": "files/VO_LOE_017_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_017.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_017_premium.gif"
   },
@@ -5913,7 +5913,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "These guys just show up and start Keeping your Groves without even asking.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_166_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_166_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_166_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_166.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_166_premium.gif"
   },
@@ -5924,7 +5924,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Kel'Thuzad could not resist the call of the Lich King. Even when it's just a robo-call extolling the Lich King's virtues.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_013_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_013_Attack_03.ogg",
+    "AttackSound": "files/VO_FP1_013_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_013.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_013_premium.gif"
   },
@@ -5935,7 +5935,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They pretend to be wise and enlightened, but they mostly just hate to be left out of a secret.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_074_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_074_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_074_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_074.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_074_premium.gif"
   },
@@ -5946,7 +5946,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He just wants people to see his vacation photos.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_005_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_005_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_005_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_005.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_005_premium.gif"
   },
@@ -5957,7 +5957,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_09_08_Male_Imp_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_09_08_Male_Imp_Attack_01.ogg",
+    "AttackSound": "files/VO_KARA_09_08_Male_Imp_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_09_08.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_09_08.png"
   },
@@ -5968,7 +5968,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Goodness! What… abundant drool you have.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_005a_Male_Worgen_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_005_Female_BigBadWolf_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_005_Female_BigBadWolf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_005.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_005_premium.gif"
   },
@@ -5979,7 +5979,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The best defense against King Krush is to have someone you don’t like standing in front of you.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_543_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_543_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_543_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_543.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_543_premium.gif"
   },
@@ -5990,7 +5990,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's a terror at concerts.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KingMosh_UNG_933_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KingMosh_UNG_933_Attack.ogg",
+    "AttackSound": "files/KingMosh_UNG_933_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_933.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_933_premium.gif"
   },
@@ -6001,7 +6001,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "King Mukla wanders Jaguero Isle, searching for love.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TUTORIAL_03_MUKLA_01_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TUTORIAL_03_MUKLA_02_02.ogg",
+    "AttackSound": "files/VO_TUTORIAL_03_MUKLA_02_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_014.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_014_premium.gif"
   },
@@ -6012,7 +6012,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He never sleeps.  Not even in the mighty jungle.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_046_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_046_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_046_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_046.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_046_premium.gif"
   },
@@ -6023,7 +6023,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Elekk jousting is AWESOME.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_058_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_058_Attack.ogg",
+    "AttackSound": "files/SFX_AT_058_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_058.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_058_premium.gif"
   },
@@ -6034,7 +6034,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Kirin Tor reside in the floating city of Dalaran.  How do you make a Dalaran float?  Two scoops of ice cream, one scoop of Dalaran.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_612_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_612_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_612_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_612.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_612_premium.gif"
   },
@@ -6045,7 +6045,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Amberweaving is a specialty course at the local trade school.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_188_Male_Klaxxi_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_188_Male_Klaxxi_Attack_02.ogg",
+    "AttackSound": "files/VO_OG_188_Male_Klaxxi_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_188.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_188_premium.gif"
   },
@@ -6056,7 +6056,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A02_04_Male_Knife_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A02_04_Male_Knife_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_A02_04_Male_Knife_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A02_04.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A02_04.png"
   },
@@ -6067,7 +6067,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ambitious Knife Jugglers sometimes graduate to Bomb Jugglers.    They never last long enough to make it onto a card though.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_019_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_019_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_019_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_019.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_019_premium.gif"
   },
@@ -6078,7 +6078,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He gets a discount on the tournament entry fee because he is his own horse.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_041_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_041_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_041_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_041.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_041_premium.gif"
   },
@@ -6089,7 +6089,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "In the old days, Kobolds were the finest candle merchants in the land. Then they got pushed too far...",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_142_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_142_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_142_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_142.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_142_premium.gif"
   },
@@ -6100,7 +6100,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Someone called her a Rhinorider, and she's NOT HAPPY.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_099_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_099_ATTACK_04.ogg",
+    "AttackSound": "files/VO_AT_099_ATTACK_04.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_099.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_099_premium.gif"
   },
@@ -6111,7 +6111,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "#abs",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_063_Male_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_063_Male_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_063_Male_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_063.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_063_premium.gif"
   },
@@ -6122,7 +6122,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Kor'kron are the elite forces of Garrosh Hellscream. Let's just say you don't want to run into these guys while wearing a blue tabard.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_011_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_011_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_011_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_011.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_011_premium.gif"
   },
@@ -6133,7 +6133,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Spicklefizz pondered his life choices as he looked at the chain around his neck. \"Become a warlock,\" they said. \"You get to enslave demons,\" they said.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_750_Male_VoidWalker_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_750_Male_VoidWalker_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_750_Male_VoidWalker_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_750.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_750_premium.gif"
   },
@@ -6144,7 +6144,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Aya siphons a bit of Kun's soul to animate each golem in her Jade army. To his credit, he's being a great sport about it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_308_Male_Mogu_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_308_Male_Mogu_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_308_Male_Mogu_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_308.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_308_premium.gif"
   },
@@ -6155,7 +6155,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Coming soon... to a tuskarr village near you!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_119_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_119_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_119_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_119.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_119_premium.gif"
   },
@@ -6166,7 +6166,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX9_02_Attack_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX9_02_Attack_02.ogg",
+    "AttackSound": "files/VO_NAX9_02_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX9_02.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX9_02.png"
   },
@@ -6177,7 +6177,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Guaranteed to track tar all over your carpet.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LakkariFelhound_UNG_833_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LakkariFelhound_UNG_833_Attack.ogg",
+    "AttackSound": "files/LakkariFelhound_UNG_833_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_833.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_833_premium.gif"
   },
@@ -6188,7 +6188,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Lance Carrier is an obscure entry level position in orcish armies.  A mystery, since orcs don't generally use lances.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_084_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_084_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_084_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_084.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_084_premium.gif"
   },
@@ -6199,7 +6199,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_DREAM_01_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_DREAM_01_Attack_02.ogg",
+    "AttackSound": "files/VO_DREAM_01_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/DREAM_01.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/DREAM_01_premium.gif"
   },
@@ -6210,7 +6210,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Hogchoppers, the terrors of Tanaris, can always be found at one tavern or another in Gadgetzan, refueling for totally real and legit adventures that they go on.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_810_Female_Quilboar_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_810_Female_Quilboar_Attack_02.ogg",
+    "AttackSound": "files/VO_CFM_810_Female_Quilboar_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_810.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_810_premium.gif"
   },
@@ -6221,7 +6221,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "At least he has Angry Chicken.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_116_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_116_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_116_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_116.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_116_premium.gif"
   },
@@ -6232,7 +6232,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NEW1_033_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NEW1_033_Attack.ogg",
+    "AttackSound": "files/SFX_NEW1_033_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_033.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_033_premium.gif"
   },
@@ -6243,7 +6243,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He really just wants to be your friend, but the constant rejection is starting to really get to him.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_029_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_029_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_029_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_029.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_029_premium.gif"
   },
@@ -6254,7 +6254,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When there's something strange (say, a gibbering demon) in your neighborhood, who are you going to call?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_106_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_106_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_106_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_106.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_106_premium.gif"
   },
@@ -6265,7 +6265,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "“Come now, Johnston. I think those horns are quite fetching on you.”",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LightfusedStegadon_UNG_962_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LightfusedStegadon_UNG_962_Attack.ogg",
+    "AttackSound": "files/LightfusedStegadon_UNG_962_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_962.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_962_premium.gif"
   },
@@ -6276,7 +6276,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Spawn of the Light? Or Pawn of the Lights?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_335_Lightspawn_EnterPlay2.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_335_Lightspawn_Attack2.ogg",
+    "AttackSound": "files/EX1_335_Lightspawn_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_335.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_335_premium.gif"
   },
@@ -6287,7 +6287,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She’s smaller than her sisters Mediumwarden and Heavywarden.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_001_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_001_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_001_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_001.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_001_premium.gif"
   },
@@ -6298,7 +6298,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It isn't clear if people ignore the Lightwell, or if it is just invisible.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_341_Play_Lightwell.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_341_Attack_Lightwell - Copy.ogg",
+    "AttackSound": "files/EX1_341_Attack_Lightwell - Copy.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_341.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_341_premium.gif"
   },
@@ -6309,7 +6309,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Warlocks have the town exorcist on speed dial in case they unleash the wrong demon.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_097_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_097_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_097_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_097.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_097_premium.gif"
   },
@@ -6320,7 +6320,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She doesn't feel pity, or remorse, or fear. And she absolutely will not stop... ever, until all necromancers are dead.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_811_Female_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_811_Female_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_811_Female_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_811.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_811_premium.gif"
   },
@@ -6331,7 +6331,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA13_6_LivingLava_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA13_6_LivingLava_Attack_1.ogg",
+    "AttackSound": "files/BRMA13_6_LivingLava_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA13_6.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA13_6.png"
   },
@@ -6342,7 +6342,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Loatheb used to be a simple Bog Beast.  This is why we need stricter regulations on mining and agriculture.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX6_01_START_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX6_01_CARD_Attack_03.ogg",
+    "AttackSound": "files/VO_NAX6_01_CARD_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_030.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_030_premium.gif"
   },
@@ -6353,7 +6353,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Always roll need.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_096_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_096_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_096_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_096.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_096_premium.gif"
   },
@@ -6364,7 +6364,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"TRIFLING GNOME! YOUR ARROGANCE WILL BE YOUR UNDOING!!!!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_323_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_323_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_323_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_323.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_323_premium.gif"
   },
@@ -6375,7 +6375,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He used to be a 2100+ rated arena player, but that was years ago and nobody can get him to shut up about it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_162_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_162_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_162_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_162.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_162_premium.gif"
   },
@@ -6386,7 +6386,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Lorewalker Cho archives and shares tales from the land of Pandaria, but his favorite story is the one where Joey and Phoebe go on a road trip.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_Tutorial06_CHO_02_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_Tutorial06_CHO_03_01.ogg",
+    "AttackSound": "files/VO_Tutorial06_CHO_03_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_100.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_100_premium.gif"
   },
@@ -6397,7 +6397,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The message, \"If found, please return to Mulgore,\" is tattooed on his rear.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_071_LostTallstrider_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_071_LostTallstrider_Attack.ogg",
+    "AttackSound": "files/GVG_071_LostTallstrider_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_071.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_071_premium.gif"
   },
@@ -6408,7 +6408,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mostly, they stand around and look cool.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_852_Female_Pandaren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_852_Female_Pandaren_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_852_Female_Pandaren_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_852.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_852_premium.gif"
   },
@@ -6419,7 +6419,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "For 5000g, you can just give the Jade Lotus any name and they will assassinate and/or embarrass them.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_634_Male_Pandaren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_634_Male_Pandaren_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_634_Male_Pandaren_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_634.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_634_premium.gif"
   },
@@ -6430,7 +6430,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you think her Illidan and Sylvanas cosplay is great, wait till you see her Reno Jackson!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_697_Female_NightElf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_697_Female_NightElf_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_697_Female_NightElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_697.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_697_premium.gif"
   },
@@ -6441,7 +6441,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "But not the lowliest!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_082_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_082_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_082_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_082.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_082_premium.gif"
   },
@@ -6452,7 +6452,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA07_14_LumberingGolem_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA07_14_LumberingGolem_Attack.ogg",
+    "AttackSound": "files/LOEA07_14_LumberingGolem_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_14.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_14.png"
   },
@@ -6463,7 +6463,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Arise, fair sun, and kill my envious foes. They don't have a legendary as beautiful as you.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_963_Female_Elemental_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_963_Female_Elemental_Attack_02.ogg",
+    "AttackSound": "files/VO_UNG_963_Female_Elemental_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_963.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_963_premium.gif"
   },
@@ -6474,7 +6474,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's not really all that crazy, he is just not as careful with explosives as he should be.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_082_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_082_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_082_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_082.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_082_premium.gif"
   },
@@ -6485,7 +6485,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His mother wanted him to be a mage or a warlock, but noooooooo, he had to go and be a scientist like his father.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_004_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_004_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_004_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_004.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_004_premium.gif"
   },
@@ -6496,7 +6496,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She has set up her Black Market here in Gadgetzan for one purpose, to make a KILLING when Beanie Babies make their inevitable comeback.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_672_Female_Pandaren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_672_Female_Pandaren_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_672_Female_Pandaren_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_672.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_672_premium.gif"
   },
@@ -6507,7 +6507,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Dang, Bomber, calm down.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_090_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_090_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_090_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_090.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_090_premium.gif"
   },
@@ -6518,7 +6518,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Maexxna gets super mad when people introduce her as \"Maxina\" or \"Maxxy\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_010_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_010_Attack.ogg",
+    "AttackSound": "files/SFX_FP1_010_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_010.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_010_premium.gif"
   },
@@ -6529,7 +6529,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He likes to think he is powerful, but pretty much anyone can solo Molten Core now.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_118_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_118_Attack.ogg",
+    "AttackSound": "files/SFX_CS2_118_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_118.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_118_premium.gif"
   },
@@ -6540,7 +6540,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA14_9_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA14_9_Attack_02.ogg",
+    "AttackSound": "files/VO_BRMA14_9_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA14_9.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA14_9.png"
   },
@@ -6551,7 +6551,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_BRMA14_12_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_BRMA14_12_Attack.ogg",
+    "AttackSound": "files/SFX_BRMA14_12_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA14_12.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA14_12.png"
   },
@@ -6562,7 +6562,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Playing him also gets you into the Magnataur Beta.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_067_MagnataurAlpha_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_067_MagnataurAlpha_Attack.ogg",
+    "AttackSound": "files/AT_067_MagnataurAlpha_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_067.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_067_premium.gif"
   },
@@ -6573,7 +6573,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Not a good basis for a system of government.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_085_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_085_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_085_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_085.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_085_premium.gif"
   },
@@ -6584,7 +6584,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mal'Ganis doesn't like being betrayed, so if you discard him, watch out.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_021_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_021_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_021_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_021.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_021_premium.gif"
   },
@@ -6595,7 +6595,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Malchezaar used to have an imp named Dobby working for him, but there was a tragic accident.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_089_Male_Imp_Play_04.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_089_Male_Imp_Attack_02.ogg",
+    "AttackSound": "files/VO_KAR_089_Male_Imp_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_089.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_089_premium.gif"
   },
@@ -6606,7 +6606,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Garrosh's best buddy. It's true. Look it up.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_220_Male_Orc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_220_Male_Orc_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_220_Male_Orc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_220.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_220_premium.gif"
   },
@@ -6617,7 +6617,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When Malorne isn't mauling hordes of demons, he enjoys attending parties, though he prefers to go stag.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_035_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_035_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_035_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_035.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_035_premium.gif"
   },
@@ -6628,7 +6628,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Malygos hates it when mortals use magic.  He gets so mad!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_563_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_563_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_563_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_563.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_563_premium.gif"
   },
@@ -6639,7 +6639,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She’s trying to kick the habit, but still takes some mana whenever she has a stressful day.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_055_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_055_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_055_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_055.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_055_premium.gif"
   },
@@ -6650,7 +6650,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Gadgetzan, where even the pet rocks have pet rocks.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ManaGeode_CFM_606_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ManaGeode_CFM_606_Attack.ogg",
+    "AttackSound": "files/ManaGeode_CFM_606_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_606.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_606_premium.gif"
   },
@@ -6661,7 +6661,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It is said that some shaman can say \"Floatin' totem\" 10 times, fast.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_575_mana_tide_totem_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_575_Attack_00.ogg",
+    "AttackSound": "files/SFX_EX1_575_Attack_00.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_575.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_575_premium.gif"
   },
@@ -6672,7 +6672,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ManaTreant_UNG_111t1_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ManaTreant_UNG_111t1_Attack.ogg",
+    "AttackSound": "files/ManaTreant_UNG_111t1_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_111t1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_111t1_premium.gif"
   },
@@ -6683,7 +6683,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They come out at night to eat leftover mana crystals. \"Mmmmmm,\" they say.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_616_Mana_Wraith_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_616_Mana_Wraith_Attack2.ogg",
+    "AttackSound": "files/EX1_616_Mana_Wraith_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_616.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_616_premium.gif"
   },
@@ -6694,7 +6694,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "These wyrms feed on arcane energies, and while they are generally considered a nuisance rather than a real threat, you really shouldn't leave them alone with a bucket of mana.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NEW1_012_Mana_Wyrm_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NEW1_012_Mana_Wyrm_Attack2.ogg",
+    "AttackSound": "files/NEW1_012_Mana_Wyrm_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_012.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_012_premium.gif"
   },
@@ -6705,7 +6705,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When casting a tournament, you really have to put your soul into it!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_660_Female_BloodElf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_660_Female_BloodElf_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_660_Female_BloodElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_660.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_660_premium.gif"
   },
@@ -6716,7 +6716,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GnollPissed2.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GnollPissed2.ogg",
+    "AttackSound": "files/GnollPissed2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4a_005.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4a_005.png"
   },
@@ -6727,7 +6727,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Needs just a few more ratings points to become Grandmaster Jouster.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_112_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_112_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_112_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_112.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_112_premium.gif"
   },
@@ -6738,7 +6738,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's currently trying to craft a \"flail-axe\", but all the other swordsmiths say it can't be done.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_037_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_037_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_037_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_037.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_037_premium.gif"
   },
@@ -6749,7 +6749,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Goes by \"MC ElfyElf\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_117_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_117_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_117_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_117.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_117_premium.gif"
   },
@@ -6760,7 +6760,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She's actually a male tauren.  People don't call him \"Master of Disguise\" for nothing.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_014_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_014_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_014_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_014.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_014_premium.gif"
   },
@@ -6771,7 +6771,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Will be really useful in the new \"Hearthémon\" game.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_328_MasterOfEvolution_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_328_MasterOfEvolution_Attack.ogg",
+    "AttackSound": "files/OG_328_MasterOfEvolution_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_328.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_328_premium.gif"
   },
@@ -6782,7 +6782,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_061t_Mastiff_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_061t_Mastiff_Attack.ogg",
+    "AttackSound": "files/OG_061t_Mastiff_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_061t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_061t_premium.gif"
   },
@@ -6793,7 +6793,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This flavor text was randomly generated.  If it happens to form words and make sense, that is purely by chance.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_670_Male_Goblin_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_670_Male_Goblin_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_670_Male_Goblin_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_670.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_670_premium.gif"
   },
@@ -6804,7 +6804,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Remember, submit your bribes directly to the Marshal - it's the law!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_759_Male_Tuskarr_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_759_Male_Tuskarr_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_759_Male_Tuskarr_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_759.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_759_premium.gif"
   },
@@ -6815,7 +6815,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Necromancers call it \"Meals on Wheels.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/MeatWagon_ICC_812_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/MeatWagon_ICC_812_Attack.ogg",
+    "AttackSound": "files/MeatWagon_ICC_812_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_812.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_812_premium.gif"
   },
@@ -6826,7 +6826,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Crushes buildings with his BEAR hands.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_034_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_034_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_034_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_034.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_034_premium.gif"
   },
@@ -6837,7 +6837,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_025t_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_025t_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_025t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_025t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_025t_premium.gif"
   },
@@ -6848,7 +6848,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOEA07_25_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOEA07_25_Attack.ogg",
+    "AttackSound": "files/SFX_LOEA07_25_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_25.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_25.png"
   },
@@ -6859,7 +6859,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The yetis of Chillwind Point are a source of both inspiration and savage beatings.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_078_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_078_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_078_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_078.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_078_premium.gif"
   },
@@ -6870,7 +6870,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mechs that summon mechs? What's next? Donuts that summon donuts? Mmmmm.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_006_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_006_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_006_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_006.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_006_premium.gif"
   },
@@ -6881,7 +6881,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Magus Medivh sir, I've brought the flaming balloons, as you requested.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_092_Male_Human_Play_07.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_092_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_092_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_092.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_092_premium.gif"
   },
@@ -6892,7 +6892,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you think the party's great now, just wait 'til he invites the orcs over!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_097_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_097_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_097_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_097.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_097_premium.gif"
   },
@@ -6903,7 +6903,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_942t_Male_Murloc_Play_05.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_942t_Male_Murloc_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_942t_Male_Murloc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_942t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_942t_premium.gif"
   },
@@ -6914,7 +6914,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He was obsessed with explosives until he discovered knitting. Now he yells, “SWEATERS! MORE SWEATERS!”",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_116_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_116_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_116_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_116.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_116_premium.gif"
   },
@@ -6925,7 +6925,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Just between us, if things get tight the Menagerie Magician position will probably be the first to go.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_702_Male_Goblin_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_702_Male_Goblin_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_702_Male_Goblin_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_702.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_702_premium.gif"
   },
@@ -6936,7 +6936,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Please? Can I keep him? I promise to clean his cage \u003ci\u003eevery day\u003c/i\u003e.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_065_Female_NightElf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_065_Female_NightElf_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_065_Female_NightElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_065.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_065_premium.gif"
   },
@@ -6947,7 +6947,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't leave them out in the rain. In Un'Goro Crater there is a whole colony of rust-tooth leapers.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_048_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_048_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_048_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_048.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_048_premium.gif"
   },
@@ -6958,7 +6958,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This card is the real thing.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_103_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_103_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_103_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_103.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_103_premium.gif"
   },
@@ -6969,7 +6969,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Still fearsome in the daytime.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_320_MidnightDrake_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_320_MidnightDrake_Attack.ogg",
+    "AttackSound": "files/OG_320_MidnightDrake_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_320.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_320_premium.gif"
   },
@@ -6980,7 +6980,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"I'm gonna light you up, sweetcheeks!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_029_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_029_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_029_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_029.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_029_premium.gif"
   },
@@ -6991,7 +6991,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Do not push the big red button!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_111_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_111_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_111_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_111.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_111_premium.gif"
   },
@@ -7002,7 +7002,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mind Control technology is getting better, but that's not saying much.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_085_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_085_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_085_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_085.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_085_premium.gif"
   },
@@ -7013,7 +7013,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's a mind breaker, dream taker, ghoul trainer, don't you mess around with him.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_902_Male_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_902_Male_Undead_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_902_Male_Undead_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_902.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_902_premium.gif"
   },
@@ -7024,7 +7024,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He is sometimes found hiding in the treasure chest in the Gurubashi Arena.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_109_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_109_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_109_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_109.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_109_premium.gif"
   },
@@ -7035,7 +7035,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mirage is actually the name of its long-lost cat.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_022_Male_Tolvir_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_022_Male_Tolvir_Attack_02.ogg",
+    "AttackSound": "files/VO_UNG_022_Male_Tolvir_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_022.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_022_premium.gif"
   },
@@ -7046,7 +7046,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Hey.... Is that Mire for sale?\" \n\"No.  I'm keeping it.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_202_Male_Keeper_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_202_Male_Keeper_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_202_Male_Keeper_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_202.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_202_premium.gif"
   },
@@ -7057,7 +7057,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_mirror_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_mirror_Attack.ogg",
+    "AttackSound": "files/CS2_mirror_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_mirror.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_mirror_premium.gif"
   },
@@ -7068,7 +7068,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NEW1_032_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NEW1_032_Attack.ogg",
+    "AttackSound": "files/SFX_NEW1_032_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_032.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_032_premium.gif"
   },
@@ -7079,7 +7079,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Her favorite mixture is cola and lime.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_120_Female_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_120_Female_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_120_Female_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_120.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_120_premium.gif"
   },
@@ -7090,7 +7090,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Her sister is the Mistress of Pane who sells windows and shower doors.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_018_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_018_Attack_02_Alt.ogg",
+    "AttackSound": "files/VO_GVG_018_Attack_02_Alt.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_018.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_018_premium.gif"
   },
@@ -7101,7 +7101,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He really enjoys lurking and gets a lot of job satisfaction out of it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/MoatLurker_KAR_041_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/MoatLurker_KAR_041_Attack.ogg",
+    "AttackSound": "files/MoatLurker_KAR_041_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_041.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_041_premium.gif"
   },
@@ -7112,7 +7112,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mogor helped reopen the Dark Portal once. You know you're in trouble when you have to rely on an ogre.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_112_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_112_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_112_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_112.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_112_premium.gif"
   },
@@ -7123,7 +7123,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This champion has learned from the best.  Except for his target selection.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_088_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_088_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_088_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_088.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_088_premium.gif"
   },
@@ -7134,7 +7134,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "All these guys ever do is talk about the Thunder King.   BOOOORRRINNG!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_396_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_396_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_396_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_396.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_396_premium.gif"
   },
@@ -7145,7 +7145,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMC_87_Moira_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMC_87_Moira_Attack.ogg",
+    "AttackSound": "files/BRMC_87_Moira_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMC_87.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMC_87.png"
   },
@@ -7156,7 +7156,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA03_3_Attack_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA03_3_Attack_01.ogg",
+    "AttackSound": "files/VO_BRMA03_3_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA03_3.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA03_3.png"
   },
@@ -7167,7 +7167,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He gets terrible heartburn.  BECAUSE HE IS FULL OF LAVA.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_620_Molten_Giant_EnterPlay2.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_620_Molten_Giant_Attack1.ogg",
+    "AttackSound": "files/EX1_620_Molten_Giant_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_620.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_620_premium.gif"
   },
@@ -7178,7 +7178,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Most disturbing is how Moorabi covers all those frozen minions with flavored syrup.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_289_Male_Troll_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_289_Male_Troll_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_289_Male_Troll_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_289.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_289_premium.gif"
   },
@@ -7189,7 +7189,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Moroes runs an army of stewards, but still ends up inflating the balloons himself.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_044_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_044_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_044_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_044.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_044_premium.gif"
   },
@@ -7200,7 +7200,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His mother said that he was just big boned.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_105_Mountain_Giant_EnterPlay3.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_105_Mountain_Giant_Attack1.ogg",
+    "AttackSound": "files/EX1_105_Mountain_Giant_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_105.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_105_premium.gif"
   },
@@ -7211,7 +7211,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Excuse me. Your mountain is on fire.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_062_Male_Spirit_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_062_Male_Spirit_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_062_Male_Spirit_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_062.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_062_premium.gif"
   },
@@ -7222,7 +7222,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Clever girl!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_050_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_050_Attack.ogg",
+    "AttackSound": "files/SFX_LOE_050_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_050.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_050_premium.gif"
   },
@@ -7233,7 +7233,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NAX15_05 MrBigglesworth_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NAX15_05 MrBigglesworth_Attack.ogg",
+    "AttackSound": "files/NAX15_05 MrBigglesworth_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX15_05.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NAX15_05_premium.gif"
   },
@@ -7244,7 +7244,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TUTORIAL_03_BRO_01_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TUTORIAL_03_BRO_01_01.ogg",
+    "AttackSound": "files/VO_TUTORIAL_03_BRO_01_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4c_007.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4c_007.png"
   },
@@ -7255,7 +7255,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "An elegant gorilla, for a more civilized age.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_090_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_090_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_090_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_090.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_090_premium.gif"
   },
@@ -7266,7 +7266,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Pro tip: DO NOT BOGART THE BANANAS.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_122_Mukla_TotV_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_122_Mukla_TotV_Attack.ogg",
+    "AttackSound": "files/OG_122_Mukla_TotV_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_122.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_122_premium.gif"
   },
@@ -7277,7 +7277,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA16_5t_MummyZombie_Play_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA16_5t_MummyZombie_Attack_1.ogg",
+    "AttackSound": "files/LOEA16_5t_MummyZombie_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA16_5t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOEA16_5t_premium.gif"
   },
@@ -7288,7 +7288,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hee hee!  Look at his cute little feet.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_076_MurlocKnight_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_076_MurlocKnight_Attack.ogg",
+    "AttackSound": "files/AT_076_MurlocKnight_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_076.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_076_premium.gif"
   },
@@ -7299,7 +7299,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mrrraggglhlhghghlgh, mrgaaag blarrghlgaahahl mrgggg glhalhah a bghhll graggmgmg Garrosh mglhlhlh mrghlhlhl!!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_168_Murloc_Raider_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_168_Murloc_Raider_Attack1.ogg",
+    "AttackSound": "files/CS2_168_Murloc_Raider_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_168.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_168_premium.gif"
   },
@@ -7310,7 +7310,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_310t_Male_Murloc_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_310t_Male_Murloc_Attack.ogg",
+    "AttackSound": "files/VO_CFM_310t_Male_Murloc_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_310t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_310t_premium.gif"
   },
@@ -7321,7 +7321,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_506a_Murloc_Tidehunter_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_506a_Murloc_Tidehunter_Attack1.ogg",
+    "AttackSound": "files/EX1_506a_Murloc_Tidehunter_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_506a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_506a_premium.gif"
   },
@@ -7332,7 +7332,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This guy gets crazy strong at family reunions.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_509_Murloc_Tidecaller_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_509_Murloc_Tidecaller_Attack1.ogg",
+    "AttackSound": "files/EX1_509_Murloc_Tidecaller_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_509.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_509_premium.gif"
   },
@@ -7343,7 +7343,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Death will rise, from the tides!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_506_Murloc_Scout_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_506_Murloc_Scout_Attack2.ogg",
+    "AttackSound": "files/EX1_506_Murloc_Scout_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_506.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_506_premium.gif"
   },
@@ -7354,7 +7354,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "High mortality rate, from often being hugged to death.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA10_3_BabyMurloc_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA10_3_BabyMurloc_Attack.ogg",
+    "AttackSound": "files/LOEA10_3_BabyMurloc_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA10_3.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOEA10_3_premium.gif"
   },
@@ -7365,7 +7365,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Do Murlocs ever get tired of making the same old sound?  Nope!  Mrglglrglglglglglglgl!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_507_Murloc_Warleader_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_507_Murloc_Warleader_Attack1.ogg",
+    "AttackSound": "files/EX1_507_Murloc_Warleader_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_507.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_507_premium.gif"
   },
@@ -7376,7 +7376,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He is forever cursing the kids who climb on the rails and the evil archeologists who animate the exhibits.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_006_Play3_05.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_006_Attack_02.ogg",
+    "AttackSound": "files/VO_LOE_006_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_006.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_006_premium.gif"
   },
@@ -7387,7 +7387,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He may sound surly and antisocial, but he's actually just really shy.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_079_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_079_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_079_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_079.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_079_premium.gif"
   },
@@ -7398,7 +7398,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hates when N'Zoth yells \"Ahoy Matey!!\", but there's not really much he can do about it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_312_Male_Qiraji_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_312_Male_Qiraji_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_312_Male_Qiraji_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_312.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_312_premium.gif"
   },
@@ -7409,7 +7409,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Has not been able to get \"Under the Sea\" out of his head for like FIVE THOUSAND YEARS.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_133_Male_OldGod_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_133_Male_OldGod_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_133_Male_OldGod_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_133.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_133_premium.gif"
   },
@@ -7420,7 +7420,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hook-tails are nice and all but she keeps getting stuck on things.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_651_Female_Naga_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_651_Female_Naga_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_651_Female_Naga_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_651.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_651_premium.gif"
   },
@@ -7431,7 +7431,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TU4e_003_Play_NagaMyrmidon.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TU4e_003_Attack_NagaMyrmidon.ogg",
+    "AttackSound": "files/TU4e_003_Attack_NagaMyrmidon.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4e_003.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4e_003.png"
   },
@@ -7442,7 +7442,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If she had studied harder, she would have been a C+ witch.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_038_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_038_Attack_02.ogg",
+    "AttackSound": "files/VO_LOE_038_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_038.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_038_premium.gif"
   },
@@ -7453,7 +7453,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Nat Pagle, Azeroth's premier fisherman!  He invented the Auto-Angler 3000, the Extendo-Pole 3000, and the Lure-o-matic 2099 (still in testing).",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_557_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_557_Attack_03.ogg",
+    "AttackSound": "files/VO_EX1_557_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_557.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_557_premium.gif"
   },
@@ -7464,7 +7464,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You can take away his humanity, but you will never take away his fishing pole.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_338_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_338_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_338_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_338.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_338_premium.gif"
   },
@@ -7475,7 +7475,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAXM_001_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAXM_001_Attack_02.ogg",
+    "AttackSound": "files/VO_NAXM_001_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAXM_001.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAXM_001.png"
   },
@@ -7486,7 +7486,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "An eye for an eye, and a ghoul for a ghoul.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_900_Male_Geist_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_900_Male_Geist_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_900_Male_Geist_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_900.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_900_premium.gif"
   },
@@ -7497,7 +7497,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA01_009_Male_NightElf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA01_009_Male_NightElf_Attack_01.ogg",
+    "AttackSound": "files/VO_ICCA01_009_Male_NightElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA01_009.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA01_009.png"
   },
@@ -7508,7 +7508,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They call him \"Blackwing\" because he's a black dragon...... and he's got wings.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_030_Attack_20.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRM_030_Attack_20.ogg",
+    "AttackSound": "files/VO_BRM_030_Attack_20.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_030.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_030_premium.gif"
   },
@@ -7519,7 +7519,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Neptulon is \"The Tidehunter\". He’s one of the four elemental lords. And he and Ragnaros get together and make really amazing saunas.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_042_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_042_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_042_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_042.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_042_premium.gif"
   },
@@ -7530,7 +7530,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Weblords spend all day making giant trampoline parks.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_017_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_017_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_017_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_017.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_017_premium.gif"
   },
@@ -7541,7 +7541,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_007t_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_007t_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_007t_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_007t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_007t_premium.gif"
   },
@@ -7552,7 +7552,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NAX1_03_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NAX1_03_Attack.ogg",
+    "AttackSound": "files/SFX_NAX1_03_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX1_03.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX1_03.png"
   },
@@ -7563,7 +7563,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Eggs are a good source of protein and Nerubians.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_007_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_007_Attack.ogg",
+    "AttackSound": "files/SFX_FP1_007_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_007.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_007_premium.gif"
   },
@@ -7574,7 +7574,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It’s a self-reducing prophecy.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_138_NerubianProphet_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_138_NerubianProphet_Attack.ogg",
+    "AttackSound": "files/OG_138_NerubianProphet_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_138.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_138_premium.gif"
   },
@@ -7585,7 +7585,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He loves a good yarn.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_706_Male_Nerubian_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_706_Male_Nerubian_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_706_Male_Nerubian_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_706.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_706_premium.gif"
   },
@@ -7596,7 +7596,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Roc eggs are great in omelettes, sandwiches, and as bait to turn poachers into bird food.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_801_NestingRoc_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_801_NestingRoc_Attack.ogg",
+    "AttackSound": "files/UNG_801_NestingRoc_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_801.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_801_premium.gif"
   },
@@ -7607,7 +7607,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NetherImp_UNG_829t3_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NetherImp_UNG_829t3_Attack.ogg",
+    "AttackSound": "files/NetherImp_UNG_829t3_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_829t3.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_829t3_premium.gif"
   },
@@ -7618,7 +7618,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NetherPortal_UNG_829t2_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NetherPortal_UNG_829t2_Play.ogg",
+    "AttackSound": "files/NetherPortal_UNG_829t2_Play.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_829t2.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_829t2_premium.gif"
   },
@@ -7629,7 +7629,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She can tell you all about the history of people not STANDING IN THE GREEN BEAM!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_062_Female_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_062_Female_Gnome_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_062_Female_Gnome_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_062.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_062_premium.gif"
   },
@@ -7640,7 +7640,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The ethereals have their own jousting tournament, and Saraad is the reigning champion.  Also he won the ethereal hot dog eating contest.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_127_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_127_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_127_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_127.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_127_premium.gif"
   },
@@ -7651,7 +7651,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Originally joined to be Arcanagos’ Templar, but has to admit that ordering pizza has become waaaay easier.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_010_Female_BloodElf_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_010_Female_BloodElf_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_010_Female_BloodElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_010.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_010_premium.gif"
   },
@@ -7662,7 +7662,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Your face is the place you'd probably least like a dagger, and where rogues are most likely to deliver them.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_593_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_593_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_593_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_593.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_593_premium.gif"
   },
@@ -7673,7 +7673,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You have no idea how tired this guy is of being released.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_103_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_103_Attack.ogg",
+    "AttackSound": "files/SFX_AT_103_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_103.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_103_premium.gif"
   },
@@ -7684,7 +7684,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They help the downtrodden and distressed.  Also they sell cookies.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_235_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_235_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_235_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_235.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_235_premium.gif"
   },
@@ -7695,7 +7695,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Half of this class will not graduate… since they'll have been turned to chickens.\" - Tinkmaster Overspark, teaching Gizmos 101.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_015_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_015_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_015_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_015.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_015_premium.gif"
   },
@@ -7706,7 +7706,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Time to write some flavor text.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_560_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_560_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_560_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_560.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_560_premium.gif"
   },
@@ -7717,7 +7717,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His dreams of flying and breathing fire like his idol will never be realized.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_119_Oasis_Snapjaw_EnterPlay2.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_119_Oasis_Snapjaw_Attack1.ogg",
+    "AttackSound": "files/CS2_119_Oasis_Snapjaw_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_119.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_119_premium.gif"
   },
@@ -7728,7 +7728,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "No obsidian is safe around the Obsidian Destroyer!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_009_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_009_Attack.ogg",
+    "AttackSound": "files/SFX_LOE_009_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_009.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_009_premium.gif"
   },
@@ -7739,7 +7739,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The original artist spent many hours with a fine chisel perfecting the facial expression for maximum tauntiness.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ObsidianStatue_ICC_214_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_214_Female_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_214_Female_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_214.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_214_premium.gif"
   },
@@ -7750,7 +7750,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ogres have really terrible short-term chocolate.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_065_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_065_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_065_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_065.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_065_premium.gif"
   },
@@ -7761,7 +7761,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Training Ogres in the art of spellcasting is a questionable decision.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_197_Play_01_MIX.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_197_Attack_02_MIX.ogg",
+    "AttackSound": "files/VO_CS2_197_Attack_02_MIX.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_197.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_197_premium.gif"
   },
@@ -7772,7 +7772,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He didn't have the grades to get into ninja school, but his dad pulled some strings.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_088_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_088_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_088_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_088.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_088_premium.gif"
   },
@@ -7783,7 +7783,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA09_3t_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA09_3t_Attack_02.ogg",
+    "AttackSound": "files/VO_BRMA09_3t_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA09_3t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA09_3t.png"
   },
@@ -7794,7 +7794,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's a legend among murlocs.  \"Mrghllghghllghg!\", they say.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_062_Old_Murk_Eye_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_062_Old_Murk_Eye_Attack1.ogg",
+    "AttackSound": "files/EX1_062_Old_Murk_Eye_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_062.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_062_premium.gif"
   },
@@ -7805,7 +7805,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When pirates say there is no \"Eye\" in \"team,\" they are very literal about it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_025_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_025_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_025_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_025.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_025_premium.gif"
   },
@@ -7816,7 +7816,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "B4 is a nice place to visit, but he wouldn't want to live there.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_204_Male_ChessPiece_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_204_Male_ChessPiece_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_204_Male_ChessPiece_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_204.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_204_premium.gif"
   },
@@ -7827,7 +7827,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Onyxia long manipulated the Stormwind Court by disguising herself as Lady Katrana Prestor.   You would have thought that the giant wings and scales would have been a giveaway.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_562_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_562_Attack_03.ogg",
+    "AttackSound": "files/VO_EX1_562_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_562.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_562_premium.gif"
   },
@@ -7838,7 +7838,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Slime_OG_156a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Slime_OG_156a_Attack.ogg",
+    "AttackSound": "files/Slime_OG_156a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_156a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_156a_premium.gif"
   },
@@ -7849,7 +7849,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_13_03_Female_Orc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_13_03_Female_Orc_Attack_01.ogg",
+    "AttackSound": "files/VO_KARA_13_03_Female_Orc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_13_03.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_13_03.png"
   },
@@ -7860,7 +7860,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Four out of three orcs struggle with math.\" - Angry Zurge",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_066_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_066_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_066_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_066.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_066_premium.gif"
   },
@@ -7871,7 +7871,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"It's an herbivore.  How dangerous can it be?\"  - Famous last words",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_925_OrneryDirehorn_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_925_OrneryDirehorn_Attack.ogg",
+    "AttackSound": "files/UNG_925_OrneryDirehorn_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_925.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_925_premium.gif"
   },
@@ -7882,7 +7882,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA04_13bt_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA04_13bt_Attack_02.ogg",
+    "AttackSound": "files/VO_LOEA04_13bt_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA04_13bt.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA04_13bt.png"
   },
@@ -7893,7 +7893,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Between you and me, Ozruk is a bit obsessed with his body.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_907_Male_Elemental_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_907_Male_Elemental_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_907_Male_Elemental_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_907.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_907_premium.gif"
   },
@@ -7904,7 +7904,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TU4f_002_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TU4f_002_Play_01.ogg",
+    "AttackSound": "files/VO_TU4f_002_Play_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4f_002.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4f_002.png"
   },
@@ -7915,7 +7915,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_160t_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_160t_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_160t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_160t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_160t_premium.gif"
   },
@@ -7926,7 +7926,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You have to admit, they make a cute couple.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/PantrySpiders_KAR_030a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/PantrySpiders_KAR_030a_Attack.ogg",
+    "AttackSound": "files/PantrySpiders_KAR_030a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_030a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_030a_premium.gif"
   },
@@ -7937,7 +7937,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KARA_13_20_PartyElemental_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KARA_13_20_PartyElemental_Attack.ogg",
+    "AttackSound": "files/KARA_13_20_PartyElemental_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_13_20.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_13_20.png"
   },
@@ -7948,7 +7948,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What do sailors yell when Patches steals their treasure chest full of laws and other things being transported to parliament for a vote?  \"The Eyes have it!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_637_Male_Beholder_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_637_Male_Beholder_Attack_02.ogg",
+    "AttackSound": "files/VO_CFM_637_Male_Beholder_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_637.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_637_premium.gif"
   },
@@ -7959,7 +7959,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He’s not really that patient. It just takes a while for someone to walk by that he can actually reach.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_522_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_522_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_522_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_522.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_522_premium.gif"
   },
@@ -7970,7 +7970,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Once upon a time, only goblins piloted shredders. These days, everyone from Doomsayer to Lorewalker Cho seems to ride one.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_096_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_096_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_096_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_096.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_096_premium.gif"
   },
@@ -7981,7 +7981,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The pinnacle of goblin engineering. Includes an espresso machine and foot massager.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_105_PilotedSkyGolem_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_105_PilotedSkyGolem_Attack.ogg",
+    "AttackSound": "files/GVG_105_PilotedSkyGolem_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_105.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_105_premium.gif"
   },
@@ -7992,7 +7992,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She's quite jealous of the Gallon-Sized Summoner.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_076_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_076_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_076_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_076.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_076_premium.gif"
   },
@@ -8003,7 +8003,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Piranha_CFM_337t_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Piranha_CFM_337t_Attack.ogg",
+    "AttackSound": "files/Piranha_CFM_337t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_337t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_337t_premium.gif"
   },
@@ -8014,7 +8014,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What did the pits ever do to you?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_101_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_101_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_101_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_101.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_101_premium.gif"
   },
@@ -8025,7 +8025,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mannoroth, Magtheridon, and Brutallus may be dead, but it turns out there are a LOT of pit lords.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_313_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_313_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_313_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_313.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_313_premium.gif"
   },
@@ -8036,7 +8036,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It could be worse.  It could be a Snake Pit.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_010_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_010_Attack.ogg",
+    "AttackSound": "files/SFX_LOE_010_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_010.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_010_premium.gif"
   },
@@ -8047,7 +8047,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A02_06_Female_Pitcher_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A02_06_Female_Pitcher_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_A02_06_Female_Pitcher_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A02_06.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A02_06.png"
   },
@@ -8058,7 +8058,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The excruciating pain means it's working!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_809_Male_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_809_Male_Gnome_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_809_Male_Gnome_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_809.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_809_premium.gif"
   },
@@ -8069,7 +8069,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Plant_UNG_999t2t1_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Plant_UNG_999t2t1_Attack.ogg",
+    "AttackSound": "files/Plant_UNG_999t2t1_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_999t2t1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_999t2t1_premium.gif"
   },
@@ -8080,7 +8080,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A02_01_Female_Plate_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A02_01_Female_Plate_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_A02_01_Female_Plate_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A02_01.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A02_01.png"
   },
@@ -8091,7 +8091,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Roll ‘greed’ OR THIS COULD HAPPEN TO YOU.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_323_Male_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_323_Male_Gnome_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_323_Male_Gnome_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_323.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_323_premium.gif"
   },
@@ -8102,7 +8102,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Alas poor Annoy-o-Tron! A fellow of infinite jest, of most excellent fancy!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_011_Male_NightElf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_011_Male_NightElf_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_011_Male_NightElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_011.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_011_premium.gif"
   },
@@ -8113,7 +8113,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's like a pinata! A lame disgusting horrific pinata.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_241_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_241_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_241_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_241.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_241_premium.gif"
   },
@@ -8124,7 +8124,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka4_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka4_Attack.ogg",
+    "AttackSound": "files/SFX_Mekka4_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/Mekka4.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/Mekka4_premium.gif"
   },
@@ -8135,7 +8135,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Now that's a world champion cheesecake!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_035_Male_Dwarf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_035_Male_Dwarf_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_035_Male_Dwarf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_035.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_035_premium.gif"
   },
@@ -8146,7 +8146,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If she threatens to \"moon\" you, it's not what you think.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_583_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_583_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_583_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_583.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_583_premium.gif"
   },
@@ -8157,7 +8157,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_201t_Male_Murloc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_201t_Male_Murloc_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_201t_Male_Murloc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_201t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_201t_premium.gif"
   },
@@ -8168,7 +8168,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Sure, he'll return your stuff.  OVER HIS DEAD BODY!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_953_Male_Murloc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_953_Male_Murloc_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_953_Male_Murloc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_953.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_953_premium.gif"
   },
@@ -8179,7 +8179,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Lookout is a self-appointed title that's mostly an excuse to beat things up.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_937_Male_Murloc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_937_Male_Murloc_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_937_Male_Murloc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_937.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_937_premium.gif"
   },
@@ -8190,7 +8190,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Emits a sound only murlocs can hear, which is good because it’s REALLY annoying.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/PrimalfinTotem_UNG_201_Attack.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/PrimalfinTotem_UNG_201_Attack.ogg",
+    "AttackSound": "files/PrimalfinTotem_UNG_201_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_201.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_201_premium.gif"
   },
@@ -8201,7 +8201,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Before he became a rap artist.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_848_PrimordialDrake_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_848_PrimordialDrake_Attack.ogg",
+    "AttackSound": "files/UNG_848_PrimordialDrake_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_848.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_848_premium.gif"
   },
@@ -8212,7 +8212,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Three Princes stand before you. This one wants to buff his brothers.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_851_Male_Vampire_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_851_Male_Vampire_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_851_Male_Vampire_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_851.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_851_premium.gif"
   },
@@ -8223,7 +8223,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He was super excited to acquire Gorehowl at a garage sale!  Then super disappointed to find out it was a foam reproduction.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_096_Male_Demon_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_096_Male_Demon_Attack_02.ogg",
+    "AttackSound": "files/VO_KAR_096_Male_Demon_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_096.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_096_premium.gif"
   },
@@ -8234,7 +8234,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Three Princes stand before you. This one wants to copy others.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_852_Male_Vampire_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_852_Male_Vampire_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_852_Male_Vampire_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_852.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_852_premium.gif"
   },
@@ -8245,7 +8245,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Three Princes stand before you. This one devours one after another.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_853_Male_Vampire_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_853_Male_Vampire_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_853_Male_Vampire_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_853.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_853_premium.gif"
   },
@@ -8256,7 +8256,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She flitters around Ahn'Qiraj dreaming of the day she will meet a sweet prince, whom she can lay thousands of eggs with.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_309_Female_Wasp_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_309_Female_Wasp_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_309_Female_Wasp_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_309.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_309_premium.gif"
   },
@@ -8267,7 +8267,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Among his more notable inventions: A tentacle-groomer, a plague that would wipe out all life on Azeroth, and a fidget spinner.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_204_Male_Undead_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_204_Male_Undead_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_204_Male_Undead_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_204.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_204_premium.gif"
   },
@@ -8278,7 +8278,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's been exiled from his home, and all his brothers turned evil, but otherwise he doesn't have a lot to complain about.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_350_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_350_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_350_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_350.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_350_premium.gif"
   },
@@ -8289,7 +8289,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Annoyinger-o-Tron\" was just too unwieldy. And accurate.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_145_Male_Mech_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_145_Male_Mech_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_145_Male_Mech_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_145.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_145_premium.gif"
   },
@@ -8300,7 +8300,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_834t1_Pterrordax_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_834t1_Pterrordax_Attack.ogg",
+    "AttackSound": "files/UNG_834t1_Pterrordax_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_834t1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_834t1_premium.gif"
   },
@@ -8311,7 +8311,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Aww.  So cute.  Want to feed him another finger?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_001_PterrordaxHatchling_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_001_PterrordaxHatchling_Attack.ogg",
+    "AttackSound": "files/UNG_001_PterrordaxHatchling_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_001.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_001_premium.gif"
   },
@@ -8322,7 +8322,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Happy to defend any public offender!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_300_Male_Tauren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_300_Male_Tauren_Attack_03.ogg",
+    "AttackSound": "files/VO_CFM_300_Male_Tauren_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_300.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_300_premium.gif"
   },
@@ -8333,7 +8333,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He pays homage to Morgl, the great murloc oracle! (Who doesn't??)",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_064_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_064_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_064_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_064.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_064_premium.gif"
   },
@@ -8344,7 +8344,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you strike her down, she shall become more powerful than you can possibly… well, she'll become a 6/6 anyways.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Pyros_UNG_027_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Pyros_UNG_027_Attack.ogg",
+    "AttackSound": "files/Pyros_UNG_027_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_027.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_027_premium.gif"
   },
@@ -8355,7 +8355,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Pyros_UNG_027t2_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Pyros_UNG_027t2_Attack.ogg",
+    "AttackSound": "files/Pyros_UNG_027t2_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_027t2.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_027t2_premium.gif"
   },
@@ -8366,7 +8366,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Pyros_UNG_027t4_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Pyros_UNG_027t4_Attack.ogg",
+    "AttackSound": "files/Pyros_UNG_027t4_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_027t4.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_027t4_premium.gif"
   },
@@ -8377,7 +8377,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His specialty? Dividing things into four pieces.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_060_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_060_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_060_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_060.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_060_premium.gif"
   },
@@ -8388,7 +8388,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/QueenCarnassa_UNG_920t1_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/QueenCarnassa_UNG_920t1_Attack.ogg",
+    "AttackSound": "files/QueenCarnassa_UNG_920t1_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_920t1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_920t1_premium.gif"
   },
@@ -8399,7 +8399,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Does anyone have some extra Boar Pelts?\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_044_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_044_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_044_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_044.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_044_premium.gif"
   },
@@ -8410,7 +8410,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's a literal lava lamp!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/RadiantElemental_UNG_034_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/RadiantElemental_UNG_034_Attack.ogg",
+    "AttackSound": "files/RadiantElemental_UNG_034_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_034.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_034_premium.gif"
   },
@@ -8421,7 +8421,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If he's raging now, just wait until he gets nerfed.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_412_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_412_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_412_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_412.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_412_premium.gif"
   },
@@ -8432,7 +8432,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ragnaros was summoned by the Dark Iron dwarves, who were eventually enslaved by the Firelord.  Summoning Ragnaros often doesn’t work out the way you want it to.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_298_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_298_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_298_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_298.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_298_premium.gif"
   },
@@ -8443,7 +8443,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What happens when you try and corrupt a corrupted firelord? DOUBLE NEGATIVE, INSECT!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_229_Male_Demon_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_229_Male_Demon_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_229_Male_Demon_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_229.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_229_premium.gif"
   },
@@ -8454,7 +8454,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"That's a 50 DKP minus!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_122_Male_Orc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_122_Male_Orc_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_122_Male_Orc_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_122.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_122_premium.gif"
   },
@@ -8465,7 +8465,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Not getting trampled is really the trick here.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_010_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_010_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_010_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_010.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_010_premium.gif"
   },
@@ -8476,7 +8476,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_076t1_Raptor_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_076t1_Raptor_Attack.ogg",
+    "AttackSound": "files/UNG_076t1_Raptor_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_076t1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_076t1_premium.gif"
   },
@@ -8487,7 +8487,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They’re just baby teeth. Lots and lots of baby teeth.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_914_RaptorHatchling_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_914_RaptorHatchling_Attack.ogg",
+    "AttackSound": "files/UNG_914_RaptorHatchling_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_914.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_914_premium.gif"
   },
@@ -8498,7 +8498,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Rat_CFM_316t_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Rat_CFM_316t_Attack.ogg",
+    "AttackSound": "files/Rat_CFM_316t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_316t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_316t_premium.gif"
   },
@@ -8509,7 +8509,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's gonna do it his way.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_316_Male_Rat_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_316_Male_Rat_Attack.ogg",
+    "AttackSound": "files/VO_CFM_316_Male_Rat_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_316.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_316_premium.gif"
   },
@@ -8520,7 +8520,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't give up, skeleton!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_025_Male_Skeleton_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_025_Male_Skeleton_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_025_Male_Skeleton_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_025.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_025_premium.gif"
   },
@@ -8531,7 +8531,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "But goes by \"Ravishing Ghoul\" when he hits the club.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_149_RavagingGhoul_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_149_RavagingGhoul_Attack.ogg",
+    "AttackSound": "files/OG_149_RavagingGhoul_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_149.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_149_premium.gif"
   },
@@ -8542,7 +8542,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Doesn't like to adapt unless others are watching. Some minions are such show-offs.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/RavasaurRunt_UNG_009_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/RavasaurRunt_UNG_009_Attack.ogg",
+    "AttackSound": "files/RavasaurRunt_UNG_009_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_009.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_009_premium.gif"
   },
@@ -8553,7 +8553,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Just mail him a package with a name and 10,000 gold.  He'll take care of the rest.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_161_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_161_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_161_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_161.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_161_premium.gif"
   },
@@ -8564,7 +8564,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "For better results, feed your pterrordax low-fat, high-fiber minions.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_047_RavenousPterrordax_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_047_RavenousPterrordax_Attack.ogg",
+    "AttackSound": "files/UNG_047_RavenousPterrordax_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_047.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_047_premium.gif"
   },
@@ -8575,7 +8575,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Could you do me a favor and get the keys from Kazakus?\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_020_Male_Ethereal_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_020_Male_Ethereal_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_020_Male_Ethereal_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_020.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_020_premium.gif"
   },
@@ -8586,7 +8586,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Someone did mess with Tuskerr once.  ONCE.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_196_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_196_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_196_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_196.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_196_premium.gif"
   },
@@ -8597,7 +8597,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The reason why there are no zombies in Un'goro.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_058_RazorpetalLasher_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_058_RazorpetalLasher_Attack.ogg",
+    "AttackSound": "files/UNG_058_RazorpetalLasher_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_058.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_058_premium.gif"
   },
@@ -8608,7 +8608,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "One Insane Rocketeer.   One Rocket full of Explosives.   Infinite Fun.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_213_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_213_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_213_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_213.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_213_premium.gif"
   },
@@ -8619,7 +8619,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "For when you didn’t combobulate quite right the first time around.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_108_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_108_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_108_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_108.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_108_premium.gif"
   },
@@ -8630,7 +8630,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Join the Argent Crusade!  We have attractive tabards and you get to carry really nice swords!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_113_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_113_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_113_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_113.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_113_premium.gif"
   },
@@ -8641,7 +8641,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Menu:  Funnel cakes, carrots, popcorn, jormungar steaks.  It's hard serving a diverse clientele.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_111_PLAY_ALT1_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_111_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_111_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_111.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_111_premium.gif"
   },
@@ -8652,7 +8652,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Reliquary considers itself the equal of the League of Explorers.  The League of Explorers doesn't.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_116_Play4_06.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_116_Attack_02.ogg",
+    "AttackSound": "files/VO_LOE_116_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_116.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_116_premium.gif"
   },
@@ -8663,7 +8663,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Reno is a four-time winner of the 'Best Accessorized Explorer' award.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_011_Play_12.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_011_Attack_10.ogg",
+    "AttackSound": "files/VO_LOE_011_Attack_10.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_011.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_011_premium.gif"
   },
@@ -8674,7 +8674,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka2_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_Mekka2_Attack.ogg",
+    "AttackSound": "files/SFX_Mekka2_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/Mekka2.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/Mekka2_premium.gif"
   },
@@ -8685,7 +8685,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A masterless shamurai.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_009_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_009_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_009_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_009.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_009_premium.gif"
   },
@@ -8696,7 +8696,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Edward \"Lefty\" Smith tried to make luggage out of a river crocolisk once.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_120_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_120_Attack.ogg",
+    "AttackSound": "files/SFX_CS2_120_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_120.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_120_premium.gif"
   },
@@ -8707,7 +8707,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GnollReady1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GnollReady1.ogg",
+    "AttackSound": "files/GnollReady1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4a_002.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4a_002.png"
   },
@@ -8718,7 +8718,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_016t_Rock_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_016t_Rock_Attack.ogg",
+    "AttackSound": "files/LOE_016t_Rock_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_016t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_016t.png"
   },
@@ -8729,7 +8729,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Loves crab meat. Fears crabs.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_073_Male_Murloc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_073_Male_Murloc_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_073_Male_Murloc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_073.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_073_premium.gif"
   },
@@ -8740,7 +8740,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOEA01_11_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOEA01_11_Attack.ogg",
+    "AttackSound": "files/SFX_LOEA01_11_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA01_11.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA01_11.png"
   },
@@ -8751,7 +8751,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_024t_RollingBoulder_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_024t_RollingBoulder_Attack.ogg",
+    "AttackSound": "files/LOE_024t_RollingBoulder_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_024t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_024t.png"
   },
@@ -8762,7 +8762,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_06_01_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KARA_06_01_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_KARA_06_01_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_06_01.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KARA_06_01.png"
   },
@@ -8773,7 +8773,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Daddy! I think I made a Legendary!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_405_Male_Abomination_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_405_Male_Abomination_Attack_03.ogg",
+    "AttackSound": "files/VO_ICC_405_Male_Abomination_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_405.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_405_premium.gif"
   },
@@ -8784,7 +8784,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's a very hungry elemental.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_016_RumblingElemental_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_016_RumblingElemental_Attack.ogg",
+    "AttackSound": "files/LOE_016_RumblingElemental_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_016.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_016_premium.gif"
   },
@@ -8795,7 +8795,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't worry, he'll keep an eye on that for you.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_240_RuneforgeHaunter_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_240_RuneforgeHaunter_Attack.ogg",
+    "AttackSound": "files/ICC_240_RuneforgeHaunter_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_240.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_240_premium.gif"
   },
@@ -8806,7 +8806,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Oh man! Runic omelettes are the best!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_029_RunicEgg_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_029_RunicEgg_Attack_01.ogg",
+    "AttackSound": "files/KAR_029_RunicEgg_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_029.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_029_premium.gif"
   },
@@ -8817,7 +8817,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The agents of SI:7 are responsible for Stormwind's covert activities.  Their duties include espionage, assassination, and throwing surprise birthday parties for the royal family.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_134_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_134_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_134_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_134.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_134_premium.gif"
   },
@@ -8828,7 +8828,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_042t_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_042t_Attack.ogg",
+    "AttackSound": "files/SFX_AT_042t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_042t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_042t_premium.gif"
   },
@@ -8839,7 +8839,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_042t2_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_042t2_Attack.ogg",
+    "AttackSound": "files/SFX_AT_042t2_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_042t2.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_042t2_premium.gif"
   },
@@ -8850,7 +8850,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TigerForm_OG_044c_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TigerForm_OG_044c_Attack.ogg",
+    "AttackSound": "files/TigerForm_OG_044c_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_044c.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_044c_premium.gif"
   },
@@ -8861,7 +8861,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Listen all y'all it's a saboteur!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_086_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_086_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_086_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_086.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_086_premium.gif"
   },
@@ -8872,7 +8872,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's gotten a bit long in the tooth.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SabretoothStalker_UNG_812_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SabretoothStalker_UNG_812_Attack.ogg",
+    "AttackSound": "files/SabretoothStalker_UNG_812_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_812.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_812_premium.gif"
   },
@@ -8883,7 +8883,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's recently recovered from being a \"scurvy dog.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_070_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_070_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_070_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_070.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_070_premium.gif"
   },
@@ -8894,7 +8894,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Have some! This drink is to die for!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_903_Male_Sanlayn_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_903_Male_Sanlayn_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_903_Male_Sanlayn_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_903.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_903_premium.gif"
   },
@@ -8905,7 +8905,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_037t_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_037t_Attack.ogg",
+    "AttackSound": "files/SFX_AT_037t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_037t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_037t_premium.gif"
   },
@@ -8916,7 +8916,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Desperately needs some alone time.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_466_Male_Draenei_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_466_Male_Draenei_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_466_Male_Draenei_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_466.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_466_premium.gif"
   },
@@ -8927,7 +8927,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Bet you can't eat just one murloc!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_010_SatedThreshadon_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_010_SatedThreshadon_Attack.ogg",
+    "AttackSound": "files/UNG_010_SatedThreshadon_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_010.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_010_premium.gif"
   },
@@ -8938,7 +8938,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Maybe if you whistle a tune it will soothe him.  Yeah...  Try that.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_039_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_039_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_039_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_039.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_039_premium.gif"
   },
@@ -8949,7 +8949,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "In the jungle, the mighty jungle, the lion gets slowly consumed by hyenas.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_534_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_534_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_534_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_534.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_534_premium.gif"
   },
@@ -8960,7 +8960,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I like it because it scales.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_271_ScaledNightmare_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_271_ScaledNightmare_Attack.ogg",
+    "AttackSound": "files/OG_271_ScaledNightmare_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_271.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_271_premium.gif"
   },
@@ -8971,7 +8971,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_009t_Scarab_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_009t_Scarab_Attack.ogg",
+    "AttackSound": "files/LOE_009t_Scarab_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_009t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_009t_premium.gif"
   },
@@ -8982,7 +8982,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_832t4_ScarabBeetle_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_832t4_ScarabBeetle_Attack.ogg",
+    "AttackSound": "files/ICC_832t4_ScarabBeetle_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_832t4.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_832t4_premium.gif"
   },
@@ -8993,7 +8993,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Never wash your whites with a Scarlet Crusader.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_020_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_020_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_020_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_020.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_020_premium.gif"
   },
@@ -9004,7 +9004,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Scarlet Crusade is doing market research to find out if the \"Mauve Crusade\" would be better received.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_101_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_101_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_101_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_101.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_101_premium.gif"
   },
@@ -9015,7 +9015,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hyenas prefer the bones of kodos or windserpents, but they'll eat pretty much anything.  Even Brussels sprouts.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_531_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_531_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_531_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_531.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_531_premium.gif"
   },
@@ -9026,7 +9026,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If it breaks, just kick it a couple of times while yelling \"Durn thing!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_055_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_055_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_055_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_055.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_055_premium.gif"
   },
@@ -9037,7 +9037,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "See?  Giant.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_586_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_586_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_586_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_586.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_586_premium.gif"
   },
@@ -9048,7 +9048,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A little better than Sea Minus Reaver.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_130_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_130_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_130_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_130.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_130_premium.gif"
   },
@@ -9059,7 +9059,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Pretty harmless unless you're a Seadevil.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_699_Male_Murloc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_699_Male_Murloc_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_699_Male_Murloc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_699.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_699_premium.gif"
   },
@@ -9070,7 +9070,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_050_Play_SearingTotem.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_050_Attack_00.ogg",
+    "AttackSound": "files/SFX_CS2_050_Attack_00.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_050.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_050_premium.gif"
   },
@@ -9081,7 +9081,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He'll be a first-rate bruiser once he gets used to his contacts.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_652_Male_Ogre_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_652_Male_Ogre_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_652_Male_Ogre_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_652.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_652_premium.gif"
   },
@@ -9092,7 +9092,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She promises not to tell anyone about that thing you did last night with that one person.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_080_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_080_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_080_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_080.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_080_premium.gif"
   },
@@ -9103,7 +9103,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOEA04_25_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOEA04_25_Attack.ogg",
+    "AttackSound": "files/SFX_LOEA04_25_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA04_25.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA04_25.png"
   },
@@ -9114,7 +9114,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Don't worry about me… I'll just be here... under these tentacles.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_221_Female_Draenai_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_221_Female_Draenai_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_221_Female_Draenai_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_221.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_221_premium.gif"
   },
@@ -9125,7 +9125,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Sen'jin Villiage is nice, if you like trolls and dust.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_179_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_179_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_179_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_179.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_179_premium.gif"
   },
@@ -9136,7 +9136,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Who is she?  Where did she come from?  We don't even have a police force here in Gadgetzan!!\" - Mayor Noggenfogger",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_341_Female_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_341_Female_Gnome_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_341_Female_Gnome_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_341.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_341_premium.gif"
   },
@@ -9147,7 +9147,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's doing his best, but his mom thinks that if he had just applied himself in school Kalimos would be working for HIM.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_816_Male_Elemental_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_816_Male_Elemental_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_816_Male_Elemental_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_816.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_816_premium.gif"
   },
@@ -9158,7 +9158,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Yogg-Saron always likes to complain about how he has too many servants and there are too many mouths to feed.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_087_ServantOfYoggSaron_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_087_ServantOfYoggSaron_Attack.ogg",
+    "AttackSound": "files/OG_087_ServantOfYoggSaron_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_087.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_087_premium.gif"
   },
@@ -9169,7 +9169,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Shades of Naxxramas \u003ci\u003ehate\u003c/i\u003e the living. They even have a slur they use to refer them: \u003ci\u003eLivers\u003c/i\u003e.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_005_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_005_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_005_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_005.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_005_premium.gif"
   },
@@ -9180,7 +9180,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TU4f_003_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_TU4f_003_Play_01.ogg",
+    "AttackSound": "files/VO_TU4f_003_Play_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4f_003.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/TU4f_003.png"
   },
@@ -9191,7 +9191,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He needed a break after that business in the Vale of Eternal Blossoms. Naturally, he chose to spend his vacation in an icy snowscape killing monsters.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_028_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_028_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_028_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_028.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_028_premium.gif"
   },
@@ -9202,7 +9202,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When you're at the bottom, there's nowhere to ascend, but up.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_210_Female_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_210_Female_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_210_Female_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_210.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_210_premium.gif"
   },
@@ -9213,7 +9213,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "WE WENT THERE!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CFM_636_ShadowRager_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CFM_636_ShadowRager_Attack.ogg",
+    "AttackSound": "files/CFM_636_ShadowRager_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_636.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_636_premium.gif"
   },
@@ -9224,7 +9224,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He used to be Aya's tutor, but she fired him for bugging her too much.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_694_Male_Mantid_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_694_Male_Mantid_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_694_Male_Mantid_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_694.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_694_premium.gif"
   },
@@ -9235,7 +9235,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_345t_ShadowOfNothing_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_345t_ShadowOfNothing_Attack.ogg",
+    "AttackSound": "files/EX1_345t_ShadowOfNothing_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_345t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_345t_premium.gif"
   },
@@ -9246,7 +9246,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Shadowbeast_OG_241a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Shadowbeast_OG_241a_Attack.ogg",
+    "AttackSound": "files/Shadowbeast_OG_241a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_241a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_241a_premium.gif"
   },
@@ -9257,7 +9257,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Shadowbomber does her job, but she's kind of phoning it in at this point.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_009_Play_01_ALT.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_009_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_009_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_009.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_009_premium.gif"
   },
@@ -9268,7 +9268,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Punching is its primary function. Also, its secondary function.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_072_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_072_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_072_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_072.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_072_premium.gif"
   },
@@ -9279,7 +9279,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I mean, it's not creepy if you ASK before you steal their shadow to make a small replica of them to keep on your shelf.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_291_Female_Goblin_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_291_Female_Goblin_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_291_Female_Goblin_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_291.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_291_premium.gif"
   },
@@ -9290,7 +9290,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hopes to be promoted to \"Shadowfriend\" someday.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_014_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_014_Attack.ogg",
+    "AttackSound": "files/SFX_AT_014_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_014.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_014_premium.gif"
   },
@@ -9301,7 +9301,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I have great deal for you... for 4 damage to your face!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_032_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_032_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_032_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_032.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_032_premium.gif"
   },
@@ -9312,7 +9312,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Aya even staged an intervention once, but Shaku still insists that he is not a hoarder.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_781_Male_Sha_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_781_Male_Sha_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_781_Male_Sha_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_781.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_781_premium.gif"
   },
@@ -9323,7 +9323,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Grimy Goons can get you any weapon you want but if you want it to not explode you gotta pay extra.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_336_Male_Gnoll_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_336_Male_Gnoll_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_336_Male_Gnoll_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_336.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_336_premium.gif"
   },
@@ -9334,7 +9334,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's hard to put them six feet under when you're three feet tall.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_702_Female_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_702_Female_Gnome_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_702_Female_Gnome_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_702.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_702_premium.gif"
   },
@@ -9345,7 +9345,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They always have a spare flask of Sunwell Energy Drink™!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_019_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_019_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_019_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_019.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_019_premium.gif"
   },
@@ -9356,7 +9356,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_tk1_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_tk1_Attack.ogg",
+    "AttackSound": "files/SFX_CS2_tk1_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_tk1.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_tk1_premium.gif"
   },
@@ -9367,7 +9367,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Master of the Three Shell Monte.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_101_Male_Tortollan_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_101_Male_Tortollan_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_101_Male_Tortollan_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_101.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_101_premium.gif"
   },
@@ -9378,7 +9378,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ShellshifterStealth_UNG_101t_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ShellshifterStealth_UNG_101t_Attack.ogg",
+    "AttackSound": "files/ShellshifterStealth_UNG_101t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_101t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_101t_premium.gif"
   },
@@ -9389,7 +9389,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ShellshifterCombo_UNG_101t3_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ShellshifterCombo_UNG_101t3_Attack.ogg",
+    "AttackSound": "files/ShellshifterCombo_UNG_101t3_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_101t3.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_101t3_premium.gif"
   },
@@ -9400,7 +9400,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A Tortollan gardener's worst nightmare.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SherazinCorpseFlower_UNG_065_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SherazinCorpseFlower_UNG_065_Attack.ogg",
+    "AttackSound": "files/SherazinCorpseFlower_UNG_065_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_065.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_065_premium.gif"
   },
@@ -9411,7 +9411,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Have you seen the size of the shields in this game??  This is no easy job.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_405_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_405_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_405_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_405.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_405_premium.gif"
   },
@@ -9422,7 +9422,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He chooses to believe what he is programmed to believe!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_058_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_058_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_058_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_058.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_058_premium.gif"
   },
@@ -9433,7 +9433,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She has three shieldbearers in her party to supply her with back ups when she gets low on durability.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_053_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_053_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_053_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_053.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_053_premium.gif"
   },
@@ -9444,7 +9444,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's like being able to play with THREE angry chickens!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ShifterZerus_OG_123_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ShifterZerus_OG_123_Attack.ogg",
+    "AttackSound": "files/ShifterZerus_OG_123_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_123.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_123_premium.gif"
   },
@@ -9455,7 +9455,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Yeah, it's cooler in the shade, but you're also more likely to get JACKED.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_335_Male_Shade_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_335_Male_Shade_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_335_Male_Shade_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_335.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_335_premium.gif"
   },
@@ -9466,7 +9466,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "HATES being summoned for Kirin Tor party lighting.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_846_ShimmeringTempest_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_846_ShimmeringTempest_Attack.ogg",
+    "AttackSound": "files/UNG_846_ShimmeringTempest_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_846.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_846_premium.gif"
   },
@@ -9477,7 +9477,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you hear someone yell, \"Cannonball!\" you're about to get wet. Or crushed.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_075_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_075_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_075_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_075.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_075_premium.gif"
   },
@@ -9488,7 +9488,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "After the debacle of the Gnomish World Enlarger, gnomes are wary of size-changing inventions.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_011_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_011_Attack_Alt_03.ogg",
+    "AttackSound": "files/VO_GVG_011_Attack_Alt_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_011.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_011_premium.gif"
   },
@@ -9499,7 +9499,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hey!  Let me try that...",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_098_PLAY_ALT1_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_098_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_098_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_098.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_098_premium.gif"
   },
@@ -9510,7 +9510,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Wintergrasp Keep's only weakness!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_086_SiegeEngine_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_086_SiegeEngine_Attack.ogg",
+    "AttackSound": "files/GVG_086_SiegeEngine_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_086.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_086_premium.gif"
   },
@@ -9521,7 +9521,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He used to be a librarian.  Old habits die hard.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_095_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_095_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_095_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_095.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_095_premium.gif"
   },
@@ -9532,7 +9532,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If your hero doesn't attack, it's just \"Silithid Loner\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_034_SilithidSwarmer_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_034_SilithidSwarmer_Attack.ogg",
+    "AttackSound": "files/OG_034_SilithidSwarmer_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_034.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_034_premium.gif"
   },
@@ -9543,7 +9543,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The elements respond to anyone who calls them for a worthy cause, even if you call them by yelling, \"MRGHRGLGLGL!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_040_SiltfinSpiritwalker_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_040_SiltfinSpiritwalker_Attack.ogg",
+    "AttackSound": "files/GVG_040_SiltfinSpiritwalker_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_040.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_040_premium.gif"
   },
@@ -9554,7 +9554,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's good to be a knight.   Less so to be one's squire.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_151_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_151_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_151_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_151.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_151_premium.gif"
   },
@@ -9565,7 +9565,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SilverHandMurloc_OG_006a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SilverHandMurloc_OG_006a_Attack.ogg",
+    "AttackSound": "files/SilverHandMurloc_OG_006a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_006a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_006a_premium.gif"
   },
@@ -9576,7 +9576,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_101t_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_101t_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_101t_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_101t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_101t_premium.gif"
   },
@@ -9587,7 +9587,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Silver Hand is the best paladin organization.  The Argent Crusaders are super jealous.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_100_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_100_ATTACK_ALT1_04.ogg",
+    "AttackSound": "files/VO_AT_100_ATTACK_ALT1_04.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_100.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_100_premium.gif"
   },
@@ -9598,7 +9598,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He likes to act like he's in charge, but the silverback matriarch actually runs things.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_127_Silverback_Patriarch_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_127_Silverback_Patriarch_Attack3.ogg",
+    "AttackSound": "files/CS2_127_Silverback_Patriarch_Attack3.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_127.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_127_premium.gif"
   },
@@ -9609,7 +9609,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The first time they tried to guard Silvermoon against the scourge, it didn’t go so well…",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_023_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_023_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_023_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_023.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_023_premium.gif"
   },
@@ -9620,7 +9620,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "From the secret research labs of the Swiss Army.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_205_Male_SilverwareGolem_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_205_Male_SilverwareGolem_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_205_Male_SilverwareGolem_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_205.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_205_premium.gif"
   },
@@ -9631,7 +9631,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"I recognize your effort but I think your magic still has room for improvement.\" - Sindragosa after taking a class on giving constructive feedback.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_838_Female_Dragon_Play_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_838_Female_Dragon_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_838_Female_Dragon_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_838.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_838_premium.gif"
   },
@@ -9642,7 +9642,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "In addition to fluent Common, he also speaks fourteen dialects of 'mrgl'.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_076_Play_alt4_20.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_076_Attack_13.ogg",
+    "AttackSound": "files/VO_LOE_076_Attack_13.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_076.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_076_premium.gif"
   },
@@ -9653,7 +9653,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX9_04_Attack_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX9_04_Attack_02.ogg",
+    "AttackSound": "files/VO_NAX9_04_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX9_04.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX9_04.png"
   },
@@ -9664,7 +9664,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What do you mean there's no such thing as \"Skelemancy?\" But \"Dinomancy\" is ok?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_019_Female_BloodElf_Play_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_019_Female_BloodElf_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_019_Female_BloodElf_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_019.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_019_premium.gif"
   },
@@ -9675,7 +9675,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA16_26_SkelesaurusHex_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA16_26_SkelesaurusHex_Attack.ogg",
+    "AttackSound": "files/LOEA16_26_SkelesaurusHex_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA16_26.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA16_26.png"
   },
@@ -9686,7 +9686,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_025t_Male_Giant_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_025t_Male_Giant_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_025t_Male_Giant_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_025t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_025t.png"
   },
@@ -9697,7 +9697,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_019t_SkeletalFlayer_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_019t_SkeletalFlayer_Attack.ogg",
+    "AttackSound": "files/ICC_019t_SkeletalFlayer_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_019t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_019t_premium.gif"
   },
@@ -9708,7 +9708,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA11_001_Male_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA11_001_Male_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_ICCA11_001_Male_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA11_001.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA11_001.png"
   },
@@ -9719,7 +9719,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NAXM_002_SkeletalSmith_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NAXM_002_SkeletalSmith_Attack.ogg",
+    "AttackSound": "files/NAXM_002_SkeletalSmith_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAXM_002.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAXM_002.png"
   },
@@ -9730,7 +9730,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NAX4_03_Skeleton_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/NAX4_03_Skeleton_Attack.ogg",
+    "AttackSound": "files/NAX4_03_Skeleton_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX4_03.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX4_03.png"
   },
@@ -9741,7 +9741,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_026t_Male_Skeleton_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_026t_Male_Skeleton_Attack.ogg",
+    "AttackSound": "files/ICC_026t_Male_Skeleton_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_026t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_026t_premium.gif"
   },
@@ -9752,7 +9752,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Just before he comes into play, there is an AWESOME training montage with C'Thun.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_339_Male_Qiraji_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_339_Male_Qiraji_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_339_Male_Qiraji_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_339.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_339_premium.gif"
   },
@@ -9763,7 +9763,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's as though a million Jade Idols cried out, and were suddenly silenced.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_701_Male_Geist_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_701_Male_Geist_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_701_Male_Geist_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_701.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_701_premium.gif"
   },
@@ -9774,7 +9774,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What's more boss than riding a parrot with a jawbone for a shoulderpad while wielding a giant hook-lance-thing and wearing a pirate hat?  NOTHING.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_070_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_070_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_070_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_070.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_070_premium.gif"
   },
@@ -9785,7 +9785,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA05_003_Female_BloodElf_Attack_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA05_003_Female_BloodElf_Attack_01.ogg",
+    "AttackSound": "files/VO_ICCA05_003_Female_BloodElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA05_003.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA05_003.png"
   },
@@ -9796,7 +9796,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Slime_OG_202c_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Slime_OG_202c_Attack.ogg",
+    "AttackSound": "files/Slime_OG_202c_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_202c.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_202c_premium.gif"
   },
@@ -9807,7 +9807,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Slime_OG_249a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Slime_OG_249a_Attack.ogg",
+    "AttackSound": "files/Slime_OG_249a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_249a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_249a_premium.gif"
   },
@@ -9818,7 +9818,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Slime_OG_314b_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Slime_OG_314b_Attack.ogg",
+    "AttackSound": "files/Slime_OG_314b_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_314b.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_314b_premium.gif"
   },
@@ -9829,7 +9829,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_012t_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_012t_Attack.ogg",
+    "AttackSound": "files/SFX_FP1_012t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_012t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_012t_premium.gif"
   },
@@ -9840,7 +9840,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA09_6_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA09_6_Attack_02.ogg",
+    "AttackSound": "files/VO_LOEA09_6_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA09_6.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA09_6.png"
   },
@@ -9851,7 +9851,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA09_8_SlitherpearSiren_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA09_8_SlitherpearSiren_Attack.ogg",
+    "AttackSound": "files/LOEA09_8_SlitherpearSiren_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA09_8.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA09_8.png"
   },
@@ -9862,7 +9862,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "DO NOT GIVE HIM A ROOT BEER.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_012_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_012_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_012_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_012.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_012_premium.gif"
   },
@@ -9873,7 +9873,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Oh, I'm not serious about it.  I only pirate on the weekends.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_325_Male_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_325_Male_Gnome_Attack_02.ogg",
+    "AttackSound": "files/VO_CFM_325_Male_Gnome_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_325.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_325_premium.gif"
   },
@@ -9884,7 +9884,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_554t_Play_Snake_2.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_554t_Attack_Snake.ogg",
+    "AttackSound": "files/EX1_554t_Attack_Snake.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_554t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_554t_premium.gif"
   },
@@ -9895,7 +9895,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When Sneed was defeated in the Deadmines, his shredder was sold at auction to an anonymous buyer. (Probably Hogger.)",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_114_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_114_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_114_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_114.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_114_premium.gif"
   },
@@ -9906,7 +9906,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Do the slow chant when he waddles by: \"Chug! Chug! Chug!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_002_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_002_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_002_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_002.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_002_premium.gif"
   },
@@ -9917,7 +9917,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "On land, a group of penguins is called a \"waddle.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_023_SnowFlipper_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_023_SnowFlipper_Attack.ogg",
+    "AttackSound": "files/ICC_023_SnowFlipper_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_023.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_023_premium.gif"
   },
@@ -9928,7 +9928,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This minion goes all the way to 11!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_090_SnowfuryGiant_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ICC_090_SnowfuryGiant_Attack.ogg",
+    "AttackSound": "files/ICC_090_SnowfuryGiant_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_090.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_090_premium.gif"
   },
@@ -9939,7 +9939,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't tell Soggoth, but in the future he gets totally owned by the Master's Glaive and his skull becomes a tourist attraction.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_340_Male_Faceless_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_340_Male_Faceless_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_340_Male_Faceless_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_340.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_340_premium.gif"
   },
@@ -9950,7 +9950,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA13_5_SonOfTheFlame_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA13_5_SonOfTheFlame_Attack_1.ogg",
+    "AttackSound": "files/BRMA13_5_SonOfTheFlame_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA13_5.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA13_5.png"
   },
@@ -9961,7 +9961,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The inventor of the goblin shredder is involved in several patent disputes with the inventor of the soot spewer.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_123_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_123_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_123_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_123.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_123_premium.gif"
   },
@@ -9972,7 +9972,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Apprentices are great for bossing around.  \"Conjure me some mana buns! And a coffee!  Make that a mana coffee!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_608_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_608_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_608_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_608.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_608_premium.gif"
   },
@@ -9983,7 +9983,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When he saves enough plunder, he's going to commission an enormous captain's hat.  He has hat envy.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_027_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_027_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_027_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_027.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_027_premium.gif"
   },
@@ -9994,7 +9994,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Pirates are into this new fad called \"Planking\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_146_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_146_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_146_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_146.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_146_premium.gif"
   },
@@ -10005,7 +10005,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Quick! Before I drown! Let me sharpen your sword for you.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_267_Female_Faceless_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_267_Female_Faceless_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_267_Female_Faceless_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_267.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_267_premium.gif"
   },
@@ -10016,7 +10016,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Come at me, bro.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_069_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_069_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_069_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_069.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_069_premium.gif"
   },
@@ -10027,7 +10027,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Who's a cute widdle N'Zoth? You are! Yes you are! Yes you're the cutest widdle N'Zoth in the whole world!!!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SpawnOfNZoth_OG_256_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SpawnOfNZoth_OG_256_Attack.ogg",
+    "AttackSound": "files/SpawnOfNZoth_OG_256_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_256.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_256_premium.gif"
   },
@@ -10038,7 +10038,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What did you expect to happen?  He's a Spawn.  Of Shadows.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_012_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_012_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_012_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_012.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_012_premium.gif"
   },
@@ -10049,7 +10049,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What do Faerie Dragons and Spectral Knights have in common?  They both love pasta!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_008_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_008_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_008_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_008.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_008_premium.gif"
   },
@@ -10060,7 +10060,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It turns out you CAN take it with you.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_910_Female_Banshee_Play_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_910_Female_Banshee_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_910_Female_Banshee_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_910.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_910_premium.gif"
   },
@@ -10071,7 +10071,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_05t_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_05t_Attack_02.ogg",
+    "AttackSound": "files/VO_NAX8_05t_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_05t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_05t.png"
   },
@@ -10082,7 +10082,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_002t_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_002t_Attack.ogg",
+    "AttackSound": "files/SFX_FP1_002t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_002t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_002t_premium.gif"
   },
@@ -10093,7 +10093,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_03t_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_03t_Attack_02.ogg",
+    "AttackSound": "files/VO_NAX8_03t_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_03t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_03t.png"
   },
@@ -10104,7 +10104,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_042t_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_04t_Attack_02.ogg",
+    "AttackSound": "files/VO_NAX8_04t_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_04t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_04t.png"
   },
@@ -10115,7 +10115,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_tt_010a_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_tt_010a_Attack_02.ogg",
+    "AttackSound": "files/VO_tt_010a_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/tt_010a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/tt_010a_premium.gif"
   },
@@ -10126,7 +10126,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Spellbreakers can rip enchantments from magic-wielders.  The process is painless and can be performed on an outpatient basis.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_048_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_048_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_048_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_048.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_048_premium.gif"
   },
@@ -10137,7 +10137,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Does he sling spells, or do his spells linger about.  Who can say?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_007_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_007_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_007_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_007.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_007_premium.gif"
   },
@@ -10148,7 +10148,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Spider_OG_216a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Spider_OG_216a_Attack.ogg",
+    "AttackSound": "files/Spider_OG_216a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_216a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_216a_premium.gif"
   },
@@ -10159,7 +10159,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"What if we put guns on it?\" -Fizzblitz, staring at the spider-transportation-machine",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_044_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_044_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_044_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_044.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_044_premium.gif"
   },
@@ -10170,7 +10170,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA07_24_SpikedDecoy_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOEA07_24_SpikedDecoy_Attack.ogg",
+    "AttackSound": "files/LOEA07_24_SpikedDecoy_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_24.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA07_24.png"
   },
@@ -10181,7 +10181,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Did you know the Hogchoppers compete every year at the Mirage Raceway?  They do.  It's a real group.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_688_Male_Quilboar_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_688_Male_Quilboar_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_688_Male_Quilboar_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_688.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_688_premium.gif"
   },
@@ -10192,7 +10192,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_tk11_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_tk11_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_tk11_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_tk11.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_tk11_premium.gif"
   },
@@ -10203,7 +10203,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She sees the fate of anyone she meets, but it's always the same: dinosaur attack.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_900_Female_Tortollan_Play_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_900_Female_Tortollan_Attack_02.ogg",
+    "AttackSound": "files/VO_UNG_900_Female_Tortollan_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_900.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_900_premium.gif"
   },
@@ -10214,7 +10214,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She'll craft you a sword, but you'll need to bring her 5 Steel Ingots, 3 Motes of Earth, and the scalp of her last customer.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_221_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_221_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_221_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_221.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_221_premium.gif"
   },
@@ -10225,7 +10225,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NAX6_03t_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_NAX6_03t_Attack.ogg",
+    "AttackSound": "files/SFX_NAX6_03t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX6_03t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX6_03t.png"
   },
@@ -10236,7 +10236,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_152_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_152_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_152_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_152.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_152_premium.gif"
   },
@@ -10247,7 +10247,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Yeah, I think we can agree that killing the squirming tentacle first is a good idea.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SquirmingTentacle_OG_327_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SquirmingTentacle_OG_327_Attack.ogg",
+    "AttackSound": "files/SquirmingTentacle_OG_327_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_327.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_327_premium.gif"
   },
@@ -10258,7 +10258,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_tk28_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_tk28_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_tk28_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_tk28.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_tk28_premium.gif"
   },
@@ -10269,7 +10269,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Takes way better care of her pets than her brother, Unstablemaster.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_057_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_057_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_057_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_057.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_057_premium.gif"
   },
@@ -10280,7 +10280,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Stalagg want to write own flavor text.  \"STALAGG AWESOME!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_014_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_014_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_014_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_014.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_014_premium.gif"
   },
@@ -10291,7 +10291,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This Kodo is so big that he can stampede by \u003ci\u003ehimself\u003c/i\u003e.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KotoBeastReady1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KotoBeastYes1.ogg",
+    "AttackSound": "files/KotoBeastYes1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_041.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_041_premium.gif"
   },
@@ -10302,7 +10302,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you feed him, he loses his whole \u003ci\u003eidentity\u003c/i\u003e.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_237_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_237_Attack.ogg",
+    "AttackSound": "files/SFX_CS2_237_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_237.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_237_premium.gif"
   },
@@ -10313,7 +10313,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Explorers nicknamed him the Teapot Elemental.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_021_SteamSurger_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_021_SteamSurger_Attack.ogg",
+    "AttackSound": "files/UNG_021_SteamSurger_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_021.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_021_premium.gif"
   },
@@ -10324,7 +10324,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Goblins seldom have the patience for sniping. Most prefer lobbing explosives.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_087_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_087_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_087_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_087.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_087_premium.gif"
   },
@@ -10335,7 +10335,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Level 40 Tortollan Paladins quest to tame a Stegodon.  There are no level 41 Tortollan Paladins.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Stegodon_UNG_810_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Stegodon_UNG_810_Attack.ogg",
+    "AttackSound": "files/Stegodon_UNG_810_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_810.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_810_premium.gif"
   },
@@ -10346,7 +10346,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Turns out divine shields are way cheaper if you buy in bulk.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_310_Female_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_310_Female_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_310_Female_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_310.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_310_premium.gif"
   },
@@ -10357,7 +10357,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's just exercising his right to bear arms.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_415_Male_Orc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_415_Male_Orc_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_415_Male_Orc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_415.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_415_premium.gif"
   },
@@ -10368,7 +10368,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/StoneElemental_UNG_211aa_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/StoneElemental_UNG_211aa_Attack.ogg",
+    "AttackSound": "files/StoneElemental_UNG_211aa_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_211aa.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_211aa_premium.gif"
   },
@@ -10379,7 +10379,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He and his friends just want to rock out.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_208_Male_Tolvir_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_208_Male_Tolvir_Attack_03.ogg",
+    "AttackSound": "files/VO_UNG_208_Male_Tolvir_Attack_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_208.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_208_premium.gif"
   },
@@ -10390,7 +10390,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_051_Play_StoneclawTotem.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_051_Attack_00.ogg",
+    "AttackSound": "files/SFX_CS2_051_Attack_00.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_051.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_051_premium.gif"
   },
@@ -10401,7 +10401,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Stoneskin Gargoyles love freeze tag.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_027_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_027_Attack.ogg",
+    "AttackSound": "files/SFX_FP1_027_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_027.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_027_premium.gif"
   },
@@ -10412,7 +10412,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The only thing worse than smelling troggs is listening to their poetry.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_067_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_067_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_067_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_067.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_067_premium.gif"
   },
@@ -10423,7 +10423,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This card is boaring.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_171_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_171_Attack.ogg",
+    "AttackSound": "files/SFX_CS2_171_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_171.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_171_premium.gif"
   },
@@ -10434,7 +10434,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Stormpike Commandos are demolition experts.  They also bake a mean cupcake.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_150_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_150_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_150_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_150.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_150_premium.gif"
   },
@@ -10445,7 +10445,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Aspiring meteorologist!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_813_Female_Elemental_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_813_Female_Elemental_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_813_Female_Elemental_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_813.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_813_premium.gif"
   },
@@ -10456,7 +10456,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When Deathwing assaulted the capital, this soldier was the only member of his squad to survive. Now he's all bitter and stuff.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_222_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_222_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_222_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_222.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_222_premium.gif"
   },
@@ -10467,7 +10467,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They're still embarrassed about \"The Deathwing Incident\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_131_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_131_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_131_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_131.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_131_premium.gif"
   },
@@ -10478,7 +10478,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The wonderful thing about tigers is tigers are wonderful things!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_028_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_028_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_028_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_028.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_028_premium.gif"
   },
@@ -10489,7 +10489,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His first trick: making your wallet disappear!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_039_Male_Imp_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_039_Male_Imp_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_039_Male_Imp_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_039.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_039_premium.gif"
   },
@@ -10500,7 +10500,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Hmmmm…  Call it a hunch, but I'm starting to think that there may be some kind of criminal activity going on in Gadgetzan.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_656_Male_NightElf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_656_Male_NightElf_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_656_Male_NightElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_656.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_656_premium.gif"
   },
@@ -10511,7 +10511,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It isn't \"grave robbing\" when there's no grave. It's just scavenging…",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_807_Male_GiantBeetle_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_807_Male_GiantBeetle_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_807_Male_GiantBeetle_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_807.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_807_premium.gif"
   },
@@ -10522,7 +10522,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Stubbornly pursuing its dream to become Azeroth's fastest animal!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/StubbornGastropod_UNG_808_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/StubbornGastropod_UNG_808_Attack.ogg",
+    "AttackSound": "files/StubbornGastropod_UNG_808_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_808.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_808_premium.gif"
   },
@@ -10533,7 +10533,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Warlocks have it pretty good.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_306_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_306_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_306_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_306.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_306_premium.gif"
   },
@@ -10544,7 +10544,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "NOT LESS THAN 1!  Don't get any ideas!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_315_EnterPlay_00.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_315_Attack_00.ogg",
+    "AttackSound": "files/SFX_EX1_315_Attack_00.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_315.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_315_premium.gif"
   },
@@ -10555,7 +10555,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Sometimes it feels like it's always the same slackers that are waiting for a summon.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_086_SummoningStone_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_086_SummoningStone_Attack.ogg",
+    "AttackSound": "files/LOE_086_SummoningStone_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_086.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_086_premium.gif"
   },
@@ -10566,7 +10566,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Bring valor to Odyn's halls, Champion!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_028_Female_ValKyr_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_028_Female_ValKyr_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_028_Female_ValKyr_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_028.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_028_premium.gif"
   },
@@ -10577,7 +10577,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She carries a shield, but only so she can give it to someone she can stand behind.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_058_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_058_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_058_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_058.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_058_premium.gif"
   },
@@ -10588,7 +10588,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ironically, his favorite number is 4.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_015_Male_Tolvir_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_015_Male_Tolvir_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_015_Male_Tolvir_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_015.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_015_premium.gif"
   },
@@ -10599,7 +10599,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She doesn’t ACTUALLY walk on the Sun.  It's just a name.  Don’t worry!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_032_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_032_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_032_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_032.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_032_premium.gif"
   },
@@ -10610,7 +10610,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Swamp King Dred, more like Swamp King Dead, amiright?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_919_SwampKingDred_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_919_SwampKingDred_Attack.ogg",
+    "AttackSound": "files/UNG_919_SwampKingDred_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_919.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_919_premium.gif"
   },
@@ -10621,7 +10621,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Sylvanas was turned into the Banshee Queen by Arthas, but he probably should have just killed her because it just pissed her off.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_Sylvanas_01_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_Sylvanas_02_Attack_02.ogg",
+    "AttackSound": "files/VO_Sylvanas_02_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_016.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_016_premium.gif"
   },
@@ -10632,7 +10632,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Hogchoppers are well-known throughout Kalimdor for being a real, actual group.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_809_Male_Quilboar_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_809_Male_Quilboar_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_809_Male_Quilboar_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_809.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_809_premium.gif"
   },
@@ -10643,7 +10643,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you won't come to the tar pits, we'll bring them to you!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_928_Male_Tortollan_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_928_Male_Tortollan_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_928_Male_Tortollan_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_928.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_928_premium.gif"
   },
@@ -10654,7 +10654,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Tar Lord, man... legendary monster? Aw, forget it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TarLord_UNG_838_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TarLord_UNG_838_Attack.ogg",
+    "AttackSound": "files/TarLord_UNG_838_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_838.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_838_premium.gif"
   },
@@ -10665,7 +10665,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hi, Tar here. Long time lurking, first time taunting…",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TarLurker_UNG_049_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TarLurker_UNG_049_Attack.ogg",
+    "AttackSound": "files/TarLurker_UNG_049_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_049.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_049_premium.gif"
   },
@@ -10676,7 +10676,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The engineering equivalent of a \"Kick Me\" sticker.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_093_TargetDummy_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/GVG_093_TargetDummy_Attack.ogg",
+    "AttackSound": "files/GVG_093_TargetDummy_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_093.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_093_premium.gif"
   },
@@ -10687,7 +10687,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Tauren Warrior: Champion of Mulgore, Slayer of Quilboar, Rider of Thunderbluff Elevators.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_390_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_390_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_390_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_390.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_390_premium.gif"
   },
@@ -10698,7 +10698,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_025c_Teapot_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_025c_Teapot_Attack_01.ogg",
+    "AttackSound": "files/KAR_025c_Teapot_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_025c.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_025c_premium.gif"
   },
@@ -10709,7 +10709,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He also moonlights Thursday nights as a bouncer at the Pig and Whistle Tavern.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_623_Temple_Enforcer_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_623_Temple_Enforcer_Attack_2.ogg",
+    "AttackSound": "files/EX1_623_Temple_Enforcer_Attack_2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_623.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_623_premium.gif"
   },
@@ -10720,7 +10720,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Because EVERYDAY is the Day of the Tentacle of N'zoth.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TentacleOfNZoth_OG_151_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TentacleOfNZoth_OG_151_Attack.ogg",
+    "AttackSound": "files/TentacleOfNZoth_OG_151_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_151.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_151_premium.gif"
   },
@@ -10731,7 +10731,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA01_008_Male_Orc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA01_008_Male_Orc_Attack_01.ogg",
+    "AttackSound": "files/VO_ICCA01_008_Male_Orc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA01_008.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA01_008.png"
   },
@@ -10742,7 +10742,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_014t_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX13_01_HP_Attack_02.ogg",
+    "AttackSound": "files/VO_NAX13_01_HP_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_014t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_014t_premium.gif"
   },
@@ -10753,7 +10753,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX9_03_Attack_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX9_03_Attack_02.ogg",
+    "AttackSound": "files/VO_NAX9_03_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX9_03.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX9_03.png"
   },
@@ -10764,7 +10764,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_173a_Androgynous _Monster_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_173a_Androgynous _Monster_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_173a_Androgynous _Monster_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_173a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_173a_premium.gif"
   },
@@ -10775,7 +10775,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He lives in Blackrock Mountain.  He eats Gnomes.  That's pretty much it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_577_The_Beast_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_577_The_Beast_Attack2.ogg",
+    "AttackSound": "files/EX1_577_The_Beast_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_577.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_577_premium.gif"
   },
@@ -10786,7 +10786,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He was sent by the Lich King to disrupt the Argent Tournament.   We can pretty much mark that a failure.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_002_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_002_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_002_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_002.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_002_premium.gif"
   },
@@ -10797,7 +10797,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Has 20 years of training in classical ballet, but ALLLLLL he ever gets asked to do is boogie.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_300_Male_Monster_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_300_Male_Monster_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_300_Male_Monster_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_300.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_300_premium.gif"
   },
@@ -10808,7 +10808,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Curator guards Azeroth’s deadliest creatures, but it’s secretly terrified of squirrels.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_061_Male_ArcaneGolem_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_061_Male_ArcaneGolem_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_061_Male_ArcaneGolem_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_061.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_061_premium.gif"
   },
@@ -10819,7 +10819,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Calling the mist doesn't sound all that great.  \"Ooooh, it is slightly damp now!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_054_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_054_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_054_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_054.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_054_premium.gif"
   },
@@ -10830,7 +10830,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Apparently it really was just a flesh wound.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_128_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_128_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_128_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_128.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_128_premium.gif"
   },
@@ -10841,7 +10841,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_324t_Male_Pandaren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_324t_Male_Pandaren_Attack_02.ogg",
+    "AttackSound": "files/VO_CFM_324t_Male_Pandaren_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_324t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_324t_premium.gif"
   },
@@ -10852,7 +10852,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I am the Voraxx.  I speak for the weeds.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_843_Phytos_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_843_Phytos_Attack.ogg",
+    "AttackSound": "files/UNG_843_Phytos_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_843.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_843_premium.gif"
   },
@@ -10863,7 +10863,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Just can't resist the opportunity to hang around with a bunch of totems.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ThingFromBelow_OG_028_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ThingFromBelow_OG_028_Attack.ogg",
+    "AttackSound": "files/ThingFromBelow_OG_028_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_028.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_028_premium.gif"
   },
@@ -10874,7 +10874,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_829t3_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_829t3_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_829t3_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_829t3.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_829t3_premium.gif"
   },
@@ -10885,7 +10885,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's stationed in the Hellfire Peninsula, but he's hoping for a reassignment closer to Orgrimmar, or really anywhere the ground is less on fire.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_021_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_021_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_021_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_021.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_021_premium.gif"
   },
@@ -10896,7 +10896,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Allowing totems to attack is not cheating.  I mean, there isn't anything in the rule books about it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_049_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_049_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_049_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_049.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_049_premium.gif"
   },
@@ -10907,7 +10907,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What? THUNDER LIZARD is adapting!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_082_ThunderLizard_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_082_ThunderLizard_Attack.ogg",
+    "AttackSound": "files/UNG_082_ThunderLizard_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_082.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_082_premium.gif"
   },
@@ -10918,7 +10918,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Abomination. Emphasis on the second syllable.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_099_Male_Abomination_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_099_Male_Abomination_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_099_Male_Abomination_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_099.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_099_premium.gif"
   },
@@ -10929,7 +10929,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Other beasts totally dig hanging out with timber wolves.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_DS1_175_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_DS1_175_Attack.ogg",
+    "AttackSound": "files/SFX_DS1_175_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/DS1_175.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/DS1_175_premium.gif"
   },
@@ -10940,7 +10940,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Won't you take me to... Tinkertown?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_102_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_102_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_102_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_102.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_102_premium.gif"
   },
@@ -10951,7 +10951,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Tinkmaster Overspark nearly lost his Tinker's license after the Great Ironforge Squirrel Stampede of '09.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_083_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_083_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_083_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_083.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_083_premium.gif"
   },
@@ -10962,7 +10962,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"No, no, no. I asked for a tiny JESTER of evil.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_021_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_021_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_021_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_021.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_021_premium.gif"
   },
@@ -10973,7 +10973,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you haven't heard the Tirion Fordring theme song, it's because it doesn't exist.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_383_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_383_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_383_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_383.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_383_premium.gif"
   },
@@ -10984,7 +10984,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA01_12_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOEA01_12_Attack_02.ogg",
+    "AttackSound": "files/VO_LOEA01_12_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA01_12.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOEA01_12.png"
   },
@@ -10995,7 +10995,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He spends a lot of time keeping himself in stoneshape.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_070_Male_Elemental_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_070_Male_Elemental_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_070_Male_Elemental_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_070.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_070_premium.gif"
   },
@@ -11006,7 +11006,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ferocious in combat… and even more terrifying in pet battles.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_913_Male_Tolvir_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_913_Male_Tolvir_Attack_02.ogg",
+    "AttackSound": "files/VO_UNG_913_Male_Tolvir_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_913.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_913_premium.gif"
   },
@@ -11017,7 +11017,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She hangs out in all the tombs, but she rarely posts.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_098_Female_Geist_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_098_Female_Geist_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_098_Female_Geist_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_098.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_098_premium.gif"
   },
@@ -11028,7 +11028,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "After the guild broke up, he could no longer raid the tombs.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_012_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_012_Attack_02.ogg",
+    "AttackSound": "files/VO_LOE_012_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_012.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_012_premium.gif"
   },
@@ -11039,7 +11039,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Less serious than its cousin, the Grave Spider.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_047_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_LOE_047_Attack.ogg",
+    "AttackSound": "files/SFX_LOE_047_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_047.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_047_premium.gif"
   },
@@ -11050,7 +11050,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "In the Tortollan tongue, Un’goro is known as the “Land of the Lost and Found.”",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_078_Female_Tortollan_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_078_Female_Tortollan_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_078_Female_Tortollan_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_078.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_078_premium.gif"
   },
@@ -11061,7 +11061,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I see pizza in my future.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_088_Female_Tortollan_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_088_Female_Tortollan_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_088_Female_Tortollan_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_088.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_088_premium.gif"
   },
@@ -11072,7 +11072,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A hero... In a half-shell.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_037_Female_Tortollan_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_037_Female_Tortollan_Attack_01.ogg",
+    "AttackSound": "files/VO_UNG_037_Female_Tortollan_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_037.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_037_premium.gif"
   },
@@ -11083,7 +11083,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Something about power converters.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_115_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_115_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_115_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_115.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_115_premium.gif"
   },
@@ -11094,7 +11094,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "What happens when you glue a buncha totems together.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_052_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_052_Attack.ogg",
+    "AttackSound": "files/SFX_AT_052_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_052.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_052_premium.gif"
   },
@@ -11105,7 +11105,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He was so excited to get season tickets to this year's Grand Tournament.  He normally doesn't get them at first and has to buy them from Ogre scalpers.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_097_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_097_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_097_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_097.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_097_premium.gif"
   },
@@ -11116,7 +11116,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The medic tournament is less entertaining than the Grand Tournament.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_091_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_091_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_091_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_091.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_091_premium.gif"
   },
@@ -11127,7 +11127,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When Sergeant Sally shows up unexpectedly, DO NOT FLUSH YOUR MANA CRYSTALS DOWN THE TOILET.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ToxicSewerOoze_CFM_655_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ToxicSewerOoze_CFM_655_Attack.ogg",
+    "AttackSound": "files/ToxicSewerOoze_CFM_655_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_655.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_655_premium.gif"
   },
@@ -11138,7 +11138,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA14_5_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_BRMA14_5_Attack_02.ogg",
+    "AttackSound": "files/VO_BRMA14_5_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA14_5.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA14_5.png"
   },
@@ -11149,7 +11149,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Gallywix believes in supply and demand. He supplies the beatings and demands you pay up!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_028_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_028_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_028_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_028.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_028_premium.gif"
   },
@@ -11160,7 +11160,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA08_033_Male_HumanGhost_Attack_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA08_033_Male_HumanGhost_Attack_01.ogg",
+    "AttackSound": "files/VO_ICCA08_033_Male_HumanGhost_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA08_033.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA08_033.png"
   },
@@ -11171,7 +11171,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_158t Treant_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_158t Treant_Attack2.ogg",
+    "AttackSound": "files/EX1_158t Treant_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_158t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_158t_premium.gif"
   },
@@ -11182,7 +11182,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_573t Treant_Attack2.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_573t Treant_Attack2.ogg",
+    "AttackSound": "files/EX1_573t Treant_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_573t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_573t_premium.gif"
   },
@@ -11193,7 +11193,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_tk9_Treant_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_tk9_Treant_Attack2.ogg",
+    "AttackSound": "files/EX1_tk9_Treant_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_tk9.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_tk9_premium.gif"
   },
@@ -11204,7 +11204,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_573t Treant_Attack2.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_573t Treant_Attack2.ogg",
+    "AttackSound": "files/EX1_573t Treant_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_019t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_019t_premium.gif"
   },
@@ -11215,7 +11215,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Still angry that the Gadgetzan Rager Club wouldn't accept him as a member.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_338_Male_Trogg_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_338_Male_Trogg_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_338_Male_Trogg_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_338.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_338_premium.gif"
   },
@@ -11226,7 +11226,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He keeps earthinating the countryside despite attempts to stop him.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_118_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_118_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_118_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_118.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_118_premium.gif"
   },
@@ -11237,7 +11237,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Tundra rhinos are often mistaken for kodos.  Or am I mistaken?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_DS1_178_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_DS1_178_Attack.ogg",
+    "AttackSound": "files/SFX_DS1_178_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/DS1_178.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/DS1_178_premium.gif"
   },
@@ -11248,7 +11248,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Sure, they're ugly, but they live in tunnels.  You try your beauty routine without natural light.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_018_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_018_Attack_02.ogg",
+    "AttackSound": "files/VO_LOE_018_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_018.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_018_premium.gif"
   },
@@ -11259,7 +11259,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you bring him 500 fish, he'll give you this sweet Kalu'ak Fishing Pole.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_093_Male_Tuskar_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_093_Male_Tuskar_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_093_Male_Tuskar_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_093.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_093_premium.gif"
   },
@@ -11270,7 +11270,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Just could not be talked out of using his turtle for the joust...",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_104_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_104_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_104_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_104.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_104_premium.gif"
   },
@@ -11281,7 +11281,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Turns out the tuskarr aren't real choosy about their totems.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_046_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_046_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_046_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_046.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_046_premium.gif"
   },
@@ -11292,7 +11292,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "First she separates them from the lights, washes them in cold water, and hang-dries.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_096_Female_Night Elf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_096_Female_Night Elf_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_096_Female_Night Elf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_096.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_096_premium.gif"
   },
@@ -11303,7 +11303,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Twilight drakes feed on Mystical Energy.  And Tacos.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_EX1_043_TwilightDrake_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_EX1_043_TwilightDrake_Attack.ogg",
+    "AttackSound": "files/WoW_EX1_043_TwilightDrake_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_043.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_043_premium.gif"
   },
@@ -11314,7 +11314,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Just doesn't understand those Twilight Youngsters any more - with their comic books and their rock music.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_286_Male_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_286_Male_Gnome_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_286_Male_Gnome_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_286.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_286_premium.gif"
   },
@@ -11325,7 +11325,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TwilightElemental_OG_031a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/TwilightElemental_OG_031a_Attack.ogg",
+    "AttackSound": "files/TwilightElemental_OG_031a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_031a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_031a_premium.gif"
   },
@@ -11336,7 +11336,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Make sure you summon a Twilight Marshmallowcaller too! Mmmm Mmm Mmm!!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_083_Male_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_083_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_083_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_083.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_083_premium.gif"
   },
@@ -11347,7 +11347,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Ok C'Thun, repeat after me: 'Your mother was a hamster.'\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_284_Female_Orc_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_284_Female_Orc_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_284_Female_Orc_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_284.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_284_premium.gif"
   },
@@ -11358,7 +11358,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A result of magical experiments carried out by the Black Dragonflight, it's not his fault that he's a vicious killer.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_017_TwilightGuardian_Play_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/AT_017_TwilightGuardian_Attack_1.ogg",
+    "AttackSound": "files/AT_017_TwilightGuardian_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_017.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_017_premium.gif"
   },
@@ -11369,7 +11369,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you strike him down, he shall become more powerful than you can possibly imagine.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_272_Male_Troll_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_272_Male_Troll_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_272_Male_Troll_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_272.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_272_premium.gif"
   },
@@ -11380,7 +11380,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The twilight whelps are basically magic-vampires. Despite this, they are not a reference to any popular series of novels.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_BRM_004_Twilight_Whelp_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_BRM_004_Twilight_Whelp_Attack.ogg",
+    "AttackSound": "files/SFX_BRM_004_Twilight_Whelp_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_004.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_004_premium.gif"
   },
@@ -11391,7 +11391,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Do they make decisions based on age? \"I'm two minutes older therefore we burn this village.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_131_Male_Qiraji_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_131_Male_Qiraji_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_131_Male_Qiraji_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_131.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_131_premium.gif"
   },
@@ -11402,7 +11402,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_319_Male_Giant_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_319_Male_Giant_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_319_Male_Giant_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_319.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_319_premium.gif"
   },
@@ -11413,7 +11413,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Sometimes the Old Gods' corruptions gives you power untold, sometimes you get +1 Attack. We can’t all be winners in the Eldritch lottery.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_247_Male_Worgen_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_247_Male_Worgen_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_247_Male_Worgen_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_247.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_247_premium.gif"
   },
@@ -11424,7 +11424,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Millennia of evolutionary pressures turned his species into the Faerie Dragons we know today.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Tyrantus_UNG_852_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Tyrantus_UNG_852_Attack.ogg",
+    "AttackSound": "files/Tyrantus_UNG_852_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_852.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_852_premium.gif"
   },
@@ -11435,7 +11435,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Evolved the really long neck to spy on its neighbors.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_806_Ultrasaur_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_806_Ultrasaur_Attack.ogg",
+    "AttackSound": "files/UNG_806_Ultrasaur_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_806.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_806_premium.gif"
   },
@@ -11446,7 +11446,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Unlike bound elementals, Unbound ones really enjoy a night on the town.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_258_Unbound_Elemental_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_258_Unbound_Elemental_Attack3.ogg",
+    "AttackSound": "files/EX1_258_Unbound_Elemental_Attack3.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_258.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_258_premium.gif"
   },
@@ -11457,7 +11457,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Psst! Wanna buy a random class card (from your opponent's class)?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_330_Male_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_330_Male_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_330_Male_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_330.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_330_premium.gif"
   },
@@ -11468,7 +11468,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Almost went to play for Stormwind before signing with Undercity.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_030_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_030_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_030_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_030.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_030_premium.gif"
   },
@@ -11479,7 +11479,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX7_02_Attack_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX7_02_Attack_01.ogg",
+    "AttackSound": "files/VO_NAX7_02_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX7_02.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX7_02.png"
   },
@@ -11490,7 +11490,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "In a world where you can run to a spirit healer and resurrect yourself, Undertakers do pretty light business.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_028_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_028_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_028_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_028.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_028_premium.gif"
   },
@@ -11501,7 +11501,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Still hunting for the ones who earthed him.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_019_UnearthedRaptor_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/LOE_019_UnearthedRaptor_Attack.ogg",
+    "AttackSound": "files/LOE_019_UnearthedRaptor_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_019.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_019_premium.gif"
   },
@@ -11512,7 +11512,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Get the ingredients wrong on ONE healing potion and they take your license. What a world!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_900_Male_Imp_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_900_Male_Imp_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_900_Male_Imp_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_900.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_900_premium.gif"
   },
@@ -11523,7 +11523,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_05_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_05_Attack_02.ogg",
+    "AttackSound": "files/VO_NAX8_05_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_05.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_05.png"
   },
@@ -11534,7 +11534,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_03_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_03_Attack_02.ogg",
+    "AttackSound": "files/VO_NAX8_03_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_03.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_03.png"
   },
@@ -11545,7 +11545,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_04_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX8_04_Attack_02.ogg",
+    "AttackSound": "files/VO_NAX8_04_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_04.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX8_04.png"
   },
@@ -11556,7 +11556,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Filling your Ghouls with Rocket Fuel is all the rage at Necromancer school.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_024_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_024_Attack.ogg",
+    "AttackSound": "files/SFX_FP1_024_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_024.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_024_premium.gif"
   },
@@ -11567,7 +11567,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's the same as the previous generation but they slapped the word \"upgraded\" on it to sell it for double.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_083_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_083_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_083_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_083.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_083_premium.gif"
   },
@@ -11578,7 +11578,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Nothing unburdens your soul like a good ushing!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_302_Female_Gnome_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_302_Female_Gnome_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_302_Female_Gnome_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_302.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_302_premium.gif"
   },
@@ -11589,7 +11589,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_111t_Play_05.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_111t_Attack_06.ogg",
+    "AttackSound": "files/VO_GVG_111t_Attack_06.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_111t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_111t_premium.gif"
   },
@@ -11600,7 +11600,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMC_97_Vaelastrasz_Play_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMC_97_Vaelastrasz_Attack_1.ogg",
+    "AttackSound": "files/BRMC_97_Vaelastrasz_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMC_97.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMC_97.png"
   },
@@ -11611,7 +11611,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA08_017_Female_ValKyr_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA08_017_Female_ValKyr_Attack_01.ogg",
+    "AttackSound": "files/VO_ICCA08_017_Female_ValKyr_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA08_017.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA08_017.png"
   },
@@ -11622,7 +11622,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "My Ghoul friend is back and you're gonna be in trouble.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_408_Female_ValKyr_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_408_Female_ValKyr_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_408_Female_ValKyr_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_408.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_408_premium.gif"
   },
@@ -11633,7 +11633,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Really feels good about himself and is in a much better place now. But… he sure does miss piloting those shredders.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_200_Male_BloodElf_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_200_Male_BloodElf_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_200_Male_BloodElf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_200.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_200_premium.gif"
   },
@@ -11644,7 +11644,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA10_001_Female_GreenDragon_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA10_001_Female_GreenDragon_Attack_02.ogg",
+    "AttackSound": "files/VO_ICCA10_001_Female_GreenDragon_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA10_001.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA10_001.png"
   },
@@ -11655,7 +11655,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Leader of the Alliance!  Father of Anduin!  Also he likes to play Arena, and he averages 12 wins.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_072_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_072_ATTACK_03.ogg",
+    "AttackSound": "files/VO_AT_072_ATTACK_03.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_072.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_072_premium.gif"
   },
@@ -11666,7 +11666,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Eight times the death of regular-mancers.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_032_Female_Nerubian_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_032_Female_Nerubian_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_032_Female_Nerubian_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_032.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_032_premium.gif"
   },
@@ -11677,7 +11677,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "No Job is too big.  No fee is too big.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_227_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_227_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_227_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_227.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_227_premium.gif"
   },
@@ -11688,7 +11688,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Always sticking its neck into other people’s business.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_100_VerdantMegasaur_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_100_VerdantMegasaur_Attack.ogg",
+    "AttackSound": "files/UNG_100_VerdantMegasaur_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_100.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_100_premium.gif"
   },
@@ -11699,7 +11699,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "A youngster who is truly hungry for self-improvement.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_075_HungryFledgling_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_075_HungryFledgling_Attack.ogg",
+    "AttackSound": "files/UNG_075_HungryFledgling_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_075.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_075_premium.gif"
   },
@@ -11710,7 +11710,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Nobody expects the Vilefin Inquisition!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VilefinInquisitor_OG_006_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VilefinInquisitor_OG_006_Attack.ogg",
+    "AttackSound": "files/VilefinInquisitor_OG_006_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_006.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_006_premium.gif"
   },
@@ -11721,7 +11721,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "'Cause slayers gonna slay, slay, slay, slay, slay.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VilespineSlayer_UNG_064_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VilespineSlayer_UNG_064_Attack.ogg",
+    "AttackSound": "files/VilespineSlayer_UNG_064_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_064.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_064_premium.gif"
   },
@@ -11732,7 +11732,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_026t_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_026t_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_026t_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_026t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_026t_premium.gif"
   },
@@ -11743,7 +11743,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She’s much more cheerful after losing the ‘n’ in her name.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_712_Female_Human_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_712_Female_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_712_Female_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_712.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_712_premium.gif"
   },
@@ -11754,7 +11754,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you don't pay attention, you may be turned into a pig.  And then you get your name on the board.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_026_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_026_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_026_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_026.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_026_premium.gif"
   },
@@ -11765,7 +11765,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "There is no carrot.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_816_Male_Vermin_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_816_Male_Vermin_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_816_Male_Vermin_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_816.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_816_premium.gif"
   },
@@ -11776,7 +11776,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You can usually find these at the totemist's market on Saturdays.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_039_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_GVG_039_Attack.ogg",
+    "AttackSound": "files/SFX_GVG_039_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_039.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_039_premium.gif"
   },
@@ -11787,7 +11787,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "We like to call him \"Wesley\".",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_023_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_023_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_023_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_023.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_023_premium.gif"
   },
@@ -11798,7 +11798,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you put this into your deck, you WILL lose the trust of your other minions.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_304_VoidTerror_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/EX1_304_VoidTerror_Attack.ogg",
+    "AttackSound": "files/EX1_304_VoidTerror_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_304.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_304_premium.gif"
   },
@@ -11809,7 +11809,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "\"Void!  Here, void!  Here, buddy!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_022_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_022_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_022_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_022.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_022_premium.gif"
   },
@@ -11820,7 +11820,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "No relation to \"The Voidsteppers\", the popular Void-based dance troupe.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_065_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CS2_065_Attack_02.ogg",
+    "AttackSound": "files/VO_CS2_065_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_065.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_065_premium.gif"
   },
@@ -11831,7 +11831,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Vol'jin is a shadow hunter, which is like a shadow priest except more voodoo.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_014_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_014_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_014_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_014.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_014_premium.gif"
   },
@@ -11842,7 +11842,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Currently in an anger management class with Raging Worgen, Grommash Hellscream, and The Angry Chicken. It isn't helping.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_818_Male_Elemental_Play_03.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_UNG_818_Male_Elemental_Attack_02.ogg",
+    "AttackSound": "files/VO_UNG_818_Male_Elemental_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_818.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_818_premium.gif"
   },
@@ -11853,7 +11853,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Volcanic Drakes breathe lava instead of fire. The antacid vendor at Thorium Point does a brisk business with them.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_025_VolcanicDrake_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_025_VolcanicDrake_Attack_1.ogg",
+    "AttackSound": "files/BRM_025_VolcanicDrake_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_025.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_025_premium.gif"
   },
@@ -11864,7 +11864,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The roots, the roots, the roots is on fire!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_009_VolcanicLumberer_Play_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRM_009_VolcanicLumberer_Attack_1.ogg",
+    "AttackSound": "files/BRM_009_VolcanicLumberer_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRM_009.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/BRM_009_premium.gif"
   },
@@ -11875,7 +11875,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Always fun to say out loud \"VOL-CA-NO-SAUUUR!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_002_Volcanosaur_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/UNG_002_Volcanosaur_Attack.ogg",
+    "AttackSound": "files/UNG_002_Volcanosaur_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/UNG_002.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_002_premium.gif"
   },
@@ -11886,7 +11886,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Voodoo is an oft-misunderstood art. But it \u003ci\u003eis\u003c/i\u003e art.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_011_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_011_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_011_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_011.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_011_premium.gif"
   },
@@ -11897,7 +11897,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's pronounced VERY GHOUL. Don't let anyone tell you different.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_067_Male_Vargul_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_067_Male_Vargul_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_067_Male_Vargul_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_067.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_067_premium.gif"
   },
@@ -11908,7 +11908,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "This soul just \u003ci\u003ewails\u003c/i\u003e on you. Dang, soul, let up already.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FP1_016_WailingSoul_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/FP1_016_WailingSoul_Attack.ogg",
+    "AttackSound": "files/FP1_016_WailingSoul_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_016.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_016_premium.gif"
   },
@@ -11919,7 +11919,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Golems are not afraid, but for some reason they still run when you cast Fear on them.  Instinct, maybe?  A desire to blend in?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_186_War_Golem_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_186_War_Golem_Attack3.ogg",
+    "AttackSound": "files/CS2_186_War_Golem_Attack3.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_186.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_186_premium.gif"
   },
@@ -11930,7 +11930,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_099t_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_AT_099t_Attack.ogg",
+    "AttackSound": "files/SFX_AT_099t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_099t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_099t_premium.gif"
   },
@@ -11941,7 +11941,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Mass production of warbots was halted when it was discovered that they were accidentally being produced at \"sample size.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_051_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_051_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_051_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_051.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_051_premium.gif"
   },
@@ -11952,7 +11952,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He doesn't even get Sundays off.  Every day he's hostling.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_075_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_075_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_075_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_075.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_075_premium.gif"
   },
@@ -11963,7 +11963,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA01_011_Female_Troll_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICCA01_011_Female_Troll_Attack_01.ogg",
+    "AttackSound": "files/VO_ICCA01_011_Female_Troll_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA01_011.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICCA01_011.png"
   },
@@ -11974,7 +11974,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Warsong clan is \u003ci\u003esuch drama\u003c/i\u003e. It's really not worth it to become a commander.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_084_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_084_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_084_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_084.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_084_premium.gif"
   },
@@ -11985,7 +11985,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't summon a water elemental at a party.  It'll dampen the mood.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_033_Play_WaterElemental.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_033_Attack_WaterElemental.ogg",
+    "AttackSound": "files/CS2_033_Attack_WaterElemental.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_033.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_033_premium.gif"
   },
@@ -11996,7 +11996,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He's the reason the First Bank of Gadgetzan has steel floors.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_095_Male_Weasel_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_095_Male_Weasel_Attack.ogg",
+    "AttackSound": "files/VO_CFM_095_Male_Weasel_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_095.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_095_premium.gif"
   },
@@ -12007,7 +12007,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Spider cocoons are like little piñatas!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_011_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_FP1_011_Attack.ogg",
+    "AttackSound": "files/SFX_FP1_011_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_011.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_011_premium.gif"
   },
@@ -12018,7 +12018,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Bane of spellcasters and spelling bees everywhere.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_122_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_122_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_122_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_122.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_122_premium.gif"
   },
@@ -12029,7 +12029,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ds1_whelptoken_Whelp_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/ds1_whelptoken_Whelp_Attack1.ogg",
+    "AttackSound": "files/ds1_whelptoken_Whelp_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ds1_whelptoken.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ds1_whelptoken_premium.gif"
   },
@@ -12040,7 +12040,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Whelp_KAR_010a_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Whelp_KAR_010a_Attack.ogg",
+    "AttackSound": "files/Whelp_KAR_010a_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_010a.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_010a_premium.gif"
   },
@@ -12051,7 +12051,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_BRM_022t_BlackWhelp_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_BRM_022t_BlackWhelp_Attack.ogg",
+    "AttackSound": "files/SFX_BRM_022t_BlackWhelp_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA09_2t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA09_2t.png"
   },
@@ -12062,7 +12062,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA13_7_WhirlingAsh_EnterPlay_1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/BRMA13_7_WhirlingAsh_Attack_1.ogg",
+    "AttackSound": "files/BRMA13_7_WhirlingAsh_Attack_1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA13_7.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/BRMA13_7.png"
   },
@@ -12073,7 +12073,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you pay a little extra, you can get it in \"candy-apple red.\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_037_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_GVG_037_Attack_02.ogg",
+    "AttackSound": "files/VO_GVG_037_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/GVG_037.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_037_premium.gif"
   },
@@ -12084,7 +12084,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A10_05_Male_ChessPiece_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_A10_05_WhiteKnight_Attack_01.ogg",
+    "AttackSound": "files/KAR_A10_05_WhiteKnight_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_05.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_05.png"
   },
@@ -12095,7 +12095,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "My life for Aya!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_324_Male_Pandaren_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_324_Male_Pandaren_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_324_Male_Pandaren_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_324.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_324_premium.gif"
   },
@@ -12106,7 +12106,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A10_02_Male_ChessPiece_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A10_02_Male_ChessPiece_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_A10_02_Male_ChessPiece_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_02.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_A10_02_premium.gif"
   },
@@ -12117,7 +12117,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A10_09_Female_ChessPiece_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_A10_09_Female_ChessPiece_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_A10_09_Female_ChessPiece_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_09.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_09.png"
   },
@@ -12128,7 +12128,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Minion_SFX_WhiteRook_KAR_A10_04_Play_06.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Minion_SFX_WhiteRook_KAR_A10_04_Play_06.ogg",
+    "AttackSound": "files/Minion_SFX_WhiteRook_KAR_A10_04_Play_06.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_04.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_A10_04.png"
   },
@@ -12139,7 +12139,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's minions like these that give normal, law-abiding skeletons a bad rap.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_904_Female_Skeleton_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_904_Female_Skeleton_Attack_02.ogg",
+    "AttackSound": "files/VO_ICC_904_Female_Skeleton_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_904.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_904_premium.gif"
   },
@@ -12150,7 +12150,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "You can easily defeat her by either dealing 4 damage, or dropping a house on her.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_021_Female_Troll_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_KAR_021_Female_Troll_Attack_01.ogg",
+    "AttackSound": "files/VO_KAR_021_Female_Troll_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_021.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_021_premium.gif"
   },
@@ -12161,7 +12161,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Wickerflame spent years as a recruit for the Goons, never making the big-time because he always fired his chest-cannon too slowly.  \"Hey,\" he thought, \"maybe if I keep my beard lit on fire, I can do this faster.\"  BOOM, promoted.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_815_Male_Dwarf_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_815_Male_Dwarf_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_815_Male_Dwarf_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_815.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_815_premium.gif"
   },
@@ -12172,7 +12172,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "BOOM BABY BOOM!  BAD IS GOOD!  DOWN WITH GOVERNMENT!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_020_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NEW1_020_Attack_02.ogg",
+    "AttackSound": "files/VO_NEW1_020_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NEW1_020.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_020_premium.gif"
   },
@@ -12183,7 +12183,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She was born to be something.  She is just not quite sure what yet...",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_040_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_040_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_040_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_040.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_040_premium.gif"
   },
@@ -12194,7 +12194,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "He can summon anything, even a FEARSOME DOOMGUARD*.\n\n*He's pretty sure this is going to work out.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_027_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_027_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_027_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_027.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_027_premium.gif"
   },
@@ -12205,7 +12205,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Don't blame the bot for his crimes...  Blame whoever keeps winding him up!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_025_Male_Mech_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_025_Male_Mech_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_025_Male_Mech_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_025.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_025_premium.gif"
   },
@@ -12216,7 +12216,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Harpies are not pleasant sounding.  That's the nicest I can put it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_033_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_EX1_033_Attack.ogg",
+    "AttackSound": "files/SFX_EX1_033_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_033.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_033_premium.gif"
   },
@@ -12227,7 +12227,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Is there anything worse than a Windspeaker with halitosis?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_587_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_587_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_587_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_587.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_587_premium.gif"
   },
@@ -12238,7 +12238,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you hit an Eredar Lord with enough Wisps, it will explode.   But why?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_231_Wisp_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_231_Wisp_Attack2.ogg",
+    "AttackSound": "files/CS2_231_Wisp_Attack2.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_231.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_231_premium.gif"
   },
@@ -12249,7 +12249,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_195c_EvilWisp_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/OG_195c_EvilWisp_Attack.ogg",
+    "AttackSound": "files/OG_195c_EvilWisp_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_195c.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_195c_premium.gif"
   },
@@ -12260,7 +12260,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The fourth one fell off in a tragic accident.  They don't talk about it.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_089_Play2_06.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_LOE_089_Attack_Trio.ogg",
+    "AttackSound": "files/VO_LOE_089_Attack_Trio.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/LOE_089.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOE_089_premium.gif"
   },
@@ -12271,7 +12271,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Orcish raiders ride wolves because they are well adapted to harsh environments, and because they are soft and cuddly.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_124_Wolf_EnterPlay_00.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_124_Wolf_Attack_00.ogg",
+    "AttackSound": "files/SFX_CS2_124_Wolf_Attack_00.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_124.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_124_premium.gif"
   },
@@ -12282,7 +12282,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Hair products are 79% of his monthly budget.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_665_Male_Worgen_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_665_Male_Worgen_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_665_Male_Worgen_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_665.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_665_premium.gif"
   },
@@ -12293,7 +12293,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you want to stop a worgen from infiltrating, just yell, \"No! Bad boy!\"",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_010_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_010_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_010_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_010.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_010_premium.gif"
   },
@@ -12304,7 +12304,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX2_05_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_NAX2_05_Attack_02.ogg",
+    "AttackSound": "files/VO_NAX2_05_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX2_05.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/NAX2_05.png"
   },
@@ -12315,7 +12315,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_EX1_317t_Worthless_Imp_EnterPlay.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/WoW_EX1_317t_Worthless_Imp_Attack.ogg",
+    "AttackSound": "files/WoW_EX1_317t_Worthless_Imp_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_317t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_317t_premium.gif"
   },
@@ -12326,7 +12326,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_052_Play_WrathofAirTotem.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/SFX_CS2_052_Attack_00.ogg",
+    "AttackSound": "files/SFX_CS2_052_Attack_00.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_052.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_052_premium.gif"
   },
@@ -12337,7 +12337,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "After playing against 5 Annoy-O-Trons, any normal guard will become a Wrathguard.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_026_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_026_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_026_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_026.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_026_premium.gif"
   },
@@ -12348,7 +12348,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Wrathion, son of Deathwing, is a dragon.  Why isn't he tagged as a dragon, you ask?  WHAT, ARE YOU TRYING TO BLOW HIS COVER??",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_806_Male_Human_Play_02.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_CFM_806_Male_Human_Attack_01.ogg",
+    "AttackSound": "files/VO_CFM_806_Male_Human_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_806.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_806_premium.gif"
   },
@@ -12359,7 +12359,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "If you ever tried to plow permafrost, you’d be wretched, too.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_468_Male_Undead_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_ICC_468_Male_Undead_Attack_01.ogg",
+    "AttackSound": "files/VO_ICC_468_Male_Undead_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_468.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_468_premium.gif"
   },
@@ -12370,7 +12370,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Keeping tabs on the Grand Tournament is priority #1 for the five mighty Dragonflights!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_116_PLAY_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_AT_116_ATTACK_02.ogg",
+    "AttackSound": "files/VO_AT_116_ATTACK_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/AT_116.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/AT_116_premium.gif"
   },
@@ -12381,7 +12381,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "It's basically your own fault if you go around drinking weird green potions handed out by creepy mantid dudes.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_080_Male_Klaxxi_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_080_Male_Klaxxi_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_080_Male_Klaxxi_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_080.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_080_premium.gif"
   },
@@ -12392,7 +12392,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "When he's working out, he binds all that rage back into a ponytail.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_254_Androgynous _Faceless_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_042_Male_OldGod_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_042_Male_OldGod_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_042.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_042_premium.gif"
   },
@@ -12403,7 +12403,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "I spell your doom... Y-O-U-R D-O-O-M!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_134_Male_OldGod_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_134_Male_OldGod_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_134_Male_OldGod_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_134.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_134_premium.gif"
   },
@@ -12414,7 +12414,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "They were the inspiration for the championship Taurenball team: The Dragonhawks.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_169_Young_Dragonhawk_EnterPlay1.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/CS2_169_Young_Dragonhawk_Attack1.ogg",
+    "AttackSound": "files/CS2_169_Young_Dragonhawk_Attack1.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CS2_169.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_169_premium.gif"
   },
@@ -12425,7 +12425,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "She can't wait to learn Power Word: Fortitude Rank 2.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_004_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_004_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_004_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_004.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_004_premium.gif"
   },
@@ -12436,7 +12436,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "His youthful enthusiasm doesn’t always equal excellence in his brews.   Don’t drink the Mogu Stout!",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_049_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_049_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_049_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_049.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_049_premium.gif"
   },
@@ -12447,7 +12447,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ysera rules the Emerald Dream.  Which is some kind of green-mirror-version of the real world, or something?",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_572_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_EX1_572_Attack_02.ogg",
+    "AttackSound": "files/VO_EX1_572_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/EX1_572.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_572_premium.gif"
   },
@@ -12458,7 +12458,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Ok, Initiate. You need to settle down and do your job. In this case, that means die so someone else can get a minor buff.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_158_Male_Faceless_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_OG_158_Male_Faceless_Attack_01.ogg",
+    "AttackSound": "files/VO_OG_158_Male_Faceless_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/OG_158.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_158_premium.gif"
   },
@@ -12469,7 +12469,7 @@ var cards = [
     "collectible": false,
     "flavor_text": "",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Zombeast_ICC_800h3t_Play.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/Zombeast_ICC_800h3t_Attack.ogg",
+    "AttackSound": "files/Zombeast_ICC_800h3t_Attack.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_800h3t.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/ICC_800h3t.png"
   },
@@ -12480,7 +12480,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "Zombie.  It's what's for dinner.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_001_EnterPlay_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/VO_FP1_001_Attack_02.ogg",
+    "AttackSound": "files/VO_FP1_001_Attack_02.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/FP1_001.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/FP1_001_premium.gif"
   },
@@ -12491,7 +12491,7 @@ var cards = [
     "collectible": true,
     "flavor_text": "The Murloc is taking the picture.",
     "PlaySound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_095_Zoobot-201_Play_01.ogg",
-    "AttackSound": "http://media.services.zam.com/v1/media/byName/hs/sounds/enus/KAR_095_Zoobot-201_Attack_01.ogg",
+    "AttackSound": "files/KAR_095_Zoobot-201_Attack_01.ogg",
     "Image": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/KAR_095.png",
     "GoldImage": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_095_premium.gif"
   }
