@@ -28,10 +28,10 @@ type Card struct {
 		Type string `json:"type"`
 		URL  string `json:"url"`
 	} `json:"media,omitempty"`
-	PlaySound   string
-	AttackSound string
-	Image       string
-	GoldImage   string
+	PlaySound   string `json:"play_sound"`
+	AttackSound string `json:"attack_sound"`
+	Image       string `json:"image"`
+	GoldImage   string `json:"gold_image"`
 }
 
 var cardLookup = map[string]*Card{}
@@ -101,7 +101,7 @@ func main() {
 	}
 	f, err := os.Create("src/cards.ts")
 	check(err)
-	f.WriteString("var cards = ")
+	f.WriteString(tsHeader)
 	enc := json.NewEncoder(f)
 	enc.SetIndent("", "  ")
 	check(enc.Encode(allCards))
@@ -126,3 +126,24 @@ func getFile(i int, name string) string {
 	}
 	return path.Join("files", last)
 }
+
+const tsHeader = `export interface Card {
+	card_id: string;
+	set: string;
+	name: string;
+	collectible: boolean;
+	flavor_text: string;
+	play_sound: string;
+	attack_sound: string;
+	image: string;
+	gold_image: string;
+  }
+  export function getCard(name: string): Card {
+	for (var card of cards) {
+	  if (card.name == name) {
+		return card;
+	  }
+	}
+	return null;
+  }
+  export var cards: Card[] =`

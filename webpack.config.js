@@ -7,7 +7,7 @@ module.exports = {
         filename: 'bundle.js'
     },
     resolve: {
-        extensions: [ '.ts', '.tsx']
+        extensions: [ '.ts', '.tsx'],
     },
     module: {
         loaders: [

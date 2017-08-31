@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/captncraig/hearthMemes#readme",
   "dependencies": {
+    "howler": "^2.0.4",
+    "linkstate": "^1.0.1",
     "preact": "^8.2.5",
     "preact-router": "^2.5.7",
     "ts-loader": "^2.3.4",

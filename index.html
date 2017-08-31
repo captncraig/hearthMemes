@@ -1,48 +1,78 @@
 <!doctype html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Heathstone Meme Page Generator!</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Heathstone Meme Page Generator!</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
     crossorigin="anonymous">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r"
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r"
     crossorigin="anonymous">
-     <!-- Start Single Page Apps for GitHub Pages -->
-     <script type="text/javascript">
-        // Single Page Apps for GitHub Pages
-        // https://github.com/rafrex/spa-github-pages
-        // Copyright (c) 2016 Rafael Pedicini, licensed under the MIT License
-        // ----------------------------------------------------------------------
-        // This script checks to see if a redirect is present in the query string
-        // and converts it back into the correct url and adds it to the
-        // browser's history using window.history.replaceState(...),
-        // which won't cause the browser to attempt to load the new url.
-        // When the single page app is loaded further down in this file,
-        // the correct url will be waiting in the browser's history for
-        // the single page app to route accordingly.
-        (function(l) {
-          if (l.search) {
-            var q = {};
-            l.search.slice(1).split('&').forEach(function(v) {
-              var a = v.split('=');
-              q[a[0]] = a.slice(1).join('=').replace(/~and~/g, '&');
-            });
-            if (q.p !== undefined) {
-              window.history.replaceState(null, null,
-                l.pathname.slice(0, -1) + (q.p || '') +
-                (q.q ? ('?' + q.q) : '') +
-                l.hash
-              );
-            }
-          }
-        }(window.location))
-      </script>
-      <!-- End Single Page Apps for GitHub Pages -->
+  <!-- Start Single Page Apps for GitHub Pages -->
+  <script type="text/javascript">
+    // Single Page Apps for GitHub Pages
+    // https://github.com/rafrex/spa-github-pages
+    // Copyright (c) 2016 Rafael Pedicini, licensed under the MIT License
+    // ----------------------------------------------------------------------
+    // This script checks to see if a redirect is present in the query string
+    // and converts it back into the correct url and adds it to the
+    // browser's history using window.history.replaceState(...),
+    // which won't cause the browser to attempt to load the new url.
+    // When the single page app is loaded further down in this file,
+    // the correct url will be waiting in the browser's history for
+    // the single page app to route accordingly.
+    (function (l) {
+      if (l.search) {
+        var q = {};
+        l.search.slice(1).split('&').forEach(function (v) {
+          var a = v.split('=');
+          q[a[0]] = a.slice(1).join('=').replace(/~and~/g, '&');
+        });
+        if (q.p !== undefined) {
+          window.history.replaceState(null, null,
+            l.pathname.slice(0, -1) + (q.p || '') +
+            (q.q ? ('?' + q.q) : '') +
+            l.hash
+          );
+        }
+      }
+    }(window.location))
+  </script>
+  <!-- End Single Page Apps for GitHub Pages -->
+  <style>
+    .card-image {
+      width: 190px;
+      height: 257px;
+      background-size: cover;
+      background-position: 50% 50%;
+      transition: .5s;
+    }
+
+    .card-image:hover {
+      cursor: pointer;
+      transform: scale(1.04)
+    }
+
+    .flex-ver {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .flex-hor {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+    }
+  </style>
 </head>
+
 <body>
-<div id="app"></div>
-<script src="/dist/bundle.js"></script>
+  <div id="app"></div>
+  <script src="/dist/bundle.js"></script>
 </body>
+
 </html>
