@@ -1,0 +1,5 @@
+:2015
+
+errors {
+	404 404.html # Not Found
+}

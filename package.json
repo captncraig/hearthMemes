@@ -18,6 +18,7 @@
   "homepage": "https://github.com/captncraig/hearthMemes#readme",
   "dependencies": {
     "preact": "^8.2.5",
+    "preact-router": "^2.5.7",
     "ts-loader": "^2.3.4",
     "typescript": "^2.6.0-dev.20170830",
     "webpack": "^3.5.5"
