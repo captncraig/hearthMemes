@@ -94,13 +94,12 @@ func main() {
 			break
 		}
 	}
-	for _, c := range allCards {
-		c.AttackSound = getFile(c.AttackSound)
-		c.PlaySound = getFile(c.PlaySound)
-		c.Image = getFile(c.Image)
-		c.GoldImage = getFile(c.GoldImage)
+	for i, c := range allCards {
+		c.AttackSound = getFile(i, c.AttackSound)
+		c.PlaySound = getFile(i, c.PlaySound)
+		c.Image = getFile(i, c.Image)
 	}
-	f, err := os.Create("cards.js")
+	f, err := os.Create("src/cards.ts")
 	check(err)
 	f.WriteString("var cards = ")
 	enc := json.NewEncoder(f)
@@ -110,12 +109,12 @@ func main() {
 	f.Close()
 }
 
-func getFile(name string) string {
+func getFile(i int, name string) string {
 	split := strings.Split(name, "/")
 	last := split[len(split)-1]
 	fname := filepath.Join("files", last)
 	if _, err := os.Stat(fname); os.IsNotExist(err) {
-		fmt.Println(fname)
+		fmt.Println(i, fname)
 		resp, err := http.Get(name)
 		check(err)
 		f, err := os.Create(fname)
