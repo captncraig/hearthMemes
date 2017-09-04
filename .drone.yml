@@ -6,3 +6,5 @@ pipeline:
   deploy:
     image: appleboy/drone-ssh
     host: ${DEPLOY_HOST}
+    username: ${DEPLOY_USER}
+    secrets: [DEPLOY_HOST, DEPLOY_USER]
