@@ -1,5 +1,5 @@
 pipeline:
   docker:
     image: plugins/docker
-    repo: captncraig/hearthCards
+    repo: captncraig/hscrds
     secrets: [ docker_username, docker_password ]
