@@ -1,0 +1,5 @@
+pipeline:
+  docker:
+    image: plugins/docker
+    repo: captncraig/hearthCards
+    secrets: [ docker_username, docker_password ]
