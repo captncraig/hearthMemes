@@ -3,3 +3,6 @@ pipeline:
     image: plugins/docker
     repo: captncraig/hscrds
     secrets: [ docker_username, docker_password ]
+  deploy:
+    image: appleboy/drone-ssh
+    host: ${DEPLOY_HOST}
