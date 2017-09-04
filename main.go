@@ -41,7 +41,7 @@ const mediaBase = "http://media.services.zam.com/v1/media/byName"
 
 // scrape card metadata from hearth-head
 func main() {
-	fmt.Println("!!!!!")
+	fmt.Println("!!!!!?")
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
 		w.Write([]byte("hello"))
 	})
