@@ -41,6 +41,11 @@ const mediaBase = "http://media.services.zam.com/v1/media/byName"
 
 // scrape card metadata from hearth-head
 func main() {
+	fmt.Println("!!!!!")
+	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		w.Write([]byte("hello"))
+	})
+	http.ListenAndServe(":8080", nil)
 	page := 1
 	for {
 		url := fmt.Sprintf("http://hearthstone.services.zam.com/v1/card?type=MINION,HERO&page=%d&pageSize=100", page)
