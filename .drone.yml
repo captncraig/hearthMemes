@@ -2,6 +2,7 @@ pipeline:
   docker:
     image: plugins/docker
     repo: captncraig/hscrds
+    pull: false
     secrets: [ docker_username, docker_password ]
   deploy:
     image: appleboy/drone-ssh
@@ -9,3 +10,6 @@ pipeline:
     username: ${DEPLOY_USER}
     key: ${SSH_KEY}
     secrets: [DEPLOY_HOST, DEPLOY_USER, SSH_KEY]
+    script:
+      - echo hello
+      - echo world
